@@ -7,16 +7,63 @@
     <title>Final Project</title>
     <link rel="stylesheet" href="style.css">
 
+    <!-- Boxicons CDN link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 </head>
 <body>
 
     <script src="script.js"></script>
 <!--Header-->
-
-
-
-
-
+<div class="sidebar">
+    <div class="logo_content">
+        <div class="logo">
+            <i class="fa-sharp fa-solid fa-earth-americas"></i>
+            <div class="logo_name"> TheereDays </div>
+        </div>
+        <i class="fa-solid fa-bars" id="btn" onclick="button()"></i>
+    </div>
+    <ul class="nav_list">
+        <li>
+            <i class="fa-sharp fa-solid fa-magnifying-glass" onclick="src()"></i>
+            <input type="text" placeholder="Ara...">
+            <span class="tooltip">Ara</span>
+        </li>
+        <li>
+            <a href="#">
+                <i class="fa-solid fa-house"></i>
+                <span class="links_name">Ana Sayfa</span>
+            </a>
+            <span class="tooltip">Ana Sayfa</span>
+        </li>
+        <li>
+            <a href="#">
+                <i class="fa-regular fa-circle-question"></i>
+                <span class="links_name">Hakkımızda</span>
+            </a>
+            <span class="tooltip">Hakkımızda</span>
+        </li>
+        <li>
+            <a href="#">
+                <i class="fa-brands fa-rocketchat"></i>
+                <span class="links_name">İletişim</span>
+            </a>
+            <span class="tooltip">İletişim</span>
+        </li>
+    </ul>
+    <div class="profile_content">
+        <div class="profile">
+            <div class="profile_details">
+                <img src="img/PP.jpg" alt="pp">
+                <div class="name_job">
+                    <div class="name">TheereDays</div>
+                    <div class="job">Web Desinger</div>
+                </div>
+            </div>
+            <i class="fa-solid fa-right-from-bracket" id="log_out"></i>
+        </div>
+    </div>
+</div>
 <!--Header-->
 
 
@@ -39,6 +86,7 @@
 
 <!--Footer-->
 
+<script src="script.js"></script>
 
 </body>
 </html>
