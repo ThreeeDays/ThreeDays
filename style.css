@@ -15,7 +15,6 @@
 
 /* Base Html Codes */
 body{
-    position: relative;
     width: 100%;
 }
 
@@ -197,6 +196,7 @@ p{
 
 
 /*Fotter End*/
+
 /* Responsive Start */
 @media (max-width:1048px) {
     .logo{
