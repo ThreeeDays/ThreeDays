@@ -1,12 +1,7 @@
-/* sonra */
-var btn=document.querySelector("#btn");
-var sidebar=document.querySelector(".sidebar");
-var search=document.querySelector(".fa-sharp");
+const nav= document.querySelector(".nav");
+const navMenu= document.querySelector(".nav-menu");
 
-function button(){
-    sidebar.classList.toggle("active");
-}
-
-function src(){
-    sidebar.classList.toggle("active");
-}
+nav.addEventListener("click",()=>{
+    nav.classList.toggle("active");
+    navMenu.classList.toggle("active");
+})
