@@ -147,7 +147,7 @@ p{
 .socials li{
     margin: 0 10px;
 }
-.socials li a{
+.socials li i{
     text-decoration: none;
     color: #fff;
     border: 1.1px solid white;
