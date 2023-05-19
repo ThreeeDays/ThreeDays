@@ -68,11 +68,17 @@ nav #world{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 60px;
+    gap: 50px;
+}
+
+.nav-menu .nav-item i{
+    display: none;
+    color: skyblue;
+    font-size: 15px;
 }
 
 .logoName{
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 .link{
@@ -327,16 +333,43 @@ p{
 /* Responsive Start */
 @media (max-width:1048px) {
     .logo{
-        font-size: 31px;
-        padding-left: 60px;
+        font-size: 30px;
     }
 
     .nav-menu{
         margin-right: 20px;
     }
 
-    a{
+    .nav-item a{
         font-size: 17px;
+    }
+}
+
+@media (max-width:950px) {
+    .logo{
+        font-size: 20px;
+    }
+
+    .nav-menu{
+        margin-right: 15px;
+    }
+
+    .nav-item a{
+        font-size: 15px;
+    }
+}
+
+@media (max-width:850px) {
+    .logo{
+        font-size: 15px;
+    }
+
+    .nav-menu{
+        margin-right: 10px;
+    }
+
+    .nav-item a{
+        font-size: 14px;
     }
 }
 
@@ -373,8 +406,16 @@ p{
         margin: 16px 0;
     }
 
+    .nav-item a{
+        font-size: 17px;
+    }
+
     .nav-menu.active{
         left: 0;
+    }
+
+    .nav-menu.active .nav-item i{
+        display: inline-block;
     }
 }
 
