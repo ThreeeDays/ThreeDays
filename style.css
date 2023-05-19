@@ -277,9 +277,6 @@ p{
     margin: 1rem 0 3rem 0;
 }
 
-.iletisim-bilgi li{
-    margin: 0 10px;
-}
 .iletisim-bilgi li i{
     text-decoration: none;
     color: #fff;
@@ -301,7 +298,7 @@ p{
 .ftr-menu ul li a{
     color: #cfd2d6;
     border: 1.3px solid white;
-    padding: 6px 15px;
+    padding: 6px 10px;
     border-radius: 50px;
     text-decoration: none;
 }
@@ -369,7 +366,7 @@ p{
     }
 
     .nav-item a{
-        font-size: 14px;
+        font-size: 14px;    
     }
 }
 
