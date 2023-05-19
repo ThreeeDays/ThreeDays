@@ -71,15 +71,15 @@ nav #world{
     gap: 60px;
 }
 
-.nav-branding{
+.logoName{
     font-size: 2rem;
 }
 
-.nav-link{
+.link{
     transition: 0.7s ease;
 }
 
-.nav-link:hover{
+.link:hover{
     color: skyblue;
 }
 
@@ -99,7 +99,7 @@ nav #world{
 /* Header End */
 
 /*Login Start*/
-.login{
+.giris{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -130,14 +130,14 @@ h2{
     text-align: center;
 }
 
-.inputbox{
+.input{
     position: relative;
     margin: 30px 0;
     width: 310px;
     border-bottom: 2px solid #fff;
 }
 
-.inputbox label{
+.input label{
     position: absolute;
     top: 50%;
     left: 5px;
@@ -153,7 +153,7 @@ input:valid ~ label{
     top: -5px;
 }
 
-.inputbox input{
+.input input{
     width: 100%;
     height: 50px;
     background: transparent;
@@ -164,7 +164,7 @@ input:valid ~ label{
     color: #fff;
 }
 
-.inputbox ion-icon{
+.input ion-icon{
     position: absolute;
     right: 8px;
     color: #fff;
@@ -214,20 +214,20 @@ button{
     color: darkgray;
 }
 
-.register{
+.kayıtOl{
     font-size: .9em;
     color: #fff;
     text-align: center;
     margin: 25px 0 10px;
 }
 
-.register p a{
+.kayıtOl p a{
     text-decoration: none;
     color: #fff;
     font-weight: 600;
 }
 
-.register p a:hover{
+.kayıtOl p a:hover{
     text-decoration: underline;
 }
 /*Login End*/
@@ -242,17 +242,13 @@ footer{
     padding-top: 40px;
     width: 100vw;
     color:white ;
-
-}
-
-.footer-content{
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     text-align: center;
-
 }
+
 h3{
     font-size: 2.1rem;
     font-weight: 500;
@@ -267,7 +263,7 @@ p{
     color: #cacdd2;
 }
 
-.socials{
+.iletisim-bilgi{
     list-style: none;
     display: flex;
     align-items: center;
@@ -275,10 +271,10 @@ p{
     margin: 1rem 0 3rem 0;
 }
 
-.socials li{
+.iletisim-bilgi li{
     margin: 0 10px;
 }
-.socials li i{
+.iletisim-bilgi li i{
     text-decoration: none;
     color: #fff;
     border: 1.1px solid white;
@@ -286,41 +282,41 @@ p{
     border-radius: 50%;
     width: 35px;
 }
-.footer-menu{
+.ftr-menu{
     margin-bottom: 20px;
 }
-.footer-menu ul{
+.ftr-menu ul{
     display: flex;
 }
-.footer-menu ul li{
+.ftr-menu ul li{
     padding-right: 10px;
     display: block;
 }
-.footer-menu ul li a{
+.ftr-menu ul li a{
     color: #cfd2d6;
     border: 1.3px solid white;
     padding: 6px 15px;
     border-radius: 50px;
     text-decoration: none;
 }
-.footer-menu ul li a:hover{
-    color: #27bcda;
+.ftr-menu ul li a:hover{
+    color: skyblue;
 }
-.footer-bottom{
+.ftr-bottom{
     background: #000;
     margin-top: 20px;
     width: 100vw;
     padding: 10px;
     text-align: center;
 }
-.footer-bottom p{
+.ftr-bottom p{
     text-align: center;
     font-size: 14px;
     word-spacing: 2px;
     text-transform: capitalize;
 }
-.footer-bottom p a{
-    color: #44bae8;
+.ftr-bottom p a{
+    color: skyblue;
     font-size: 16px;
     text-decoration: none;
 }
