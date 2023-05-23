@@ -14,6 +14,8 @@
 /* Base Html Codes */
 body{
     width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
 html::-webkit-scrollbar{
@@ -237,6 +239,41 @@ button{
 }
 /*Login End*/
 
+/*Background*/
+.World{
+    overflow: hidden;
+ width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.World video{
+  position: absolute;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  margin-top: -10px;
+  overflow: hidden;
+}
+.World .content{
+  position: relative;
+  max-width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Wallpoet', cursive;
+}
+.World .content h1{
+  margin: 0;
+  padding: 0;
+  font-size: 6em;
+  text-transform: uppercase;
+  color: #fff;
+  font-family: 'Wallpoet', cursive;
+}
+/*Background*/
+
 /*Fotter Start*/
 footer{
     bottom: 0;
@@ -283,6 +320,10 @@ p{
     padding: 8px;
     border-radius: 50%;
     width: 35px;
+}
+.iletisim-bilgi li i:hover{
+    color: skyblue;
+    border: 1.1px solid skyblue;
 }
 .ftr-menu{
     margin-bottom: 20px;
@@ -365,7 +406,7 @@ p{
     }
 
     .nav-item a{
-        font-size: 14px;    
+        font-size: 11px;    
     }
 }
 
@@ -387,15 +428,16 @@ p{
     }
 
     .nav-menu{
-        position: fixed;
+        position: absolute;
         left: -100%;
-        top: 70px;
+        top: 60px;
         gap: 0;
         flex-direction: column;
         background-color: rgb(33, 32, 32);
         width: 100%;
         text-align: center;
         transition: 0.3s;
+        z-index: 1;
     }
     
     .nav-item{
@@ -414,50 +456,4 @@ p{
         display: inline-block;
     }
 }
-
-
 /* Responsive End */
-
-
-
-/*Background*/
-
-
-
-.World{
-   
-      width: 100%;
-    height: 100vh;
-  
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.World video{
-    position: absolute;
-    object-fit: cover;
-    width: 100%;
-    height: 100%;
-    pointer-events: none;
-    margin-top: -20px;
-    overflow: hidden;
-}
-.World .content{
-    position: relative;
-    z-index: 1;
-    max-width: 1000px;
-    margin: 0 auto;
-    text-align: center;
-    font-family: 'Wallpoet', cursive;
-}
-.World .content h1{
-    margin: 0;
-    padding: 0;
-    font-size: 6em;
-    text-transform: uppercase;
-    color: #fff;
-    font-family: 'Wallpoet', cursive;
-}
-
-
-/*Background*/
