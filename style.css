@@ -1,14 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Poppins:wght@100;300;400;500;600&display=swap');
 
-/*
-    @import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Josefin+Sans:ital,wght@0,200;0,300;1,200;1,300&family=Poppins:wght@100;300;500;600&display=swap');
-*/
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
 
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Poppins",sans-serif;
+    font-family: 'Audiowide', cursive;
     list-style: none;
     text-decoration: none;
 }
@@ -30,6 +28,7 @@ html::-webkit-scrollbar-track{
 html::-webkit-scrollbar-thumb{
     border-radius: 3rem;
     background-color: black;
+    overflow: hidden;
 }
 /* Base Html Codes */
 
@@ -82,7 +81,7 @@ nav #world{
 }
 
 .link{
-    transition: 0.7s ease;
+    transition: 0.3s ease;
 }
 
 .link:hover{
@@ -418,3 +417,47 @@ p{
 
 
 /* Responsive End */
+
+
+
+/*Background*/
+
+
+
+.World{
+   
+      width: 100%;
+    height: 100vh;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.World video{
+    position: absolute;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    margin-top: -20px;
+    overflow: hidden;
+}
+.World .content{
+    position: relative;
+    z-index: 1;
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Wallpoet', cursive;
+}
+.World .content h1{
+    margin: 0;
+    padding: 0;
+    font-size: 6em;
+    text-transform: uppercase;
+    color: #fff;
+    font-family: 'Wallpoet', cursive;
+}
+
+
+/*Background*/
