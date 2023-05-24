@@ -45,6 +45,7 @@ header{
     border: 1px solid transparent;
     padding: 7px 10px;
     border-radius: 3px;
+    transition: 0.3s ease;
 }
 
 .navbar{
@@ -55,14 +56,20 @@ header{
     padding: 0 24px;
 }
 
-nav #world{
+.logo{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
     color: skyblue;
     margin-left: 10px;
     font-size: 35px;
     min-width: 50px;
     border-radius: 12px;
     line-height: 50px;
-    text-align: center;
+}
+
+#world{
+    font-size: 35px;
 }
 
 .nav-menu{
@@ -70,6 +77,7 @@ nav #world{
     justify-content: space-between;
     align-items: center;
     gap: 50px;
+    transition: 0.3s ease;
 }
 
 .nav-menu .nav-item i{
@@ -82,8 +90,8 @@ nav #world{
     font-size: 1.5rem;
 }
 
-.link{
-    transition: 0.3s ease;
+#actv{
+    color: skyblue;
 }
 
 .link:hover{
@@ -383,7 +391,7 @@ input:valid ~ label{
   width: 100%;
   height: 100%;
   pointer-events: none;
-  margin-top: -10px;
+  margin-top: -5px;
   overflow: hidden;
 }
 .World .content{
@@ -418,9 +426,11 @@ footer{
     justify-content: center;
     flex-direction: column;
     text-align: center;
+    padding: 10px;
 }
 
 h3{
+    color: skyblue;
     font-size: 2.1rem;
     font-weight: 500;
     text-transform: capitalize;
@@ -442,7 +452,11 @@ p{
     margin: 1rem 0 3rem 0;
 }
 
-.iletisim-bilgi li i{
+.iletisim-bilgi li a{
+    padding: 5px;
+}
+
+.iletisim-bilgi li a i{
     text-decoration: none;
     color: #fff;
     border: 1.1px solid white;
@@ -498,10 +512,6 @@ p{
 
 /* Responsive Start */
 @media (max-width:1048px) {
-    .logo{
-        font-size: 30px;
-    }
-
     .nav-menu{
         margin-right: 20px;
     }
@@ -512,10 +522,6 @@ p{
 }
 
 @media (max-width:950px) {
-    .logo{
-        font-size: 20px;
-    }
-
     .nav-menu{
         margin-right: 15px;
     }
@@ -551,10 +557,6 @@ p{
 }
 
 @media (max-width:850px) {
-    .logo{
-        font-size: 15px;
-    }
-
     .nav-menu{
         margin-right: 10px;
     }
@@ -608,6 +610,16 @@ p{
 
     .nav-menu.active .nav-item i{
         display: inline-block;
+    }
+}
+
+@media (max-width:576px) {
+    .ftr-menu ul{
+        display: block;
+    }
+
+    .ftr-menu ul li{
+        padding: 10px;
     }
 }
 /* Responsive End */
