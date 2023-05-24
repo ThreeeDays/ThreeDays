@@ -39,7 +39,7 @@ header{
     background-color: black;
 }
 
-a{
+.navbar a{
     color: white;
     font-size: 18px;
     border: 1px solid transparent;
@@ -204,7 +204,7 @@ input:valid ~ label{
     display: flex;
 }
 
-button{
+.giris button{
     width: 100%;
     height: 40px;
     border-radius: 40px;
@@ -238,6 +238,135 @@ button{
     text-decoration: underline;
 }
 /*Login End*/
+
+/*Contact Start*/
+.contact{
+    width: 100%;
+    height: 100vh;
+    display: block;
+    overflow: hidden;
+    background: url(img/bg2.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: #fff;
+    padding: 3rem;
+}
+
+.cntct{
+    display: flex;
+    justify-content: center;
+}
+
+.cntct .title{
+    font-size: 2.5rem;
+}
+
+.contact-left{
+    display: block;
+    width: 40%;
+    padding: 3rem;
+}
+
+.contact-left1{
+    padding-bottom: 2rem;
+    border-bottom: 2px solid #fff;
+}
+
+.contact-information{
+    margin: 0.5rem 0;
+    display: flex;
+    align-items: center;
+    font-size: 1.3rem;
+}
+
+.contact-information i{
+    color: #fff;
+    padding: 0.7rem;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    font-size: 1.5rem;
+    margin-right: 1rem;
+    transition: all 0.4s ease;
+}
+
+.contact-information i:hover{
+    color: skyblue;
+    border: 2px solid skyblue;
+}
+
+.contact-information a{
+    color: #fff;
+}
+
+.contact-left2{
+    padding-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contact-left2 a{
+    color: #fff;
+    width: 3rem;
+    height: 3rem;
+    line-height: 3rem;
+    text-align: center;
+    font-size: 1.5rem;
+    background-color: transparent;
+    backdrop-filter: blur(20px);
+    border-radius: 50%;
+    transition: all 0.4s ease;
+}
+
+.contact-left2 a:hover{
+    color: skyblue;
+}
+
+.contact-right{
+    width: 60%;
+    padding: 3rem;
+}
+
+.contact-right form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-right form input,textarea,button{
+    color: #fff;
+    width: 100%;
+    margin: 1rem 0;
+    background-color: transparent;
+    backdrop-filter: blur(10px);
+    font-size: 1.2rem;
+    padding: 0.5rem 1rem;
+    outline: none;
+    border: 1px solid #fff;
+    transition: all 0.4s ease;
+}
+
+.contact-right form input:hover ,textarea:hover{
+    color: #000;
+    background-color: #fff;
+}
+
+.contact-right form input:focus ,textarea:focus{
+    color: #000;
+    background-color: #fff;
+}
+
+.contact-right form button{
+    background-color: #000;
+    cursor: pointer;
+}
+
+.contact-right form button:hover{
+    color: #000;
+    background-color: #fff;
+}
+/*Contact End*/
 
 /*Background*/
 .World{
@@ -393,6 +522,31 @@ p{
 
     .nav-item a{
         font-size: 15px;
+    }
+    
+    .contact{
+        justify-content: center;
+        align-items: center;
+        height: 150vh;
+    }
+
+    .cntct{
+        display: grid;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .contact-left{
+        width: 100%;
+    }
+
+    .contact-left1{
+        border-bottom: 2px solid #000;
+    }
+
+    .contact-right{
+        width: 100%;
+        padding: 1.5rem;
     }
 }
 
