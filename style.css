@@ -418,10 +418,15 @@ input:valid ~ label{
 .World .content h1{
   margin: 0;
   padding: 0;
-  font-size: 6em;
+  font-size: 7em;
   text-transform: uppercase;
   color: #fff;
   font-family: 'Wallpoet', cursive;
+}
+.content p{
+    font-size: 30px;
+    font-family: 'Wallpoet', cursive;
+    color: aqua;
 }
 /*Background*/
 /*First İntro*/
@@ -570,6 +575,41 @@ footer.ftr-bottom p a{
 /*Fotter End*/
 
 /* Responsive Start */
+@media (max-width:1465px) {
+    
+    .intro img{
+        width: 620px;
+        height: 400px;
+    }
+}
+@media (max-width:1375px) {
+    
+    .intro img{
+        width: 520px;
+        height: 400px;
+    }
+}
+@media (max-width:1275px) {
+    
+    .intro img{
+        width: 420px;
+        height: 400px;
+    }
+}
+@media (max-width:1175px) {
+    
+    .intro img{
+        width: 320px;
+        height: 400px;
+    }
+}
+@media (max-width:1075px) {
+    
+    .intro img{
+       display: none;
+    }
+    
+}
 @media (max-width:1048px) {
     .nav-menu{
         margin-right: 20px;
@@ -578,6 +618,7 @@ footer.ftr-bottom p a{
     .nav-item a{
         font-size: 17px;
     }
+   
 }
 
 @media (max-width:950px) {
@@ -613,6 +654,7 @@ footer.ftr-bottom p a{
         width: 100%;
         padding: 1.5rem;
     }
+   
 }
 
 @media (max-width:850px) {
@@ -633,6 +675,13 @@ footer.ftr-bottom p a{
     .nav-item a{
         font-size: 13.2px;    
     }
+    .intro img{
+        display: none;
+         
+         }
+         .p-button a{
+            padding: 0.4 7em;
+         }
 }
 
 @media (max-width:768px) {
@@ -680,8 +729,23 @@ footer.ftr-bottom p a{
     .nav-menu.active .nav-item i{
         display: inline-block;
     }
+    .intro img{
+        display: none;
+         
+         }
+   
 }
 
+@media (max-width:750px){
+.p-button a{
+    padding: 0.4em 7.6em;
+    
+}
+.intro img{
+    display: none;
+     
+     }
+}
 @media (max-width:576px) {
     .ftr-menu ul{
         display: block;
@@ -690,8 +754,38 @@ footer.ftr-bottom p a{
     .ftr-menu ul li{
         padding: 10px;
     }
+   .intro .p-button a{
+        padding: 0.4em 4.5em;
+    }
+    .intro img{
+        display: none;
+         
+         }
    
 }
+@media (max-width:770px) {
+  
+    .p-button a{
+        padding: 0.4em 8em;
+    }
+    .intro img{
+        display: none;
+         
+         }
+}
+@media (max-width:720px) {
+  
+    .p-button a{
+        padding: 0.4em 7em;
+    }
+    .intro img{
+        display: none;
+         
+         }
+}
+
+
+
 /* Responsive End */
 
 
