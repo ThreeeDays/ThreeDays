@@ -424,13 +424,58 @@ input:valid ~ label{
   font-family: 'Wallpoet', cursive;
 }
 /*Background*/
+/*First İntro*/
+.İntros{
+    
+    
+    margin-top: -5px;
+    justify-content: center;
+    align-items: center;
+    
+    background: #090909;
 
+}
+.İntros img{
+   margin-left:20px;
+  border: 2px solid #ffffff;
+  border-radius: 20px;
+}
+
+.intro{
+    margin: 20px;
+    padding: 10px;
+   display: inline-flex;
+    color: #718aae;
+    
+    
+}
+.p-button a{
+    color: #000000;
+    font-size: 35px;
+    font-family:  'Wallpoet', cursive; 
+    background-color: #ffffff;
+  
+    padding:0.4em 8em;
+    border-radius: 30px;
+  
+    
+}
+
+/*First İntro*/
+
+/*World*/
+
+
+
+
+
+/*World*/
 /*Fotter Start*/
 footer{
     bottom: 0;
     left: 0;
     right: 0;
-    background: #111;
+    background: #000000;
     height: auto;
     padding-top: 40px;
     width: 100vw;
@@ -450,7 +495,7 @@ h3{
     text-transform: capitalize;
     line-height: 3rem;
 }
-p{
+footer p{
     max-width: 500px;
     margin: 10px auto;
     line-height: 28px;
@@ -509,13 +554,13 @@ p{
     padding: 10px;
     text-align: center;
 }
-.ftr-bottom p{
+footer.ftr-bottom p{
     text-align: center;
     font-size: 14px;
     word-spacing: 2px;
     text-transform: capitalize;
 }
-.ftr-bottom p a{
+footer.ftr-bottom p a{
     color: skyblue;
     font-size: 16px;
     text-decoration: none;
@@ -645,5 +690,10 @@ p{
     .ftr-menu ul li{
         padding: 10px;
     }
+   
 }
 /* Responsive End */
+
+
+
+
