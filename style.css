@@ -91,11 +91,11 @@ header{
 }
 
 #actv{
-    color: skyblue;
+    color: rgb(186, 138, 25);
 }
 
 .link:hover{
-    color: skyblue;
+    color: rgb(186, 138, 25);
 }
 
 .nav{
@@ -426,7 +426,7 @@ input:valid ~ label{
 .content p{
     font-size: 30px;
     font-family: 'Wallpoet', cursive;
-    color: aqua;
+    color: rgb(0, 0, 0);
 }
 /*Background*/
 /*First İntro*/
