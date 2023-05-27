@@ -121,7 +121,7 @@ header{
     min-height: 100vh;
     width: 100%;
     background: #00ff00;
-    background: url(img/bg2.jpg) no-repeat;
+    background: url(img/BalilAsmaBahçesi.jpg) no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -424,44 +424,7 @@ input:valid ~ label{
   font-family: 'Wallpoet', cursive;
 }
 /*Background*/
-/*First İntro*/
-.İntros{
-    
-    
-    margin-top: -5px;
-    justify-content: center;
-    align-items: center;
-    
-    background: #090909;
 
-}
-.İntros img{
-   margin-left:20px;
-  border: 2px solid #ffffff;
-  border-radius: 20px;
-}
-
-.intro{
-    margin: 20px;
-    padding: 10px;
-   display: inline-flex;
-    color: #718aae;
-    
-    
-}
-.p-button a{
-    color: #000000;
-    font-size: 35px;
-    font-family:  'Wallpoet', cursive; 
-    background-color: #ffffff;
-  
-    padding:0.4em 8em;
-    border-radius: 30px;
-  
-    
-}
-
-/*First İntro*/
 
 /*World*/
 
@@ -478,7 +441,7 @@ footer{
     background: #000000;
     height: auto;
     padding-top: 40px;
-    width: 100vw;
+    width: 100%;
     color:white ;
     display: flex;
     align-items: center;
@@ -550,7 +513,7 @@ footer p{
 .ftr-bottom{
     background: #000;
     margin-top: 20px;
-    width: 100vw;
+    width: 100%;
     padding: 10px;
     text-align: center;
 }
@@ -569,7 +532,81 @@ footer.ftr-bottom p a{
 
 /*Fotter End*/
 
+
+/*First İntro*/
+.İntros{
+    width: 100%;
+    margin: auto;
+    padding: 20px;
+    margin-top: -5px;
+    background: #201f1f;
+}
+
+.intro{
+    width: 100%;
+    padding: 20px;
+    color: #718aae;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.İntros img{
+    margin-left:10px;
+   border: 2px solid #ffffff;
+   border-radius: 20px;
+   width: 60%;
+   height: auto;
+}
+
+.p-button{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+
+.p-button p{
+    font-size: 20px;
+}
+
+.btn a{
+    margin-top: 10px;
+    color: #000000;
+    font-size: 35px;
+    font-family:  'Wallpoet', cursive; 
+    background-color: #ffffff;
+    padding:0.4em 120px;
+    border-radius: 30px;
+}
+/*First İntro*/
+
+#map{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    padding: 15px;
+    background-color: #201f1f;
+    margin-top: -2.5px;
+}
+
 /* Responsive Start */
+@media (max-width:1050px){
+    .intro{
+        width: 100%;
+        display: grid;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .İntros img{
+        width: 100%;
+        height: auto;
+        margin-top: 20px;
+    }
+}
+
 @media (max-width:1048px) {
     .nav-menu{
         margin-right: 20px;
