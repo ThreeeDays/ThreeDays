@@ -82,7 +82,7 @@ header{
 
 .nav-menu .nav-item i{
     display: none;
-    color: skyblue;
+    color: rgb(79, 105, 200);
     font-size: 15px;
 }
 
@@ -91,11 +91,11 @@ header{
 }
 
 #actv{
-    color: rgb(186, 138, 25);
+    color: rgb(79, 105, 200);
 }
 
 .link:hover{
-    color: rgb(186, 138, 25);
+    color:  rgb(79, 105, 200);
 }
 
 .nav{
@@ -534,7 +534,9 @@ footer.ftr-bottom p a{
     text-decoration: none;
 }
 
-
+#name{
+    color: skyblue;
+}
 /*Fotter End*/
 
 
@@ -585,53 +587,22 @@ footer.ftr-bottom p a{
 }
 /*First İntro*/
 
-#map{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: auto;
-    padding: 15px;
-    background-color: #201f1f;
-    margin-top: -2.5px;
+/* Responsive Start */
+@media (max-width:1050px) {
+    .intro{
+        width: 100%;
+        display: grid;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .İntros img{
+        width: 100%;
+        height: auto;
+        margin-top: 20px;
+    }
 }
 
-/* Responsive Start */
-@media (max-width:1465px) {
-    
-    .intro img{
-        width: 620px;
-        height: 400px;
-    }
-}
-@media (max-width:1375px) {
-    
-    .intro img{
-        width: 520px;
-        height: 400px;
-    }
-}
-@media (max-width:1275px) {
-    
-    .intro img{
-        width: 420px;
-        height: 400px;
-    }
-}
-@media (max-width:1175px) {
-    
-    .intro img{
-        width: 320px;
-        height: 400px;
-    }
-}
-@media (max-width:1075px) {
-    
-    .intro img{
-       display: none;
-    }
-    
-}
 @media (max-width:1048px) {
     .nav-menu{
         margin-right: 20px;
@@ -697,13 +668,6 @@ footer.ftr-bottom p a{
     .nav-item a{
         font-size: 13.2px;    
     }
-    .intro img{
-        display: none;
-         
-         }
-         .p-button a{
-            padding: 0.4 7em;
-         }
 }
 
 @media (max-width:768px) {
@@ -751,23 +715,8 @@ footer.ftr-bottom p a{
     .nav-menu.active .nav-item i{
         display: inline-block;
     }
-    .intro img{
-        display: none;
-         
-         }
-   
 }
 
-@media (max-width:750px){
-.p-button a{
-    padding: 0.4em 7.6em;
-    
-}
-.intro img{
-    display: none;
-     
-     }
-}
 @media (max-width:576px) {
     .ftr-menu ul{
         display: block;
@@ -776,38 +725,7 @@ footer.ftr-bottom p a{
     .ftr-menu ul li{
         padding: 10px;
     }
-   .intro .p-button a{
-        padding: 0.4em 4.5em;
-    }
-    .intro img{
-        display: none;
-         
-         }
-   
 }
-@media (max-width:770px) {
-  
-    .p-button a{
-        padding: 0.4em 8em;
-    }
-    .intro img{
-        display: none;
-         
-         }
-}
-@media (max-width:720px) {
-  
-    .p-button a{
-        padding: 0.4em 7em;
-    }
-    .intro img{
-        display: none;
-         
-         }
-}
-
-
-
 /* Responsive End */
 
 
