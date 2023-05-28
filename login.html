@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LOG IN | ThreeDays</title>
+    <title>Giriş Yap | ThreeDays</title>
     <link rel="stylesheet" href="style.css">
 
     <link rel="shortcut icon" href="img/favicon2.png" type="image/x-icon">
@@ -20,6 +20,42 @@
 <!--Background Fonts-->
 </head>
 <body>
+    <!--Header-->
+<header>
+    <nav class="navbar">
+        <div class="logo">
+            <i class="fa-sharp fa-solid fa-earth-europe" id="world"></i>
+            <a href="index.html" class="logoName"> Wanderlust </a>
+        </div>
+
+        <ul class="nav-menu">
+            <li class="nav-item">
+                <i class="fa-solid fa-house"></i>
+                <a href="" class="link" id="actv">Ana Sayfa</a>
+            </li>
+            <li class="nav-item">
+                <i class="fa-solid fa-address-card"></i>
+                <a href="" class="link">Hakkımızda</a>
+            </li>
+            <li class="nav-item">
+                <i class="fa-solid fa-message"></i>
+                <a href="contact.html" class="link">İletişim</a>
+            </li>
+            <li class="nav-item">
+                <i class="fa-solid fa-right-to-bracket"></i>
+                <a href="login.html" class="link">Giriş Yap</a>
+            </li>
+        </ul>
+
+        <div class="nav">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </div>
+    </nav>
+</header>
+<!--Header-->
+
     <section class="giris">
         <div class="form-box">
                 <form>
@@ -40,56 +76,66 @@
                             <a href="">Şifremi Unuttum</a>
                         </label>
                     </div>
-                    <div class="btn">
+                    <div class="buton">
                         <button>Giriş Yap</button>
-                        <button id="signUp">Kayıt Ol</button>
+                        <a href="singUp.html" id="signUp">Kayıt Ol</a>
                     </div>
                     <div class="kayıtOl">
                         <p>
                             Hesabın Yok mu?
-                            <a href="">Kayıt ol</a>
+                            <a href="singUp.html">Kayıt ol</a>
                         </p>
                     </div>
                 </form>
         </div>
-
-        <div class="form-box">
-            <form>
-                <h2>Kayıt Ol</h2>
-                <div class="input">
-                    <i class="fa-regular fa-user"></i>
-                    <input type="text" required>
-                    <label>İsim</label>
-                </div>
-                <div class="input">
-                    <ion-icon name="mail-outline"></ion-icon>
-                    <input type="email and text" required>
-                    <label>Email</label>
-                </div>
-                <div class="input">
-                    <ion-icon name="lock-closed-outline"></ion-icon>
-                    <input type="password" required>
-                    <label>Şifre</label>
-                </div>
-                <div class="forget">
-                    <label>
-                        <input type="checkbox">Beni Hatırla
-                        <a href="">Şifremi Unuttum</a>
-                    </label>
-                </div>
-                <div class="btn">
-                    <button>Kayıt Ol</button>
-                    <button id="login">Giriş Yap</button>
-                </div>
-                <div class="kayıtOl">
-                    <p>
-                        Hesabın Var Mı?
-                        <a href="">Giriş Yap</a>
-                    </p>
-                </div>
-            </form>
-    </div>
     </section>
+
+    <!--Footer-->
+<footer>
+    <h3>Wanderlust</h3>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores reprehenderit incidunt quaerat eaque modi totam quae, aliquam rem recusandae asperiores quisquam in ipsum commodi molestiae accusantium iusto. Numquam, nobis esse.</p>
+       <ul class="iletisim-bilgi">
+        <li>
+            <a href="https://www.facebook.com/facebook/?locale=tr_TR">
+                <i class="fa-brands fa-facebook-f"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://twitter.com/?lang=tr">
+                <i class="fa-brands fa-twitter"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/ThreeeDays/ThreeDays">
+                <i class="fa-brands fa-github"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.youtube.com/">
+                <i class="fa-brands fa-youtube"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/">
+                <i class="fa-brands fa-linkedin"></i>
+            </a>
+        </li>
+       </ul> 
+       <!--footer menu-->
+       <div class="ftr-menu">
+        <ul class="f-menu">
+            <li><a href="index.html">Ana Sayfa</a></li>
+            <li><a href="">Hakkımızda</a></li>
+            <li><a href="contact.html">İletişim</a></li>
+            <li><a href="login.html">Giriş Yap / Kayıt Ol</a></li>
+        </ul>
+       </div>
+    <div class="ftr-bottom">
+        <p>Design By - <a href="" id="name">ThreeDays</a></p>
+    </div>
+</footer>
+<!--Footer-->
+
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 </body>

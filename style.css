@@ -222,7 +222,7 @@ input:valid ~ label{
     text-decoration: underline;
 }
 
-.btn{
+.buton{
     display: flex;
 }
 
@@ -242,10 +242,36 @@ input:valid ~ label{
 
 #signUp{
     color: var(--color3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 40px;
+    border-radius: 40px;
+    background: var(--whiteColor);
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: 600;
+    margin: 5px;
 }
 
 #login{
     color: var(--color3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 40px;
+    border-radius: 40px;
+    background: var(--whiteColor);
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: 600;
+    margin: 5px;
 }
 
 .kayıtOl{
@@ -472,6 +498,9 @@ input:valid ~ label{
 }
 
 .btn a{
+    display: flex;
+    justify-content: center;
+    align-content: center;
     margin-top: 10px;
     color: var(--color1);
     font-size: 35px;
@@ -647,16 +676,6 @@ footer.ftr-bottom p a{
 }
 
 @media (max-width:850px) {
-    .giris{
-        display: inline-block;
-        min-height: 130vh;
-    }
-
-    .form-box{
-        margin: auto;
-        margin-bottom: 10px;
-    }
-
     .nav-menu{
         margin-right: 10px;
     }
