@@ -1,6 +1,12 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
 
+:root{
+    --color1: #000000;
+    --color2: #2d2d2d;
+    --color3: #696969;
+    --color4: #146C94;
+    --whiteColor: #fff;
+}
 
 *{
     margin: 0;
@@ -20,7 +26,7 @@ body{
 
 html::-webkit-scrollbar{
     width: 0.8rem;
-    background-color: white;
+    background-color: var(--whiteColor);
 }
 
 html::-webkit-scrollbar-track{
@@ -29,18 +35,18 @@ html::-webkit-scrollbar-track{
 
 html::-webkit-scrollbar-thumb{
     border-radius: 3rem;
-    background-color: black;
+    background-color: var(--color1);
     overflow: hidden;
 }
 /* Base Html Codes */
 
 /* Header Start */
 header{
-    background-color: black;
+    background-color: var(--color1);
 }
 
 .navbar a{
-    color: white;
+    color: var(--whiteColor);
     font-size: 18px;
     border: 1px solid transparent;
     padding: 7px 10px;
@@ -60,7 +66,7 @@ header{
     justify-content: center;
     align-items: center;
     text-align: center;
-    color: skyblue;
+    color: var(--color4);
     margin-left: 10px;
     font-size: 35px;
     min-width: 50px;
@@ -82,7 +88,7 @@ header{
 
 .nav-menu .nav-item i{
     display: none;
-    color: rgb(79, 105, 200);
+    color: var(--color4);
     font-size: 15px;
 }
 
@@ -91,11 +97,11 @@ header{
 }
 
 #actv{
-    color: rgb(79, 105, 200);
+    color: var(--color4);
 }
 
 .link:hover{
-    color:  rgb(79, 105, 200);
+    color:  var(--color4);
 }
 
 .nav{
@@ -109,7 +115,7 @@ header{
     height: 3px;
     margin: 5px auto;
     -webkit-transition: all 0.3s ease-in-out;transition: all 0.3s ease-in-out;
-    background-color: white;
+    background-color: var(--whiteColor);
 }
 /* Header End */
 
@@ -120,8 +126,7 @@ header{
     align-items: center;
     min-height: 100vh;
     width: 100%;
-    background: #00ff00;
-    background: url(img/BalilAsmaBahçesi.jpg) no-repeat;
+    background: url(img/İskenderiyeFeneri.jpg) no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -142,7 +147,7 @@ header{
 
 h2{
     font-size: 2em;
-    color: #fff;
+    color: var(--whiteColor);
     text-align: center;
 }
 
@@ -150,7 +155,7 @@ h2{
     position: relative;
     margin: 30px 0;
     width: 310px;
-    border-bottom: 2px solid #fff;
+    border-bottom: 2px solid var(--whiteColor);
 }
 
 .input label{
@@ -158,7 +163,7 @@ h2{
     top: 50%;
     left: 5px;
     transform: translateY(-50%);
-    color: #fff;
+    color: var(--whiteColor);
     font-size: 1em;
     pointer-events: none;
     transition: .5s;
@@ -177,13 +182,13 @@ input:valid ~ label{
     outline: none;
     font-size: 1em;
     padding:0 35px 0 5px;
-    color: #fff;
+    color: var(--whiteColor);
 }
 
 .input ion-icon{
     position: absolute;
     right: 8px;
-    color: #fff;
+    color: var(--whiteColor);
     font-size: 1.2em;
     top: 20px;
 }
@@ -191,7 +196,7 @@ input:valid ~ label{
 .input i{
     position: absolute;
     right: 8px;
-    color: #fff;
+    color: var(--whiteColor);
     font-size: 1.2em;
     top: 20px;
 }
@@ -199,7 +204,7 @@ input:valid ~ label{
 .forget{
     margin: -15px 0 15px;
     font-size: .9em;
-    color: #fff;
+    color: var(--whiteColor);
     display: flex;
     justify-content: center;
 }
@@ -209,7 +214,7 @@ input:valid ~ label{
 }
 
 .forget label a{
-    color: #fff;
+    color: var(--whiteColor);
     text-decoration: none;
 }
 
@@ -222,11 +227,11 @@ input:valid ~ label{
 }
 
 .giris button{
-    color: #000;
+    color: var(--color1);
     width: 100%;
     height: 40px;
     border-radius: 40px;
-    background: #fff;
+    background: var(--whiteColor);
     border: none;
     outline: none;
     cursor: pointer;
@@ -236,23 +241,23 @@ input:valid ~ label{
 }
 
 #signUp{
-    color: darkgray;
+    color: var(--color3);
 }
 
 #login{
-    color: darkgray;
+    color: var(--color3);
 }
 
 .kayıtOl{
     font-size: .9em;
-    color: #fff;
+    color: var(--whiteColor);
     text-align: center;
     margin: 25px 0 10px;
 }
 
 .kayıtOl p a{
     text-decoration: none;
-    color: #fff;
+    color: var(--whiteColor);
     font-weight: 600;
 }
 
@@ -267,10 +272,10 @@ input:valid ~ label{
     height: 100vh;
     display: block;
     overflow: hidden;
-    background: url(img/bg2.jpg) no-repeat;
+    background: url(img/İskenderiyeFeneri.jpg) no-repeat;
     background-position: center;
     background-size: cover;
-    color: #fff;
+    color: var(--whiteColor);
     padding: 3rem;
 }
 
@@ -291,7 +296,7 @@ input:valid ~ label{
 
 .contact-left1{
     padding-bottom: 2rem;
-    border-bottom: 2px solid #fff;
+    border-bottom: 2px solid var(--whiteColor);
 }
 
 .contact-information{
@@ -302,22 +307,22 @@ input:valid ~ label{
 }
 
 .contact-information i{
-    color: #fff;
+    color: var(--whiteColor);
     padding: 0.7rem;
     border-radius: 50%;
-    border: 2px solid #fff;
+    border: 2px solid var(--whiteColor);
     font-size: 1.5rem;
     margin-right: 1rem;
     transition: all 0.4s ease;
 }
 
 .contact-information i:hover{
-    color: skyblue;
-    border: 2px solid skyblue;
+    color: var(--color4);
+    border: 2px solid var(--color4);
 }
 
 .contact-information a{
-    color: #fff;
+    color: var(--whiteColor);
 }
 
 .contact-left2{
@@ -328,7 +333,7 @@ input:valid ~ label{
 }
 
 .contact-left2 a{
-    color: #fff;
+    color: var(--whiteColor);
     width: 3rem;
     height: 3rem;
     line-height: 3rem;
@@ -341,7 +346,7 @@ input:valid ~ label{
 }
 
 .contact-left2 a:hover{
-    color: skyblue;
+    color: var(--color4);
 }
 
 .contact-right{
@@ -357,7 +362,7 @@ input:valid ~ label{
 }
 
 .contact-right form input,textarea,button{
-    color: #fff;
+    color: var(--whiteColor);
     width: 100%;
     margin: 1rem 0;
     background-color: transparent;
@@ -365,28 +370,28 @@ input:valid ~ label{
     font-size: 1.2rem;
     padding: 0.5rem 1rem;
     outline: none;
-    border: 1px solid #fff;
+    border: 1px solid var(--whiteColor);
     transition: all 0.4s ease;
 }
 
 .contact-right form input:hover ,textarea:hover{
-    color: #000;
-    background-color: #fff;
+    color: var(--color1);
+    background-color: var(--whiteColor);
 }
 
 .contact-right form input:focus ,textarea:focus{
-    color: #000;
-    background-color: #fff;
+    color: var(--color1);
+    background-color: var(--whiteColor);
 }
 
 .contact-right form button{
-    background-color: #000;
+    background-color: var(--color1);
     cursor: pointer;
 }
 
 .contact-right form button:hover{
-    color: #000;
-    background-color: #fff;
+    color: var(--color1);
+    background-color: var(--whiteColor);
 }
 /*Contact End*/
 
@@ -420,125 +425,15 @@ input:valid ~ label{
   padding: 0;
   font-size: 7em;
   text-transform: uppercase;
-  color: #fff;
+  color: var(--whiteColor);
   font-family: 'Wallpoet', cursive;
 }
 .content p{
     font-size: 30px;
     font-family: 'Wallpoet', cursive;
-    color: rgb(0, 0, 0);
+    color: var(--color1);
 }
 /*Background*/
-
-
-/*World*/
-
-
-
-
-
-/*World*/
-/*Fotter Start*/
-footer{
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background: #000000;
-    height: auto;
-    padding-top: 40px;
-    width: 100%;
-    color:white ;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    text-align: center;
-    padding: 10px;
-}
-
-h3{
-    color: skyblue;
-    font-size: 2.1rem;
-    font-weight: 500;
-    text-transform: capitalize;
-    line-height: 3rem;
-}
-footer p{
-    max-width: 500px;
-    margin: 10px auto;
-    line-height: 28px;
-    font-size: 14px;
-    color: #cacdd2;
-}
-
-.iletisim-bilgi{
-    list-style: none;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 1rem 0 3rem 0;
-}
-
-.iletisim-bilgi li a{
-    padding: 5px;
-}
-
-.iletisim-bilgi li a i{
-    text-decoration: none;
-    color: #fff;
-    border: 1.1px solid white;
-    padding: 8px;
-    border-radius: 50%;
-    width: 35px;
-}
-.iletisim-bilgi li i:hover{
-    color: skyblue;
-    border: 1.1px solid skyblue;
-}
-.ftr-menu{
-    margin-bottom: 20px;
-}
-.ftr-menu ul{
-    display: flex;
-}
-.ftr-menu ul li{
-    padding-right: 10px;
-    display: block;
-}
-.ftr-menu ul li a{
-    color: #cfd2d6;
-    border: 1.3px solid white;
-    padding: 6px 10px;
-    border-radius: 50px;
-    text-decoration: none;
-}
-.ftr-menu ul li a:hover{
-    color: skyblue;
-}
-.ftr-bottom{
-    background: #000;
-    margin-top: 20px;
-    width: 100%;
-    padding: 10px;
-    text-align: center;
-}
-footer.ftr-bottom p{
-    text-align: center;
-    font-size: 14px;
-    word-spacing: 2px;
-    text-transform: capitalize;
-}
-footer.ftr-bottom p a{
-    color: skyblue;
-    font-size: 16px;
-    text-decoration: none;
-}
-
-#name{
-    color: skyblue;
-}
-/*Fotter End*/
-
 
 /*First İntro*/
 .İntros{
@@ -546,13 +441,13 @@ footer.ftr-bottom p a{
     margin: auto;
     padding: 20px;
     margin-top: -5px;
-    background: #201f1f;
+    background: var(--color2);
 }
 
 .intro{
     width: 100%;
     padding: 20px;
-    color: #718aae;
+    color: var(--color4);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -560,7 +455,7 @@ footer.ftr-bottom p a{
 
 .İntros img{
     margin-left:10px;
-   border: 2px solid #ffffff;
+   border: 2px solid var(--whiteColor);
    border-radius: 20px;
    width: 60%;
    height: auto;
@@ -578,14 +473,115 @@ footer.ftr-bottom p a{
 
 .btn a{
     margin-top: 10px;
-    color: #000000;
+    color: var(--color1);
     font-size: 35px;
     font-family:  'Wallpoet', cursive; 
-    background-color: #ffffff;
+    background-color: var(--whiteColor);
     padding:0.4em 120px;
     border-radius: 30px;
 }
 /*First İntro*/
+
+/*Fotter Start*/
+footer{
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: var(--color1);
+    height: auto;
+    padding-top: 40px;
+    width: 100%;
+    color: var(--whiteColor);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 10px;
+}
+
+h3{
+    color: var(--color4);
+    font-size: 2.1rem;
+    font-weight: 500;
+    text-transform: capitalize;
+    line-height: 3rem;
+}
+footer p{
+    max-width: 500px;
+    margin: 10px auto;
+    line-height: 28px;
+    font-size: 14px;
+    color: var(--color3);
+}
+
+.iletisim-bilgi{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0 3rem 0;
+}
+
+.iletisim-bilgi li a{
+    padding: 5px;
+}
+
+.iletisim-bilgi li a i{
+    text-decoration: none;
+    color: var(--whiteColor);
+    border: 1.1px solid white;
+    padding: 8px;
+    border-radius: 50%;
+    width: 35px;
+}
+.iletisim-bilgi li i:hover{
+    color: var(--color4);
+    border: 1.1px solid var(--color4);
+}
+.ftr-menu{
+    margin-bottom: 20px;
+}
+.ftr-menu ul{
+    display: flex;
+}
+.ftr-menu ul li{
+    padding-right: 10px;
+    display: block;
+}
+.ftr-menu ul li a{
+    color: var(--color3);
+    border: 1.3px solid white;
+    padding: 6px 10px;
+    border-radius: 50px;
+    text-decoration: none;
+}
+.ftr-menu ul li a:hover{
+    color: var(--color4);
+}
+.ftr-bottom{
+    background: var(--color1);
+    margin-top: 20px;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+footer.ftr-bottom p{
+    text-align: center;
+    font-size: 14px;
+    word-spacing: 2px;
+    text-transform: capitalize;
+}
+footer.ftr-bottom p a{
+    color: var(--color4);
+    font-size: 16px;
+    text-decoration: none;
+}
+
+#name{
+    color: var(--color4);
+}
+/*Fotter End*/
 
 /* Responsive Start */
 @media (max-width:1050px) {
@@ -640,7 +636,7 @@ footer.ftr-bottom p a{
     }
 
     .contact-left1{
-        border-bottom: 2px solid #000;
+        border-bottom: 2px solid var(--color1);
     }
 
     .contact-right{
@@ -693,7 +689,7 @@ footer.ftr-bottom p a{
         top: 60px;
         gap: 0;
         flex-direction: column;
-        background-color: rgb(33, 32, 32);
+        background-color: var(--color2);
         width: 100%;
         text-align: center;
         transition: 0.3s;
