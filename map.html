@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Map | Wanderlust</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="mapRespons.css">
 
     <!-- Font Awesome CDN link -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -101,12 +102,12 @@
 <!--Header-->
 
 <!-- Map -->
-    <section class="map">
+    <div class="map">
         <div class="img-magnifier-container">
-        <img src="img/aa.jpg" id="worldmag" alt="Worldmap" class="scary"usemap="#worldmap">
-    </div>
+            <img src="img/aa.jpg" id="img" alt="Worldmap" class="scary"usemap="#worldmap">
+        </div>
 
-    <map name="worldmap">
+    <map name="worldmap" id="Map">
         <!--<area shape="rect" coords="265,1060,932,1212" href="h.html" alt="Büyük Okyanus" >
         <area shape="rect" coords="878,647,1545,799" href="#" alt="Kuzey Amerika">
         <area shape="rect" coords="1495,1385,2162,1537" href="#" alt="Güney Amerika">
@@ -158,57 +159,16 @@
         <area  alt="Kenya" title="Kenya" href="#" coords="872,362,949,394" shape="rect">
         <area  alt="Kongo" title="Kongo" href="" coords="788,368,884,406" shape="rect">
     </map>
-    </section>
-<!-- Map -->
-
-<!--Footer-->
-<footer>
-    <h3>Wanderlust</h3>
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores reprehenderit incidunt quaerat eaque modi totam quae, aliquam rem recusandae asperiores quisquam in ipsum commodi molestiae accusantium iusto. Numquam, nobis esse.</p>
-       <ul class="iletisim-bilgi">
-        <li>
-            <a href="https://www.facebook.com/facebook/?locale=tr_TR">
-                <i class="fa-brands fa-facebook-f"></i>
-            </a>
-        </li>
-        <li>
-            <a href="https://twitter.com/?lang=tr">
-                <i class="fa-brands fa-twitter"></i>
-            </a>
-        </li>
-        <li>
-            <a href="https://github.com/ThreeeDays/ThreeDays">
-                <i class="fa-brands fa-github"></i>
-            </a>
-        </li>
-        <li>
-            <a href="https://www.youtube.com/">
-                <i class="fa-brands fa-youtube"></i>
-            </a>
-        </li>
-        <li>
-            <a href="https://www.linkedin.com/">
-                <i class="fa-brands fa-linkedin"></i>
-            </a>
-        </li>
-       </ul> 
-       <!--footer menu-->
-       <div class="ftr-menu">
-        <ul class="f-menu">
-            <li><a href="index.html">Ana Sayfa</a></li>
-            <li><a href="">Hakkımızda</a></li>
-            <li><a href="contact.html">İletişim</a></li>
-        </ul>
-       </div>
-    <div class="ftr-bottom">
-        <p>Design By - <a href="" id="name">ThreeDays</a></p>
     </div>
-</footer>
-<!--Footer-->
+<!-- Map -->
 
 <script>
     magnifyglass("worldmag",3);
 </script>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+<script src="ThreeDays/jquery.rwdImageMaps.js"></script>
 
 <script src="script.js"></script>
 
