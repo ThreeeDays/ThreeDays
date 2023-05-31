@@ -19,7 +19,7 @@
 
 /* Base Html Codes */
 body{
-    width: 100%;
+    /* width: 100%; */
     overflow-x: hidden;
 }
 
@@ -508,6 +508,14 @@ input:valid ~ label{
     border-radius: 30px;
 }
 /*First İntro*/
+
+/* Map Page */
+.scary{
+    position: absolute;
+    width: auto;
+    height: 100%;
+}
+/* Map Page */
 
 /*Fotter Start*/
 footer{

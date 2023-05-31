@@ -4,26 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css"> <style>
-    *{
-        box-sizing: border-box;
-    }
-    .scary{
-        position: relative;
-    }
-    
-.img-magnifier-glass {
-  position: absolute;
-  border: 3px solid #000;
-  border-radius: 50%;
-  cursor: none;
-  /*Set the size of the magnifier glass:*/
-  width: 100px;
-  height: 100px;
-}
+    <title>Map | Wanderlust</title>
+    <link rel="stylesheet" href="style.css">
 
- </style>
+    <!-- Font Awesome CDN link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
  <script>
     function magnify(worldmag, zoom) {
       var img, glass, w, h, bw;
@@ -79,78 +65,152 @@
         return {x : x, y : y};
       }
     }
-    </script>
+</script>
 </head>
 <body>
-    <script src="script.js"></script>
+    <!--Header-->
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <i class="fa-sharp fa-solid fa-earth-europe" id="world"></i>
+                <a href="index.html" class="logoName"> Wanderlust </a>
+            </div>
+
+            <ul class="nav-menu">
+                <li class="nav-item">
+                    <i class="fa-solid fa-house"></i>
+                    <a href="" class="link" id="actv">Ana Sayfa</a>
+                </li>
+                <li class="nav-item">
+                    <i class="fa-solid fa-address-card"></i>
+                    <a href="" class="link">Hakkımızda</a>
+                </li>
+                <li class="nav-item">
+                    <i class="fa-solid fa-message"></i>
+                    <a href="contact.html" class="link">İletişim</a>
+                </li>
+            </ul>
+
+            <div class="nav">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </nav>
+    </header>
+<!--Header-->
+
+<!-- Map -->
+    <section class="map">
+        <div class="img-magnifier-container">
+            <img src="img/aa.jpg" id="worldmag" alt="Worldmap" class="scary"usemap="#worldmap">
+        </div>
     
-    <div class="img-magnifier-container">
-<img src="img/aa.jpg" id="worldmag" alt="Worldmap" class="scary"usemap="#worldmap" style="width: 1505px; height: auto;">
-</div>
-<map name="worldmap">
+        <map name="worldmap">
+            <!--<area shape="rect" coords="265,1060,932,1212" href="h.html" alt="Büyük Okyanus" >
+            <area shape="rect" coords="878,647,1545,799" href="#" alt="Kuzey Amerika">
+            <area shape="rect" coords="1495,1385,2162,1537" href="#" alt="Güney Amerika">
+            <area shape="rect" coords="2253,2498,2920,2650" href="#" alt="Antartika">
+            <area shape="rect" coords="2149,1566,2816,1718" href="#" alt="Atlas Okyanusu">
+            <area shape="rect" coords="2554,997,3221,1149" href="#" alt="Afrika">
+            <area shape="rect" coords="2883,468,3550,620" href="#" alt="Avrupa">
+            <area shape="rect" coords="3712,602,4299,739" href="#" alt="Asya">
+            <area shape="rect" coords="4424,1667,4964,1794" href="#" alt="Okyanusya">
+            <area shape="rect" coords="4683,1074,5336,1212" href="#" alt="Pasifik Okyanus">
+            <area shape="rect" coords="3559,1547,4146,1684" href="#" alt="Hint Okyanusu">
+    
+            <!-->
+            <!--Kuzey-->
+            <area  alt="Alaska" title="Alaska" href="#" coords="114,88,195,127" shape="rect">
+            <area  alt="Kanada" title="Kanada" href="#" coords="269,134,350,173" shape="rect">
+            <area  alt="ABD" title="ABD" href="#" coords="302,210,383,249" shape="rect">
+            <!--Kuzey-->
+            <!--Güney-->
+            <!-- <area  alt="Venezuela" title="ABD" href="#" coords=" 1672,1229,1914,1318" shape="rect">
+            <area  alt="Kolombiya" title="ABD" href="#" coords="1433,1284,1742,1356 " shape="rect">
+            <area  alt="Surinam" title="ABD" href="#" coords="1757,1346,2109,1427 " shape="rect">
+            <area  alt="Bouvya" title="ABD" href="#" coords="1630,1548,1931,1643" shape="rect">
+            <area  alt="Peru" title="Brezilya" href="#" coords="1489,1456,1790,1551" shape="rect">-->
+    
+            <area  alt="Brezilya" title="Brezilya" href="#" coords="489,398,610,435" shape="rect">
+            <area  alt="Arjantin" title="Arjantin" href="#" coords="431,511,533,538" shape="rect">
+            <!--Güney-->
+            <!---->
+            <area target="Grörland" title="Grörland" href="#" coords="519,43,625,79" shape="rect">
+            <!---->
+            <!--Avrupa-->
+            <area alt="Finlandiya" title="Finlandiya" href="#" coords="2920,373,3289,434" shape="rect">
+            <area target="" alt="" title="" href="" coords="2920,373,3289,434" shape="rect">
+            <area target="" alt="" title="" href="" coords="2920,373,3289,434" shape="rect">
+            <area target="" alt="" title="" href="" coords="2920,373,3289,434" shape="rect">
+            <area target="" alt="" title="" href="" coords="2920,373,3289,434" shape="rect">
+    
+            <!--Avrupa-->
+            <area target="Güney Afrika" title="Güney Afrika" href="#" coords="1022,617,1154,652" shape="rect">
+            <area target="" alt="" title="" href="" coords="1022,617,1154,652" shape="rect">
+            <area target="" alt="" title="" href="" coords="1022,617,1154,652" shape="rect">
+            <area target="" alt="" title="" href="" coords="1022,617,1154,652" shape="rect">
+    
+            <area  alt="Avustralya" title="Avustralya" href="#" coords="1237,453,1392,504" shape="rect">
+            <area  alt="Rusya" title="Rusya" href="#" coords="1083,108,1186,145" shape="rect">
+            <area  alt="Çin" title="Çin" href="#" coords="1089,200,1172,246" shape="rect">
+            <area  alt="Mısır" title="Mısır" href="#" coords="828,259,915,289" shape="rect">
+            <area  alt="Kenya" title="Kenya" href="#" coords="872,362,949,394" shape="rect">
+            <area  alt="Kongo" title="Kongo" href="" coords="788,368,884,406" shape="rect">
+        </map>
+    </section>
+<!-- Map -->
 
-<!--<area shape="rect" coords="265,1060,932,1212" href="h.html" alt="Büyük Okyanus" >
-<area shape="rect" coords="878,647,1545,799" href="#" alt="Kuzey Amerika">
-<area shape="rect" coords="1495,1385,2162,1537" href="#" alt="Güney Amerika">
-<area shape="rect" coords="2253,2498,2920,2650" href="#" alt="Antartika">
-<area shape="rect" coords="2149,1566,2816,1718" href="#" alt="Atlas Okyanusu">
-<area shape="rect" coords="2554,997,3221,1149" href="#" alt="Afrika">
-<area shape="rect" coords="2883,468,3550,620" href="#" alt="Avrupa">
-<area shape="rect" coords="3712,602,4299,739" href="#" alt="Asya">
-<area shape="rect" coords="4424,1667,4964,1794" href="#" alt="Okyanusya">
-<area shape="rect" coords="4683,1074,5336,1212" href="#" alt="Pasifik Okyanus">
-<area shape="rect" coords="3559,1547,4146,1684" href="#" alt="Hint Okyanusu">
-
-<!-->
-<!--Kuzey-->
-    <area  alt="Alaska" title="Alaska" href="#" coords="114,88,195,127" shape="rect">
-    <area  alt="Kanada" title="Kanada" href="#" coords="269,134,350,173" shape="rect">
-    <area  alt="ABD" title="ABD" href="#" coords="302,210,383,249" shape="rect">
-<!--Kuzey-->
-<!--Güney-->
-   <!-- <area  alt="Venezuela" title="ABD" href="#" coords=" 1672,1229,1914,1318" shape="rect">
-    <area  alt="Kolombiya" title="ABD" href="#" coords="1433,1284,1742,1356 " shape="rect">
-    <area  alt="Surinam" title="ABD" href="#" coords="1757,1346,2109,1427 " shape="rect">
-    <area  alt="Bouvya" title="ABD" href="#" coords="1630,1548,1931,1643" shape="rect">
-    <area  alt="Peru" title="Brezilya" href="#" coords="1489,1456,1790,1551" shape="rect">-->
-
-    <area  alt="Brezilya" title="Brezilya" href="#" coords="489,398,610,435" shape="rect">
-    <area  alt="Arjantin" title="Arjantin" href="#" coords="431,511,533,538" shape="rect">
-<!--Güney-->
-<!---->
-    <area target="Grörland" title="Grörland" href="#" coords="519,43,625,79" shape="rect">
-<!---->
-<!--Avrupa-->
-<area alt="Finlandiya" title="Finlandiya" href="#" coords="2920,373,3289,434" shape="rect">
-<area target="" alt="" title="" href="" coords="2920,373,3289,434" shape="rect">
-<area target="" alt="" title="" href="" coords="2920,373,3289,434" shape="rect">
-<area target="" alt="" title="" href="" coords="2920,373,3289,434" shape="rect">
-<area target="" alt="" title="" href="" coords="2920,373,3289,434" shape="rect">
-
-
-<!--Avrupa-->
-    <area target="Güney Afrika" title="Güney Afrika" href="#" coords="1022,617,1154,652" shape="rect">
-    <area target="" alt="" title="" href="" coords="1022,617,1154,652" shape="rect">
-    <area target="" alt="" title="" href="" coords="1022,617,1154,652" shape="rect">
-    <area target="" alt="" title="" href="" coords="1022,617,1154,652" shape="rect">
-
-
-
-
-
-    <area  alt="Avustralya" title="Avustralya" href="#" coords="1237,453,1392,504" shape="rect">
-    <area  alt="Rusya" title="Rusya" href="#" coords="1083,108,1186,145" shape="rect">
-    <area  alt="Çin" title="Çin" href="#" coords="1089,200,1172,246" shape="rect">
-    <area  alt="Mısır" title="Mısır" href="#" coords="828,259,915,289" shape="rect">
-    <area  alt="Kenya" title="Kenya" href="#" coords="872,362,949,394" shape="rect">
-    <area  alt="Kongo" title="Kongo" href="" coords="788,368,884,406" shape="rect">
-</map>
-
-
+<!--Footer-->
+<footer>
+    <h3>Wanderlust</h3>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores reprehenderit incidunt quaerat eaque modi totam quae, aliquam rem recusandae asperiores quisquam in ipsum commodi molestiae accusantium iusto. Numquam, nobis esse.</p>
+       <ul class="iletisim-bilgi">
+        <li>
+            <a href="https://www.facebook.com/facebook/?locale=tr_TR">
+                <i class="fa-brands fa-facebook-f"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://twitter.com/?lang=tr">
+                <i class="fa-brands fa-twitter"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/ThreeeDays/ThreeDays">
+                <i class="fa-brands fa-github"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.youtube.com/">
+                <i class="fa-brands fa-youtube"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/">
+                <i class="fa-brands fa-linkedin"></i>
+            </a>
+        </li>
+       </ul> 
+       <!--footer menu-->
+       <div class="ftr-menu">
+        <ul class="f-menu">
+            <li><a href="index.html">Ana Sayfa</a></li>
+            <li><a href="">Hakkımızda</a></li>
+            <li><a href="contact.html">İletişim</a></li>
+        </ul>
+       </div>
+    <div class="ftr-bottom">
+        <p>Design By - <a href="" id="name">ThreeDays</a></p>
+    </div>
+</footer>
+<!--Footer-->
 
 <script>
     magnifyglass("worldmag",3);
 </script>
+
+<script src="script.js"></script>
 
 </body>
 </html>
