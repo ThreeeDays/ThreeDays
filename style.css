@@ -62,16 +62,11 @@ header{
     padding: 0 24px;
 }
 
-.logo{
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    color: var(--color4);
-    margin-left: 10px;
-    font-size: 35px;
-    min-width: 50px;
-    border-radius: 12px;
-    line-height: 50px;
+#LogoVideo{
+  
+    width: 170px;
+    height: 100px;
+    margin: -5px;
 }
 
 #world{
