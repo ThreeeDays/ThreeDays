@@ -2,8 +2,8 @@
 
 :root{
     --color1: #000000;
-    --color2: #2d2d2d;
-    --color3: #696969;
+    --color2: #1b1b1b;
+    --color3: #707070;
     --color4: #146C94;
     --whiteColor: #fff;
 }
@@ -63,9 +63,8 @@ header{
 }
 
 #LogoVideo{
-  
-    width: 170px;
-    height: 100px;
+    width: 150px;
+    height: 80px;
     margin: -5px;
 }
 
@@ -461,13 +460,13 @@ input:valid ~ label{
     margin: auto;
     padding: 20px;
     margin-top: -5px;
-    background-color: #161616;
+    background-color: var(--color2);
 }
 
 .intro{
     width: 100%;
     padding: 20px;
-    color:#aeadad;
+    color: var(--color3);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -686,13 +685,14 @@ footer p{
 }
 .ftr-menu ul li a{
     color: var(--color3);
-    border: 1.3px solid white;
+    border: 1.3px solid var(--whiteColor);
     padding: 6px 10px;
     border-radius: 50px;
     text-decoration: none;
 }
 .ftr-menu ul li a:hover{
     color: var(--color4);
+    border: 1.3px solid var(--color4);
 }
 .ftr-bottom{
     background: var(--color1);
