@@ -19,8 +19,9 @@
 
 /* Base Html Codes */
 body{
-    /* width: 100%; */
+    width: 100%;
     overflow-x: hidden;
+    background: linear-gradient(to bottom, var(--color3) 60%, lightGray 40%);
 }
 
 html::-webkit-scrollbar{
@@ -510,9 +511,114 @@ input:valid ~ label{
 /*First İntro*/
 
 /* Map Page */
-.scary{
-    width: 100%;
+.container{
+    background-color: var(--color2);
+    padding: 15px;
     max-width: 1500px;
+}
+
+.img-container{
+    max-width: 1500px;
+    padding: 15px;
+    position: relative;
+}
+
+.worldMap{
+    width: 100%;
+}
+
+.icon{
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    border: 1.5px solid var(--whiteColor);
+    background: var(--color1);
+}
+
+.icon::after{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(1,1);
+    content: "";
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    border: 1px solid var(--color2);
+    transition: border-color 1s linear;
+    animation: icon-pulse 4s linear infinite;
+}
+
+@keyframes icon-pulse{
+    0%{
+        transform: translate(-50%, -50%) scale(1,1);
+        opacity: 0;
+    }
+
+    20%{
+        transform: translate(-50%, -50%) scale(1.5,1.5);
+        opacity: 0.9;
+    }
+
+    50%{
+        transform: translate(-50%, -50%) scale(2,2);
+        opacity: 0;
+    }
+
+    100%{
+        transform: translate(-50%, -50%) scale(2,2);
+        opacity: 0;
+    }
+}
+
+.item{
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
+
+.tooltip{
+    position: absolute;
+    padding: 5px;
+    width: 7em;
+    height: 1.5em;
+    background-color: var(--whiteColor);
+    color: var(--color1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    line-height: 1.5rem;
+    z-index: -1;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: opacity 0.1s linear;
+}
+
+.item:hover .tooltip{
+    opacity: 1;
+}
+
+.tooltip a{
+    color: var(--color1);
+    font-size: 15px;
+}
+
+.top .tooltip{
+    left: calc(50% - 3.5em);
+    bottom: 35px;
+}
+
+.top .tooltip::after{
+    color: var(--color1);
+    position: absolute;
+    content: "";
+    bottom: -13px;
+    border-top: 13px solid;
+    border-left: 13px solid transparent;
+    border-right: 13px solid transparent;
+    left: calc(50% - 13px);
 }
 /* Map Page */
 
@@ -536,7 +642,7 @@ footer{
 
 h3{
     color: var(--color4);
-    font-size: 2.1rem;
+    font-size: 2rem;
     font-weight: 500;
     text-transform: capitalize;
     line-height: 3rem;
@@ -544,7 +650,7 @@ h3{
 footer p{
     max-width: 500px;
     margin: 10px auto;
-    line-height: 28px;
+    line-height: 20px;
     font-size: 14px;
     color: var(--color3);
 }
@@ -554,7 +660,7 @@ footer p{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 1rem 0 3rem 0;
+    margin: 1rem 0 1.5rem 0;
 }
 
 .iletisim-bilgi li a{
@@ -573,9 +679,7 @@ footer p{
     color: var(--color4);
     border: 1.1px solid var(--color4);
 }
-.ftr-menu{
-    margin-bottom: 20px;
-}
+
 .ftr-menu ul{
     display: flex;
 }
@@ -595,7 +699,7 @@ footer p{
 }
 .ftr-bottom{
     background: var(--color1);
-    margin-top: 20px;
+    margin-top: 10px;
     width: 100%;
     padding: 10px;
     text-align: center;
@@ -633,26 +737,7 @@ footer.ftr-bottom p a{
     }
 }
 
-@media (max-width:1048px) {
-    .nav-menu{
-        margin-right: 20px;
-    }
-
-    .nav-item a{
-        font-size: 17px;
-    }
-   
-}
-
 @media (max-width:950px) {
-    .nav-menu{
-        margin-right: 15px;
-    }
-
-    .nav-item a{
-        font-size: 15px;
-    }
-    
     .contact{
         justify-content: center;
         align-items: center;
@@ -678,16 +763,6 @@ footer.ftr-bottom p a{
         padding: 1.5rem;
     }
    
-}
-
-@media (max-width:850px) {
-    .nav-menu{
-        margin-right: 10px;
-    }
-
-    .nav-item a{
-        font-size: 12.8px;    
-    }
 }
 
 @media (max-width:768px) {
@@ -724,9 +799,7 @@ footer.ftr-bottom p a{
         margin: 16px 0;
     }
 
-    .nav-item a{
-        font-size: 17px;
-    }
+    
 
     .nav-menu.active{
         left: 0;

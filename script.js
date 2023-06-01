@@ -7,7 +7,3 @@ nav.addEventListener("click",()=>{
     navMenu.classList.toggle("active");
 })
 // Menu JS
-
-$(document).ready(function(e){
-    $('img[worldmap]').rwdImageMaps();
-})
