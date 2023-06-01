@@ -461,23 +461,24 @@ input:valid ~ label{
     margin: auto;
     padding: 20px;
     margin-top: -5px;
-    background: var(--color2);
+    background-color: #161616;
 }
 
 .intro{
     width: 100%;
     padding: 20px;
-    color: var(--color4);
+    color:#aeadad;
     display: flex;
     justify-content: center;
     align-items: center;
+   
 }
 
 .İntros img{
     margin-left:10px;
    border: 2px solid var(--whiteColor);
    border-radius: 20px;
-   width: 60%;
+   width: 55%;
    height: auto;
 }
 
@@ -495,12 +496,13 @@ input:valid ~ label{
     display: flex;
     justify-content: center;
     align-content: center;
-    margin-top: 10px;
+    margin-top: 50px;
+    margin-right: 50px;
     color: var(--color1);
     font-size: 35px;
     font-family:  'Wallpoet', cursive; 
     background-color: var(--whiteColor);
-    padding:0.4em 120px;
+    padding:0.4em 110px;
     border-radius: 30px;
 }
 /*First İntro*/
@@ -723,6 +725,7 @@ footer.ftr-bottom p a{
         display: grid;
         justify-content: center;
         align-items: center;
+      
     }
 
     .İntros img{
@@ -813,5 +816,6 @@ footer.ftr-bottom p a{
     .ftr-menu ul li{
         padding: 10px;
     }
+  
 }
 /* Responsive End */
