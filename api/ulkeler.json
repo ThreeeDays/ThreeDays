@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "title": "Türkiye",
+        "img1": "./img/Tr1.jpg",
+        "ulke": "Asya ile Avrupa'yı birbirine bağlayan Türkiye jeopolitik açıdan stratejik bir konumda yer alır. İki kıta arasındaki ulaşım ve ticari faaliyetler, İstanbul ve Çanakkale boğazları üzerinden sağlanır. Üç tarafı denizlerle çevrili olan Türkiye, aynı zamanda bir yarım ada ülkesidir.",
+        "ekonomi": "Türkiye aynı zamanda ekonomistler ve siyaset bilimciler tarafından dünyanın en yeni sanayileşmiş ülkelerden biri olarak tanımlanır. Türkiye, nominal GSYİH'ya göre dünyanın 20. en büyük ekonomisi ve SAGP GSYİH'ya göre 11. en büyük ekonomisidir.",
+        "iklim": "Türkiye, iklim kuşaklarından ılıman kuşak ile subtropikal kuşak arasında yer alır. Türkiye'nin coğrafî konumu ve yer şekilleri sonucunda ikliminin, farklı özellikte iklim tiplerinin oluşmasına yol açmıştır. Kıyı bölgelerinde denizlerin etkisiyle daha ılıman iklim özellikleri görülür.",
+        "cografya":"Türkiye toprakları, 36-42° Kuzey enlemleri ve 26-45° Doğu boylamları arasında yer alır. Doğusu ile batısı arasında 76 dakikalık bir zaman farkı vardır. Şekli kabaca bir dikdörtgeni andırır ve genişliği 1.660 kilometredir. Göller ve adalar dahil kapladığı gerçek alan 814.578 km², izdüşüm alanı ise 783,562 km²'dir. Türkiye'ye ait bu iki yüzölçüm değeri arasındaki farkın büyüklüğü, arazinin dağlık ve engebeli olmasından kaynaklanır.",
+        "tarih":"Bu tarih atlı göçebe Türk kültürünün başlangıcı olarak kabul edilebilir. Türklerin atalarının MÖ 2500 ile MÖ 1700 yılları arasındaki Afanasiyevo kültürü ile başlayan ve MÖ 1700 ile MÖ 1200 yılları arasındaki Andronovo kültürü ile devam ettiğini savunurlar.",
+
+        "gezilecekYer1": "Kız Kulesi",
+        "gezilecekYerBilgi1": "Yılanla Gelen Acı Son. İlk efsaneye göre Bizans krallarından birinin kızı olmuş ve kız hakkında bir kehanet ortaya atılmış. Prenses, 18 yaşında bir yılan tarafından sokularak ölecekmiş. Bunu duyan kral, denizin ortasındaki adada bulunan kuleyi restore ettirerek prensesin yaşayabileceği bir alana dönüştürmüş.",
+        "img2": "./img/KızKulesi.jpg",
+        "gezilecekYer2": "Galata Kulesi",
+        "gezilecekYerBilgi2": "Galata Kulesi ilk olarak Bizans İmparatoru Justinianos tarafından MS 507 - 508 yılında inşa edilmiştir. Günümüzdeki kuleyi 1348 - 49 yılında Cenevizliler yeniden inşa etmiştir. Kule 1445 - 46 yılları arasında yükseltilmiştir. 1500'lü yıllarda depremden zarar görerek Mimar Murad bin Hayreddin tarafından onarılmıştır.",
+        "img3": "./img/Galata.jpg",
+
+        "img4": "./img/Kebab.jpg",
+        "yemek1":"Kebab",
+        "yemekBilgi1": "Kebap, mangalda meşe kömüründe veya odun fırınında, ayrıca günümüzde fırınlarda da pişirilerek yenen et yemeklerine verilen isimdir. Doğrudan doğruya ateşin üzerinde tutularak ya da bir kap içinde susuz olarak pişirilir. Bu yemeklerin çoğu ızgarada pişirilmiş olsa da, tas kebabı gibi sulu yemeklere de kebap denir.",
+        "img5": "./img/Karnıyarık.jpg",
+        "yemek2":"Kaynıyarık",
+        "yemekBilgi2": "Karnıyarık Türk mutfağının belli başlı patlıcan yemeklerinden biridir. Hazırlanırken ana malzeme olan patlıcanın dışında soğan, biber, domates ve kıyma da kullanılır. Benzeri bir patlıcan yemeği imambayıldıdır. İmambayıldının karnıyarıktan farkı içinde et olmaması ve soğuk olarak servis edilmesidir.",
+        "img6": "./img/Ekler.jpeg",
+        "tatlı":"Ekler",
+        "tatlıBilgi": "Ekler, yumuşak hamurlu bir tatlıdır. Genel olarak içinde vanilyalı krema vardır ve üstü çikolata kaplıdır. Bazen kahve, rom aromalı muhallebi, meyveli dolgular veya kestane püresi ile de doldurulur."
+    }
+]

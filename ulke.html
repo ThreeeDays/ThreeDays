@@ -4,21 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wanderlust</title>
+    <title> Wanderlust </title>
     <link rel="shortcut icon" href="img/favicon2.png" type="image/x-icon">
     <link rel="stylesheet" href="style.css">
 
     <!-- Font Awesome CDN link -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-<!--Background Fonts-->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Wallpoet&display=swap" rel="stylesheet">
-<!--Background Fonts-->
 </head>
 <body>
-
 <!--Header-->
 <header>
     <nav class="navbar">
@@ -53,46 +46,77 @@
 </header>
 <!--Header-->
 
+<!-- Main -->
+<section class="mainContainer">
+    <div class="ulke">
+        <h1 id="title">  </h1>
 
-<!--Content-->
-
-<!--Article-->
-<div class="World">
-    <video  autoplay muted loop >
-        <source src="img/pyramid.mp4" type="video/mp4">
-    </video>
-
-    <div class="content">
-        <h1>World Map</h1>
-        <p>Welcome to Our World</p>
-    </div> 
-</div>
-
-<!--Map İntroduction-->
-<div class="İntros">
-    <div class="intro">
-        <div class="p-button">
-            <p class="First-intro">
-                Bu kısım Dünya Tanıtım bölümüdür.<br>
-                Yaptığımız Map;Kıta,Okyanus,Ülkeler içermektedir.<br>
-                Extra olarak verilen bölgelerin bilgileri bulunmaktadır.<br>
-        
-
-                Etkileşim için Dünya isimli butona basınız.
-            </p>
-
-            <div class="btn"> 
-                <a href="map.html">WORLD</a>
+        <div class="ulke-bilgi">
+            <img id="imgs" src="">
+            
+            <div class="bilgi">
+                <p id="ulke"></p>
+                <p id="ekonomi"></p>
+                <p id="iklim"></p>
+                <p id="cografya"></p>
+                <p id="tarih"></p>
             </div>
         </div>
-        <img src="img/worldmap.jpg" alt="Worldmap">
+
+       <div class="gezilecek">
+        <h2>Gitmeniz Gereken Yerler</h2>
+            <div class="ulke-bilgi">
+                <p id="parag1">
+                    <span id="geziBilgi1" class="gezilecek-bilgi">  </span>
+                    <br>
+                    
+                </p>
+                <img id="img1" src="">
+            </div>
+        
+            <div class="ulke-bilgi">
+                <p id="parag2">
+                    <span id="geziBilgi2" class="gezilecek-bilgi">  </span>
+                    <br>
+                    
+                </p>
+                <img id="img2" src="">
+            </div>
+       </div>
+
+        <div class="yemeh">
+            <h2>Yemekleri</h2>
+
+            <div class="ulke-bilgi">
+                <img id="img3" src="">
+                <p id="parag3">
+                    <span id="yemekBilgi1" class="yemek-bilgi">  </span>
+                    <br>
+                    
+                </p>
+            </div>
+
+            <div class="ulke-bilgi">
+                <img id="img4" src="">
+                <p id="parag4">
+                    <span id="yemekBilgi2" class="yemek-bilgi">  </span>
+                    <br>
+                    
+                </p>
+            </div>
+
+            <div class="ulke-bilgi">
+                <img id="img5" src="">
+                <p id="parag5">
+                    <span id="tatlıBilgi1" class="yemek-bilgi">  </span>
+                    <br>
+                    
+                </p>
+            </div>
+        </div>
     </div>
-</div> 
-<!--Map İntroduction-->
-
-<!--Article-->
-
-<!--Content-->
+</section>
+<!-- Main -->
 
 <!--Footer-->
 <footer>
@@ -147,6 +171,5 @@
 <!--Footer-->
 
 <script src="script.js"></script>
-
 </body>
 </html>
