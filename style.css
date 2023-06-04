@@ -3,7 +3,7 @@
 :root{
     --color1: #000000;
     --color2: #1b1b1b;
-    --color3: #707070;
+    --color3: #afafaf;
     --color4: #146C94;
     --whiteColor: #fff;
 }
@@ -340,13 +340,13 @@ header{
 }
 
 .img-container{
-    max-width: 1500px;
     padding: 15px;
     position: relative;
 }
 
 .worldMap{
     width: 100%;
+    border-radius: 10px;
 }
 
 .icon{
@@ -364,6 +364,7 @@ header{
     transform: translate(-50%, -50%) scale(1,1);
     content: "";
     display: block;
+    z-index: -1;
     width: 20px;
     height: 20px;
     border-radius: 100%;
@@ -408,7 +409,6 @@ header{
     color: var(--color1);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
     line-height: 1.5rem;
-    z-index: -1;
     border-radius: 5px;
     display: flex;
     flex-direction: column;
@@ -448,17 +448,16 @@ header{
 .mainContainer{
     background-color: #1b1b1b;
 }
+
 .ulke{
     display: block;
+    padding-bottom: 20px;
 }
 
-.ulke p{
-    color: white;
-}
-
-.ulke h2{
-    color: var(--color4);
-    padding-left: 15px;
+.ulke h1{
+    color: var(--whiteColor);
+    padding-left: 10px;
+    font-size: 2rem;
 }
 
 #title{
@@ -467,6 +466,7 @@ header{
     align-items: center;
     height: 80px;
     color: var(--color4);
+    font-size: 3rem
 }
 
 .ulke-bilgi{
@@ -476,16 +476,42 @@ header{
     padding: 10px;
 }
 
+.ulke-bilgi p{
+    color: var(--color3);
+    padding: 5px;
+    line-height: 2rem;
+}
+
+.ulke-bilgi1 p{
+    color: var(--color3);
+    padding: 5px;
+    line-height: 2rem;
+}
+
+.ulke-bilgi1{
+    display: block;
+    padding: 10px;
+}
+
 #imgs{
-    width: 40%;
-    height: auto;
-    margin: 10px;
+    width: 70%;
+    height: 500px;
     border-radius: 10px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .bilgi{
-    width: 60%;
+    margin-top: 10px;
+    margin-bottom: 10px;
     display: block;
+    text-align: center;
+}
+
+.gezilecek h1{
+    text-align: center;
+    font-size: 2rem;
 }
 
 #img1 ,#img2,#img3,#img4,#img5{
@@ -495,12 +521,17 @@ header{
     border-radius: 10px;
 }
 
-.gezilecek-bilgi{
-    color: #146C94;
+.paragraf{
+    display: block;
 }
 
-.yemek-bilgi{
-    color: #146C94;
+.paragraf h2{
+    color: var(--color4);
+}
+
+.yemeh h1{
+    text-align: center;
+    font-size: 2rem;
 }
 /* Ulke Page */
 
@@ -625,6 +656,7 @@ footer.ftr-bottom p a{
 
     .p-button p{
         font-size: 15px;
+        text-align: center;
     }
 }
 
@@ -654,6 +686,19 @@ footer.ftr-bottom p a{
         padding: 1.5rem;
     }
    
+    .ulke-bilgi{
+        display: block;
+        align-items: center;
+    }
+    
+    .bilgi{
+        width: 100%;
+        display: block;
+    }
+
+    #imgs,#img1 ,#img2,#img3,#img4,#img5{
+        width: 97%;
+    }
 }
 
 @media (max-width:768px) {
@@ -697,6 +742,10 @@ footer.ftr-bottom p a{
     .nav-menu.active .nav-item i{
         display: inline-block;
     }
+
+    #imgs{
+        height: 350px;
+    }
 }
 
 @media (max-width:576px) {
@@ -712,10 +761,27 @@ footer.ftr-bottom p a{
         margin-top: -30px;
     }
 
+    .icon{
+        width: 15px;
+        height: 15px;
+    }
+
     .btn{
         display: flex;
         justify-content: center;
         align-content: center;
+    }
+
+    #imgs{
+        height: 300px;
+    }
+
+    #kaybol{
+        display: none;
+    }
+
+    .tooltip a{
+        font-size: 10px;
     }
 }
 /* Responsive End */
