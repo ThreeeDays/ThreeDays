@@ -8,6 +8,19 @@ nav.addEventListener("click",()=>{
 })
 // Menu JS
 
+//BG
+const possibleVideos =["./img/pyramid.mp4" , "./img/DenizVid.mp4" , "./img/GünBatımı.mp4" , "./img/GünIşığı.mp4" , "./img/KuzeyIşıkları.mp4"];
+
+const randomNum = Math.floor( Math.random() * (possibleVideos.length-1) )
+const randomVideo = possibleVideos[ randomNum ];
+
+const myVid = document.getElementById("background-video");
+
+myVid.src = randomVideo;
+myVid.load();
+myVid.play();
+//BG
+
 // Ulke
 const Parametre = new URLSearchParams(window.location.search);
 const deger = Parametre.get('id');
