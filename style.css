@@ -353,8 +353,9 @@ header{
     width: 16px;
     height: 16px;
     border-radius: 100%;
-    border: 1.5px solid var(--whiteColor);
+    border: 0.6px solid var(--whiteColor);
     background: var(--color1);
+    transition: 1s ease;
 }
 
 .icon::after{
@@ -398,49 +399,6 @@ header{
 .item{
     position: absolute;
     transform: translate(-50%, -50%);
-}
-
-.tooltip{
-    position: absolute;
-    padding: 5px;
-    width: 7em;
-    height: 1.5em;
-    background-color: var(--whiteColor);
-    color: var(--color1);
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-    line-height: 1.5rem;
-    border-radius: 5px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    opacity: 0;
-    transition: opacity 0.1s linear;
-}
-
-.item:hover .tooltip{
-    opacity: 1;
-}
-
-.tooltip a{
-    color: var(--color1);
-    font-size: 15px;
-}
-
-.top .tooltip{
-    left: calc(50% - 3.5em);
-    bottom: 35px;
-}
-
-.top .tooltip::after{
-    color: var(--color1);
-    position: absolute;
-    content: "";
-    bottom: -13px;
-    border-top: 13px solid;
-    border-left: 13px solid transparent;
-    border-right: 13px solid transparent;
-    left: calc(50% - 13px);
 }
 /* Map Page */
 
@@ -662,6 +620,11 @@ footer.ftr-bottom p a{
         font-size: 15px;
         text-align: center;
     }
+
+    .icon{
+        width: 12px;
+        height: 12px;
+    }
 }
 
 @media (max-width:950px) {
@@ -688,6 +651,11 @@ footer.ftr-bottom p a{
     .contact-right{
         width: 100%;
         padding: 1.5rem;
+    }
+
+    .icon{
+        width: 14px;
+        height: 14px;   
     }
    
     .ulke-bilgi{
@@ -747,6 +715,11 @@ footer.ftr-bottom p a{
         display: inline-block;
     }
 
+    .icon{
+        width: 10px;
+        height: 10px;   
+    }
+
     #imgs{
         height: 350px;
     }
@@ -766,8 +739,8 @@ footer.ftr-bottom p a{
     }
 
     .icon{
-        width: 10px;
-        height: 10px;   
+        width: 6.5px;
+        height: 6.5px;   
     }
 
     .btn{
@@ -782,10 +755,6 @@ footer.ftr-bottom p a{
 
     #kaybol{
         display: none;
-    }
-
-    .tooltip a{
-        font-size: 10px;
     }
 }
 /* Responsive End */
