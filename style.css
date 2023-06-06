@@ -336,7 +336,7 @@ header{
 .container{
     background-color: var(--color2);
     padding: 5px;
-   width: 100%;
+    width: 100%;
 }
 
 .img-container{
@@ -350,8 +350,8 @@ header{
 }
 
 .icon{
-    width: 20px;
-    height: 20px;
+    width: 16px;
+    height: 16px;
     border-radius: 100%;
     border: 1.5px solid var(--whiteColor);
     background: var(--color1);
@@ -359,12 +359,12 @@ header{
 
 .icon::after{
     position: absolute;
+    z-index: -1;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%) scale(1,1);
     content: "";
     display: block;
-    z-index: -1;
     width: 20px;
     height: 20px;
     border-radius: 100%;
@@ -507,6 +507,10 @@ header{
     margin-bottom: 10px;
     display: block;
     text-align: center;
+}
+
+.bilgi p{
+    line-height: 2.5rem;
 }
 
 .gezilecek h1{
@@ -762,8 +766,8 @@ footer.ftr-bottom p a{
     }
 
     .icon{
-        width: 15px;
-        height: 15px;
+        width: 12px;
+        height: 12px;   
     }
 
     .btn{
