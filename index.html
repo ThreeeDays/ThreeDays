@@ -85,7 +85,7 @@
                 <a href="map.html">WORLD</a>
             </div>
         </div>
-        <img src="img/worldmap.jpg" alt="Worldmap">
+        <img src="img/Map.jpg" alt="Worldmap">
     </div>
 </div> 
 <!--Map İntroduction-->
@@ -147,6 +147,19 @@
 <!--Footer-->
 
 <script src="script.js"></script>
+
+<script>
+    const possibleVideos =["./img/pyramid.mp4" , "./img/DenizVid.mp4" , "./img/GünBatımı.mp4" , "./img/GünIşığı.mp4" , "./img/KuzeyIşıkları.mp4"];
+
+    const randomNum = Math.floor( Math.random() * (possibleVideos.length-1) )
+    const randomVideo = possibleVideos[ randomNum ];
+
+    const myVid = document.getElementById("background-video");
+
+    myVid.src = randomVideo;
+    myVid.load();
+    myVid.play();
+</script>
 
 </body>
 </html>
