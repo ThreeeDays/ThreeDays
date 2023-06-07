@@ -2,7 +2,7 @@
     {
         "id":1,
         "title": "Türkiye",
-        "img1": "./img/Tr1.jpg",
+        "img1": "https://cdn1.ntv.com.tr/gorsel/eF-KJqpybkCPugtMEHHBew.jpg?width=960&mode=crop&scale=both",
         "ulke": "Asya ile Avrupa'yı birbirine bağlayan Türkiye jeopolitik açıdan stratejik bir konumda yer alır. İki kıta arasındaki ulaşım ve ticari faaliyetler, İstanbul ve Çanakkale boğazları üzerinden sağlanır. Üç tarafı denizlerle çevrili olan Türkiye, aynı zamanda bir yarım ada ülkesidir.",
         "ekonomi": "Türkiye aynı zamanda ekonomistler ve siyaset bilimciler tarafından dünyanın en yeni sanayileşmiş ülkelerden biri olarak tanımlanır. Türkiye, nominal GSYİH'ya göre dünyanın 20. en büyük ekonomisi ve SAGP GSYİH'ya göre 11. en büyük ekonomisidir.",
         "iklim": "Türkiye, iklim kuşaklarından ılıman kuşak ile subtropikal kuşak arasında yer alır. Türkiye'nin coğrafî konumu ve yer şekilleri sonucunda ikliminin, farklı özellikte iklim tiplerinin oluşmasına yol açmıştır. Kıyı bölgelerinde denizlerin etkisiyle daha ılıman iklim özellikleri görülür.",
@@ -11,19 +11,19 @@
 
         "gezilecekYer1": "Kız Kulesi",
         "gezilecekYerBilgi1": "Yılanla Gelen Acı Son. İlk efsaneye göre Bizans krallarından birinin kızı olmuş ve kız hakkında bir kehanet ortaya atılmış. Prenses, 18 yaşında bir yılan tarafından sokularak ölecekmiş. Bunu duyan kral, denizin ortasındaki adada bulunan kuleyi restore ettirerek prensesin yaşayabileceği bir alana dönüştürmüş.",
-        "img2": "./img/KızKulesi.jpg",
+        "img2": "https://www.flypgs.com/blog/wp-content/uploads/2019/02/kiz-kulesinin-hikayesi.jpg",
         "gezilecekYer2": "Galata Kulesi",
         "gezilecekYerBilgi2": "Galata Kulesi ilk olarak Bizans İmparatoru Justinianos tarafından MS 507 - 508 yılında inşa edilmiştir. Günümüzdeki kuleyi 1348 - 49 yılında Cenevizliler yeniden inşa etmiştir. Kule 1445 - 46 yılları arasında yükseltilmiştir. 1500'lü yıllarda depremden zarar görerek Mimar Murad bin Hayreddin tarafından onarılmıştır.",
-        "img3": "./img/Galata.jpg",
+        "img3": "https://live.staticflickr.com/4691/39523615501_d7a8f552f6_b.jpg",
 
-        "img4": "./img/Kebab.jpg",
+        "img4": "https://images.deliveryhero.io/image/fd-tr/LH/hd3o-hero.jpg",
         "yemek1":"Kebab",
         "yemekBilgi1": "Kebap, mangalda meşe kömüründe veya odun fırınında, ayrıca günümüzde fırınlarda da pişirilerek yenen et yemeklerine verilen isimdir. Doğrudan doğruya ateşin üzerinde tutularak ya da bir kap içinde susuz olarak pişirilir. Bu yemeklerin çoğu ızgarada pişirilmiş olsa da, tas kebabı gibi sulu yemeklere de kebap denir.",
-        "img5": "./img/Karnıyarık.jpg",
+        "img5": "https://cdn.ye-mek.net/App_UI/Img/out/650/2016/06/karniyarik-resimli-yemek-tarifi(20).jpg",
         "yemek2":"Kaynıyarık",
         "yemekBilgi2": "Karnıyarık Türk mutfağının belli başlı patlıcan yemeklerinden biridir. Hazırlanırken ana malzeme olan patlıcanın dışında soğan, biber, domates ve kıyma da kullanılır. Benzeri bir patlıcan yemeği imambayıldıdır. İmambayıldının karnıyarıktan farkı içinde et olmaması ve soğuk olarak servis edilmesidir.",
 
-        "img6": "./img/Baklava.png",
+        "img6": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Baklava%281%29.png",
         "tatlı":"Baklava",
         "tatlıBilgi": "Baklava Türk, Orta Doğu, Balkan ve Güney Asya mutfaklarında yer etmiş önemli bir hamur tatlısıdır. İnce yufkaların arasına yöreye göre ceviz, antep fıstığı, badem veya fındık konarak yapılır. Genel olarak şeker şerbeti ile tatlandırılır. Ayrıca bal şerbeti de kullanılabilir."
     },
