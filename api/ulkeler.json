@@ -22,14 +22,10 @@
         "img5": "./img/Karnıyarık.jpg",
         "yemek2":"Kaynıyarık",
         "yemekBilgi2": "Karnıyarık Türk mutfağının belli başlı patlıcan yemeklerinden biridir. Hazırlanırken ana malzeme olan patlıcanın dışında soğan, biber, domates ve kıyma da kullanılır. Benzeri bir patlıcan yemeği imambayıldıdır. İmambayıldının karnıyarıktan farkı içinde et olmaması ve soğuk olarak servis edilmesidir.",
-<<<<<<< HEAD
+
         "img6": "./img/Baklava.png",
         "tatlı":"Baklava",
         "tatlıBilgi": "Baklava Türk, Orta Doğu, Balkan ve Güney Asya mutfaklarında yer etmiş önemli bir hamur tatlısıdır. İnce yufkaların arasına yöreye göre ceviz, antep fıstığı, badem veya fındık konarak yapılır. Genel olarak şeker şerbeti ile tatlandırılır. Ayrıca bal şerbeti de kullanılabilir."
-=======
-        "img6": "./img/Ekler.jpeg",
-        "tatlı":"Ekler",
-        "tatlıBilgi": "Ekler, yumuşak hamurlu bir tatlıdır. Genel olarak içinde vanilyalı krema vardır ve üstü çikolata kaplıdır. Bazen kahve, rom aromalı muhallebi, meyveli dolgular veya kestane püresi ile de doldurulur."
     },
 
 
@@ -258,7 +254,7 @@
         "id":7,
         "title": "Bolivya",
         "img1": "./img/bolivyafoto.jpg",
-        "ulke": "",
+        "ulke": "Bolivya ya da resmî adıyla Bolivya Çokuluslu Devleti bir Güney Amerika ülkesidir. Başkenti Sucre olup; La Paz, Cochabamba, Santa Cruz, Potosi diğer önemli şehirlerinden birkaçıdır.",
     
         "ekonomi": "Bolivya'nın Ekonomisi / T.C. Dışişleri Bakanlığı Ülkenin verimli kalay, çinko, gümüş ve altın madenleri ile doğalgaz ve petrol yatakları bulunmaktadır. Stratejik bir maden olarak kabul edilen ve elektrik bataryalarının temel hammaddesi olan lityumun dünyadaki rezervlerinin %60'tan çoğu Bolivya'dadır.",
     
@@ -302,7 +298,7 @@
         "id":8,
         "title": "Brezilya",
         "img1": "./img/brezilyafoto.jpg",
-        "ulke": "",
+        "ulke": " Brezilya ya da resmî adıyla Brezilya Federal Cumhuriyeti, Güney Amerika'nın en büyük ve en kalabalık ülkesidir. Latin Amerika’nın %47,7’sini kaplayan Brezilya, Ekvador ve Şili haricinde Güney Amerika ülkelerinin hepsi ile sınır komşusudur.",
     
         "ekonomi": "Brezilya ekonomisi, gayri safi yurtiçi hasıla (nominal GSYİH) ölçümüyle dünyanın en büyük on ikinci ve 2020'de satın alma gücü paritesine göre de yine dünyanın sekizinci en büyük ekonomisidir.",
     
@@ -560,7 +556,50 @@
         "tatlı":"Puisi",
     
         "tatlıBilgi": "Bu kadar soğuk bir memlekette yaşayan insanların en temel gıdaları çoğunlukla onları soğuktan koruyacak yağlı etleri içeriyor. Fok balığı eti oldukça keskin bir tada sahip olduğu için çoğunlukla soğan, patates, pirinç ve arpalı yemeklerde kullanılıyor. Aynı zamanda fok balığının derisi boyanıp ulusal giysilerinin bir parçası olarak da giyiliyor.   "
->>>>>>> a85825faef99bae35169692750b45f239d1fd15d
+    },
+
+    {
+        "id":14,
+        "title": "Güney Kore",
+        "img1": "./img/güneykorefoto.jpg",
+        "ulke": "Güney Kore veya resmî adıyla Kore Cumhuriyeti, Doğu Asya'da Kore Yarımadası'nın güney kısmını oluşturan ve Kuzey Kore ile kara sınırını paylaşan, Doğu Asya’daki bir ülkedir.",
+    
+        "ekonomi": "Güney Kore ekonomisi, nominal olarak dünyanın 11. büyük ve satınalma gücü paritesi bakımından 13. büyük ekonomisi olup Asya'nın da dördüncü büyük ekonomisidir. Güney Kore karma bir ekonomi olup ülke ekonomisine chaebol denilen aile konglomeratları hakimdir.",
+    
+        "iklim": "Güney Kore'nin iklimi, kışın karalardan esen soğuk rüzgârların etkisindedir. Kışın ülkede kar nadiren yağarken yağmur görülmez. Güneşli ve açık bir hava olmasına karşın ayaz nedeniyle hava sıcaklığı çok düşer. Ülke yazları Pasifik'ten esen sıcak ve nemli muson rüzgârlarının etkisi altına girer.",
+    
+        "cografya":"Ülkenin koordinatları enlemi 37 ° ve doğu boylamı 127° 30 arasındadır. Güney Kore'nin tek kara komşusu Kuzey Kore olup 238 km sınır Kore Tarafsız Bölgesi boyunca uzanmaktadır. Güney Kore çoğunlukla denizler ile çevrilidir ve üç deniz boyunca 2,413 km sahil şeridine sahiptir.",
+    
+        "tarih":"Kore tarihi MÖ 3000 yılına kadar uzanır. Çin'in eline geçtikten sonra, Budizm ve Çinlilerin etkisinde kaldı. Daha sonraları 7. yüzyıldan 20. yüzyıla kadar değişik hanedanların idaresi altında bağımsız olarak yaşadı. 1910 yılında Japonlar Kore'yi işgal ederek koloni haline getirdiler. Bu durum, 1945 yılına kadar sürdü.        ",
+    
+        "gezilecekYer1": "Geoncheonggung",
+        "gezilecekYerBilgi1":"Seul’un gözde tarihi yapılarından Geoncheonggung, yüzyıllardır göz dolduran tarihi ile yıllara meydan okumaktadır. Joseon hanedanlığı tarafından inşa edilen sarayların en büyüğü olma özelliğini taşıyan Geoncheonggung’da kralın ailesi yaşamakta ve devletin merkezi işleri burada yürütülmektedir.",
+    
+        "img2": "./img/güneykoregez1.jpg",
+    
+        "gezilecekYer2": "N Seul Kulesi",
+    
+        "gezilecekYerBilgi2": "Güney Kore’nin başkenti Seul’de yer alan N Seul Kulesi, şehrin en yüksek radyo dalgası kulesi olma özelliğini taşımaktadır. N Seul, günümüzde ülkenin birçok ulusal medya platformlarına hizmet vermeye devam etmektedir. Namsan Kulesi olarak da bilinen kule, özellikle seyir terası ile birlikte şehir için turistik açıdan oldukça önemli bir duraktır. Kule, küresel seyahat uzmanı değerlendirmesine göre dünyanın en iyi 500 turistik mekânından birisi seçilmiştir. Haftanın bütün günleri açık olan müze, özellikle hafta sonlarındaki yoğunluğu ile de dikkat çekmektedir. ",
+    
+        "img3": "./img/güneykoregez2.jpg",
+    
+        "img4": "./img/güneykoreyemek1.jpg",
+    
+        "yemek1":"Bibimbap",
+    
+        "yemekBilgi1": "Bibimbap günün her öğünü tüketilen doyurucu ve lezzetli atıştırmalık. Yumurta, et, pilav ve sebze ile yapılıyor. Sıcak kaselerde servis edilen bu yemeğin acılı versiyonu da acı severlerin mutlaka denemesi gereke lezzetlerden. En güzel Güney Kore yemekleri deyince Bibimbap baş sıralara oturur.",
+    
+        "img5": "./img/güneykoreyemek2.jpg",
+    
+        "yemek2":"Tteokbokki",
+    
+        "yemekBilgi2": "Uzak Doğu ülkelerinin vazgeçilmez lezzeti olan bir yemek var sırada. Pirinç ile yapılan Tteokbokki bir tür pirinç keki. Korelilerin çok sevdiği bu lezzet en meşhur sokak lezzetlerinden biri. Acılı sosu Tteokbokki’nin olmazsa olmaz unsuru. Çoğunlukla yumurta ve yeşil soğan ile servis ediliyor. Güney Kore’de ne yenir sorusunun başlıca cevaplarından olan bu müthiş lezzeti tatmadan dönmeyin.",
+    
+        "img6": "./img/güneykoreyemek3.jpg",
+    
+        "tatlı":"Bingsu",
+    
+        "tatlıBilgi": "Bingsu, Kore mutfağının tatlı detaylarından biridir.Gofret, gevrek ve bisküvi tadını veren bu tatlı yaz sıcaklarında tüketilmektedir.Kore’nin dondurma tatlısı olarak bilinen “bingsu” meşhur soya sosu ile hazırlandığı için bu ülkede çok sevilmektedir.Kore’de tatlı yemek istediğinizde pek çok restoran size bingsu önerecektir. Özellikle de doğranmış meyvelerle servis edildiğinde tadına doyum olmayacaktır."
     }
 
 ]
