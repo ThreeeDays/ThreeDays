@@ -483,4 +483,394 @@ fetch("api/ulkeler.json")
         parag4.textContent=data[14].yemekBilgi2;
         yemekBilgi2.textContent=data[14].yemek2;
     }
+
+    else if (deger==16){
+        title.textContent=data[15].title;
+        img.src= data[15].img1;
+        ulke.textContent=data[15].ulke;
+        ekonomi.textContent=data[15].ekonomi;
+        iklim.textContent=data[15].iklim;
+        cografya.textContent=data[15].cografya;
+        tarih.textContent=data[15].tarih;
+
+        parag1.textContent=data[15].gezilecekYerBilgi1;
+        geziBilgi1.textContent=data[15].gezilecekYer1;
+        img1.src=data[15].img2;
+
+        parag2.textContent=data[15].gezilecekYerBilgi2;
+        geziBilgi2.textContent=data[15].gezilecekYer2;
+        img2.src=data[15].img3;
+
+        img3.src=data[15].img4;
+        parag3.textContent=data[15].yemekBilgi1;
+        yemekBilgi1.textContent=data[15].yemek1;
+        
+        img4.src=data[15].img5;
+        parag4.textContent=data[15].yemekBilgi2;
+        yemekBilgi2.textContent=data[15].yemek2;
+
+        img5.src=data[15].img6;
+        parag5.textContent=data[15].tatlıBilgi;
+        tatlıBilgi1.textContent=data[15].tatlı;
+    }
+
+    else if (deger==17){
+        title.textContent=data[16].title;
+        img.src= data[16].img1;
+        ulke.textContent=data[16].ulke;
+        ekonomi.textContent=data[16].ekonomi;
+        iklim.textContent=data[16].iklim;
+        cografya.textContent=data[16].cografya;
+        tarih.textContent=data[16].tarih;
+
+        parag1.textContent=data[16].gezilecekYerBilgi1;
+        geziBilgi1.textContent=data[16].gezilecekYer1;
+        img1.src=data[16].img2;
+
+        parag2.textContent=data[16].gezilecekYerBilgi2;
+        geziBilgi2.textContent=data[16].gezilecekYer2;
+        img2.src=data[16].img3;
+
+        img3.src=data[16].img4;
+        parag3.textContent=data[16].yemekBilgi1;
+        yemekBilgi1.textContent=data[16].yemek1;
+        
+        img4.src=data[16].img5;
+        parag4.textContent=data[16].yemekBilgi2;
+        yemekBilgi2.textContent=data[16].yemek2;
+
+        img5.src=data[16].img6;
+        parag5.textContent=data[16].tatlıBilgi;
+        tatlıBilgi1.textContent=data[16].tatlı;
+    }
+
+    else if (deger==18){
+        title.textContent=data[17].title;
+        img.src= data[17].img1;
+        ulke.textContent=data[17].ulke;
+        ekonomi.textContent=data[17].ekonomi;
+        iklim.textContent=data[17].iklim;
+        cografya.textContent=data[17].cografya;
+        tarih.textContent=data[17].tarih;
+
+        parag1.textContent=data[17].gezilecekYerBilgi1;
+        geziBilgi1.textContent=data[17].gezilecekYer1;
+        img1.src=data[17].img2;
+
+        parag2.textContent=data[17].gezilecekYerBilgi2;
+        geziBilgi2.textContent=data[17].gezilecekYer2;
+        img2.src=data[17].img3;
+
+        img3.src=data[17].img4;
+        parag3.textContent=data[17].yemekBilgi1;
+        yemekBilgi1.textContent=data[17].yemek1;
+        
+        img4.src=data[17].img5;
+        parag4.textContent=data[17].yemekBilgi2;
+        yemekBilgi2.textContent=data[17].yemek2;
+
+        img5.src=data[17].img6;
+        parag5.textContent=data[17].tatlıBilgi;
+        tatlıBilgi1.textContent=data[17].tatlı;
+    }
+
+    else if (deger==19){
+        title.textContent=data[18].title;
+        img.src= data[18].img1;
+        ulke.textContent=data[18].ulke;
+        ekonomi.textContent=data[18].ekonomi;
+        iklim.textContent=data[18].iklim;
+        cografya.textContent=data[18].cografya;
+        tarih.textContent=data[18].tarih;
+
+        parag1.textContent=data[18].gezilecekYerBilgi1;
+        geziBilgi1.textContent=data[18].gezilecekYer1;
+        img1.src=data[18].img2;
+
+        parag2.textContent=data[18].gezilecekYerBilgi2;
+        geziBilgi2.textContent=data[18].gezilecekYer2;
+        img2.src=data[18].img3;
+
+        img3.src=data[18].img4;
+        parag3.textContent=data[18].yemekBilgi1;
+        yemekBilgi1.textContent=data[18].yemek1;
+        
+        img4.src=data[18].img5;
+        parag4.textContent=data[18].yemekBilgi2;
+        yemekBilgi2.textContent=data[18].yemek2;
+
+        img5.src=data[18].img6;
+        parag5.textContent=data[18].tatlıBilgi;
+        tatlıBilgi1.textContent=data[18].tatlı;
+    }
+
+    else if (deger==20){
+        title.textContent=data[19].title;
+        img.src= data[19].img1;
+        ulke.textContent=data[19].ulke;
+        ekonomi.textContent=data[19].ekonomi;
+        iklim.textContent=data[19].iklim;
+        cografya.textContent=data[19].cografya;
+        tarih.textContent=data[19].tarih;
+
+        parag1.textContent=data[19].gezilecekYerBilgi1;
+        geziBilgi1.textContent=data[19].gezilecekYer1;
+        img1.src=data[19].img2;
+
+        parag2.textContent=data[19].gezilecekYerBilgi2;
+        geziBilgi2.textContent=data[19].gezilecekYer2;
+        img2.src=data[19].img3;
+
+        img3.src=data[19].img4;
+        parag3.textContent=data[19].yemekBilgi1;
+        yemekBilgi1.textContent=data[19].yemek1;
+        
+        img4.src=data[19].img5;
+        parag4.textContent=data[19].yemekBilgi2;
+        yemekBilgi2.textContent=data[19].yemek2;
+
+        img5.src=data[19].img6;
+        parag5.textContent=data[19].tatlıBilgi;
+        tatlıBilgi1.textContent=data[19].tatlı;
+    }
+
+    else if (deger==21){
+        title.textContent=data[20].title;
+        img.src= data[20].img1;
+        ulke.textContent=data[20].ulke;
+        ekonomi.textContent=data[20].ekonomi;
+        iklim.textContent=data[20].iklim;
+        cografya.textContent=data[20].cografya;
+        tarih.textContent=data[20].tarih;
+
+        parag1.textContent=data[20].gezilecekYerBilgi1;
+        geziBilgi1.textContent=data[20].gezilecekYer1;
+        img1.src=data[20].img2;
+
+        parag2.textContent=data[20].gezilecekYerBilgi2;
+        geziBilgi2.textContent=data[20].gezilecekYer2;
+        img2.src=data[20].img3;
+
+        img3.src=data[20].img4;
+        parag3.textContent=data[20].yemekBilgi1;
+        yemekBilgi1.textContent=data[20].yemek1;
+        
+        img4.src=data[20].img5;
+        parag4.textContent=data[20].yemekBilgi2;
+        yemekBilgi2.textContent=data[20].yemek2;
+
+        img5.src=data[20].img6;
+        parag5.textContent=data[20].tatlıBilgi;
+        tatlıBilgi1.textContent=data[20].tatlı;
+    }
+
+    else if (deger==22){
+        title.textContent=data[21].title;
+        img.src= data[21].img1;
+        ulke.textContent=data[21].ulke;
+        ekonomi.textContent=data[21].ekonomi;
+        iklim.textContent=data[21].iklim;
+        cografya.textContent=data[21].cografya;
+        tarih.textContent=data[21].tarih;
+
+        parag1.textContent=data[21].gezilecekYerBilgi1;
+        geziBilgi1.textContent=data[21].gezilecekYer1;
+        img1.src=data[21].img2;
+
+        parag2.textContent=data[21].gezilecekYerBilgi2;
+        geziBilgi2.textContent=data[21].gezilecekYer2;
+        img2.src=data[21].img3;
+
+        img3.src=data[21].img4;
+        parag3.textContent=data[21].yemekBilgi1;
+        yemekBilgi1.textContent=data[21].yemek1;
+        
+        img4.src=data[21].img5;
+        parag4.textContent=data[21].yemekBilgi2;
+        yemekBilgi2.textContent=data[21].yemek2;
+
+        img5.src=data[21].img6;
+        parag5.textContent=data[21].tatlıBilgi;
+        tatlıBilgi1.textContent=data[21].tatlı;
+    }
+
+    else if (deger==23){
+        title.textContent=data[22].title;
+        img.src= data[22].img1;
+        ulke.textContent=data[22].ulke;
+        ekonomi.textContent=data[22].ekonomi;
+        iklim.textContent=data[22].iklim;
+        cografya.textContent=data[22].cografya;
+        tarih.textContent=data[22].tarih;
+
+        parag1.textContent=data[22].gezilecekYerBilgi1;
+        geziBilgi1.textContent=data[22].gezilecekYer1;
+        img1.src=data[22].img2;
+
+        parag2.textContent=data[22].gezilecekYerBilgi2;
+        geziBilgi2.textContent=data[22].gezilecekYer2;
+        img2.src=data[22].img3;
+
+        img3.src=data[22].img4;
+        parag3.textContent=data[22].yemekBilgi1;
+        yemekBilgi1.textContent=data[22].yemek1;
+        
+        img4.src=data[22].img5;
+        parag4.textContent=data[22].yemekBilgi2;
+        yemekBilgi2.textContent=data[22].yemek2;
+
+        img5.src=data[22].img6;
+        parag5.textContent=data[22].tatlıBilgi;
+        tatlıBilgi1.textContent=data[22].tatlı;
+    }
+
+    else if (deger==24){
+        title.textContent=data[23].title;
+        img.src= data[23].img1;
+        ulke.textContent=data[23].ulke;
+        ekonomi.textContent=data[23].ekonomi;
+        iklim.textContent=data[23].iklim;
+        cografya.textContent=data[23].cografya;
+        tarih.textContent=data[23].tarih;
+
+        parag1.textContent=data[23].gezilecekYerBilgi1;
+        geziBilgi1.textContent=data[23].gezilecekYer1;
+        img1.src=data[23].img2;
+
+        parag2.textContent=data[23].gezilecekYerBilgi2;
+        geziBilgi2.textContent=data[23].gezilecekYer2;
+        img2.src=data[23].img3;
+
+        img3.src=data[23].img4;
+        parag3.textContent=data[23].yemekBilgi1;
+        yemekBilgi1.textContent=data[23].yemek1;
+        
+        img4.src=data[23].img5;
+        parag4.textContent=data[23].yemekBilgi2;
+        yemekBilgi2.textContent=data[23].yemek2;
+
+        img5.src=data[23].img6;
+        parag5.textContent=data[23].tatlıBilgi;
+        tatlıBilgi1.textContent=data[23].tatlı;
+    }
+
+    else if (deger==25){
+        title.textContent=data[24].title;
+        img.src= data[24].img1;
+        ulke.textContent=data[24].ulke;
+        ekonomi.textContent=data[24].ekonomi;
+        iklim.textContent=data[24].iklim;
+        cografya.textContent=data[24].cografya;
+        tarih.textContent=data[24].tarih;
+
+        parag1.textContent=data[24].gezilecekYerBilgi1;
+        geziBilgi1.textContent=data[24].gezilecekYer1;
+        img1.src=data[24].img2;
+
+        parag2.textContent=data[24].gezilecekYerBilgi2;
+        geziBilgi2.textContent=data[24].gezilecekYer2;
+        img2.src=data[24].img3;
+
+        img3.src=data[24].img4;
+        parag3.textContent=data[24].yemekBilgi1;
+        yemekBilgi1.textContent=data[24].yemek1;
+        
+        img4.src=data[24].img5;
+        parag4.textContent=data[24].yemekBilgi2;
+        yemekBilgi2.textContent=data[24].yemek2;
+
+        img5.src=data[24].img6;
+        parag5.textContent=data[24].tatlıBilgi;
+        tatlıBilgi1.textContent=data[24].tatlı;
+    }
+
+    else if (deger==26){
+        title.textContent=data[25].title;
+        img.src= data[25].img1;
+        ulke.textContent=data[25].ulke;
+        ekonomi.textContent=data[25].ekonomi;
+        iklim.textContent=data[25].iklim;
+        cografya.textContent=data[25].cografya;
+        tarih.textContent=data[25].tarih;
+
+        parag1.textContent=data[25].gezilecekYerBilgi1;
+        geziBilgi1.textContent=data[25].gezilecekYer1;
+        img1.src=data[25].img2;
+
+        parag2.textContent=data[25].gezilecekYerBilgi2;
+        geziBilgi2.textContent=data[25].gezilecekYer2;
+        img2.src=data[25].img3;
+
+        img3.src=data[25].img4;
+        parag3.textContent=data[25].yemekBilgi1;
+        yemekBilgi1.textContent=data[25].yemek1;
+        
+        img4.src=data[25].img5;
+        parag4.textContent=data[25].yemekBilgi2;
+        yemekBilgi2.textContent=data[25].yemek2;
+
+        img5.src=data[25].img6;
+        parag5.textContent=data[25].tatlıBilgi;
+        tatlıBilgi1.textContent=data[25].tatlı;
+    }
+
+    else if (deger==27){
+        title.textContent=data[26].title;
+        img.src= data[26].img1;
+        ulke.textContent=data[26].ulke;
+        ekonomi.textContent=data[26].ekonomi;
+        iklim.textContent=data[26].iklim;
+        cografya.textContent=data[26].cografya;
+        tarih.textContent=data[26].tarih;
+
+        parag1.textContent=data[26].gezilecekYerBilgi1;
+        geziBilgi1.textContent=data[26].gezilecekYer1;
+        img1.src=data[26].img2;
+
+        parag2.textContent=data[26].gezilecekYerBilgi2;
+        geziBilgi2.textContent=data[26].gezilecekYer2;
+        img2.src=data[26].img3;
+
+        img3.src=data[26].img4;
+        parag3.textContent=data[26].yemekBilgi1;
+        yemekBilgi1.textContent=data[26].yemek1;
+        
+        img4.src=data[26].img5;
+        parag4.textContent=data[26].yemekBilgi2;
+        yemekBilgi2.textContent=data[26].yemek2;
+
+        img5.src=data[26].img6;
+        parag5.textContent=data[26].tatlıBilgi;
+        tatlıBilgi1.textContent=data[26].tatlı;
+    }
+
+    else if (deger==28){
+        title.textContent=data[27].title;
+        img.src= data[27].img1;
+        ulke.textContent=data[27].ulke;
+        ekonomi.textContent=data[27].ekonomi;
+        iklim.textContent=data[27].iklim;
+        cografya.textContent=data[27].cografya;
+        tarih.textContent=data[27].tarih;
+
+        parag1.textContent=data[27].gezilecekYerBilgi1;
+        geziBilgi1.textContent=data[27].gezilecekYer1;
+        img1.src=data[27].img2;
+
+        parag2.textContent=data[27].gezilecekYerBilgi2;
+        geziBilgi2.textContent=data[27].gezilecekYer2;
+        img2.src=data[27].img3;
+
+        img3.src=data[27].img4;
+        parag3.textContent=data[27].yemekBilgi1;
+        yemekBilgi1.textContent=data[27].yemek1;
+        
+        img4.src=data[27].img5;
+        parag4.textContent=data[27].yemekBilgi2;
+        yemekBilgi2.textContent=data[27].yemek2;
+
+        img5.src=data[27].img6;
+        parag5.textContent=data[27].tatlıBilgi;
+        tatlıBilgi1.textContent=data[27].tatlı;
+    }
 })
