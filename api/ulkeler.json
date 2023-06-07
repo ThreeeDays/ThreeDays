@@ -25,5 +25,536 @@
         "img6": "./img/Ekler.jpeg",
         "tatlı":"Ekler",
         "tatlıBilgi": "Ekler, yumuşak hamurlu bir tatlıdır. Genel olarak içinde vanilyalı krema vardır ve üstü çikolata kaplıdır. Bazen kahve, rom aromalı muhallebi, meyveli dolgular veya kestane püresi ile de doldurulur."
+    },
+
+
+    {
+        "id":2,
+        "title": "Amerika",
+        "img1": "./img/abdfoto.jpg",
+        "ulke": "Amerika Birleşik Devletleri, Birleşik Devletler veya resmî olmayan ismiyle Amerika, orta Kuzey Amerika'da, Kanada ve Meksika arasında bulunan, elli eyalet ve bir federal bölgeden oluşan, federal anayasal cumhuriyet ile yönetilen bir ülkedir.",
+
+        "ekonomi": "Amerika Birleşik Devletleri ekonomisi, oldukça gelişmiş bir liberal-kapitalist piyasa ekonomisidir. Nominal olarak dünyanın en büyük ve satınalma gücü paritesi bakımından ikinci büyük ekonomisi olup nominal olarak dünya GSYİH'sinin %22'sini oluşturmaktadır. Birleşik Devletler'in finans merkezi New York.",
+
+        "iklim": "Ülkede çok çeşitli iklim tipleri görülmektedir. Güneydoğuda, Havai ve Florida bölgesinde tropikal, Alaska bölgesinde kutup iklimi, Missisipi Nehri'nin batı kesiminde yarı kurak, güneybatı kesimlerde kurak iklim hâkimdir; kuzeybatıdaki yüksek kesimlerde ise kış sıcaklıkları oldukça düşüktür.",
+
+        "cografya":"Batı yarı küresinde yer alan dünyanın ikinci büyük kıtası. 42,3 milyon km2 yüzölçümüne ve 700 milyondan fazla nüfusa sahip olan kıta kuzeyden Kuzey Buz denizi, batıdan Büyük Okyanus, doğudan Atlas Okyanusu ve güneyden Güney Buz denizi ile çevrilidir.",
+
+        "tarih":"Kuzey Amerika'daki İngiliz kuvvetlerinin komutanı General William Howe'u kenti boşaltmaya zorladı. Böylece 17 Mart 1776'da kuşatma sona erdi ve kent Amerikalıların eline geçti. 4 Temmuz 1776'da Amerikalılar bağımsızlıklarını ilan ettiler. Kurulan bu devlete Amerika Birleşik Devletleri (ABD) adı verildi.",
+
+        "gezilecekYer1": "Özgürlük Heykeli",
+        "gezilecekYerBilgi1": "Bakırdan yapılan Özgürlük Heykeli, Fransa tarafından kuruluşunun 100. yılı nedeniyle ABD'ye hediye edilmiştir. 1884-1886 yılları arasında inşa edilmiştir. ABD'nin New York şehrindeki Özgürlük Adası'nda yer alır. Heykel, sağ elinde bir meşale, sol elinde ise bir kitabe tutar.",
+
+        "img2": "./img/abdgez1.jpg",
+
+        "gezilecekYer2": "Ulusal Doğa Tarihi Müzesi ",
+
+        "gezilecekYerBilgi2": "Dünyadaki bütün doğa müzelerinden daha fazla ziyaretçi çeken kurum, 1910 yılından bu yana hizmet vermektedir. Müze binası, Hornblower ve Marshall mimarlık firmalarının katkılarıyla Neo-Klasik mimari üslubuyla oluşturulmuştur. Kurum bitki, hayvan, meteor, kayaç, fosil ve kültürel çalışmalar ile beraber 125 milyondan fazla öge içermektedir.",
+
+        "img3": "./img/abdgez2.jpg",
+
+        "img4": "./img/abdyemek1.jpg",
+
+        "yemek1":"Hamburger",
+
+        "yemekBilgi1": "Amerika deyince kesinlikle ilk sıraya konması gereken yemeklerin başında fast food yemek kültürünün en önemli simgelerinden birini koymamız gerekti. İşte biz de çok demode olmasına karşın “Amerika’da ne yenir?” sorusunun ilk akla gelen cevaplarından biri olan hamburgeri listemize ilk sıradan aldık.",
+
+        "img5": "./img/abdyemek2.jpg",
+
+        "yemek2":"Hot Dog",
+
+        "yemekBilgi2": "ABD’nin yiyecek üzerine dünyaya armağan ettiği en etkili şeylerin başında şüphesiz hot dog geliyor. Bu sosisli sandviç aslında öyle aman aman bir lezzete sahip olmasa da yemesinin kolay olması ve ülkenin gerçekleştirdiği muhteşem reklam çalışmaları ile dünya genelinde kendine yer bulmayı başarmıştır.",
+
+        "img6": "./img/abdyemek3.jpg",
+
+        "tatlı":"Cheesecake",
+
+        "tatlıBilgi": "Amerika’nın dünyaya armağan ettiği ve şu anda neredeyse dünyanın neresine giderseniz gidin bulabileceğiniz bir lezzet cheesecake. Ülkede tatlı deyince ilk akla gelen şey kesinlikle “cheesecake” oluyor. Görüntü olarak oldukça cazip gelen bu tatlıyı ülkenin her pastanesinde ve restoranında görmeniz mümkün olabiliyor."
+    },
+
+    {
+        "id":3,
+        "title": "Almanya",
+        "img1": "./img/almanyafoto.jpg",
+        "ulke": "Almanya veya resmî ismiyle Almanya Federal Cumhuriyeti, Orta Avrupa'da bulunan bir ülkedir. Kuzeyinde Kuzey Denizi, Danimarka ve Baltık Denizi, doğusunda Polonya ve Çekya, güneyinde Avusturya ve İsviçre, batısında Fransa, Lüksemburg, Belçika ve Hollanda bulunur.",
+
+        "ekonomi": "Avrupa'daki en büyük ulusal ekonomiye sahip olan ülke, dünyadaki nominal GSYİH'ya göre dördüncü ve SAGP GSYİH açısından beşinci büyüklüğe sahiptir. 2017 yılında, ülke IMF'ye göre Euro bölgesi ekonomisinin %28'ini oluşturmaktaydı. Almanya ayrıca, Avrupa Birliği ve Euro Bölgesi'nin kurucu üyesidir.",
+
+        "iklim": "Kışları ılımlı ve yazları serindir, buna karşın sıcaklık çoğu zaman 30°C'yi aşabilmektedir. Doğuda ise iklim daha karasaldır; kışlar çok soğuk, yazlar çok sıcak ve kuru olabilmektedir.",
+
+        "cografya":"Almanya, Rusya'nın Avrupa'da kalan parçasından sonra, Avrupa'nın en çok nüfusa sahip ülkesidir.",
+
+        "tarih":"Bilinen modern Almanya 18 Ocak 1871'de Prusya'nın düzenlemeleriyle, Versay'da kuruldu. Yeni İmparatorluğu Hohenzollern Hanedanı yönetti, başkent Berlin yapıldı. Yeni İmparatorluk, Avusturya'yı toprakları dışında bıraktı. 1884'ten itibaren Almanya, Avrupa dışında sömürgeler kurmaya başladı.",
+
+        "gezilecekYer1": "Brandenburg Kapısı",
+        "gezilecekYerBilgi1": "Atina’da modellenen 1791 yapımı Brandenburg Kapısı, Berlin’in ilk Neoklasik yapısıdır. Aynı zamanda şehrin en ikonik eseridir. Bir zamanlar Berlin Duvarı’nın bir parçası olduğu için Berlin‘in Doğu ve Batı olarak bölünmesinin de sembolü olmuş.",
+
+        "img2": "./img/almanyagez1.jpg",
+
+        "gezilecekYer2": "Köln Katedrali",
+
+        "gezilecekYerBilgi2": "Ren Nehri’nin kıyısında yükselen Köln Katedrali, şehrin en etkileyici simgesidir. Bununla beraber Avrupa’nın en büyü katedralleri arasındadır. Gotik mimarinin görüldüğü yapının inşası 1248’de başladı ve Orta Çağ döneminde epey iddialıydı. İç mekanı 6.116 metrekarelik bir alanı kaplıyor. Köln‘ün hemen hemen her yerinden katedralin kulelerini görebilirsiniz. Almanya’ya veya Köln’e gelen turistler muhakkak buraya uğrar.",
+
+        "img3": "./img/almanyagez2.jpg",
+
+        "img4": "./img/almanyayemek1.jpg",
+
+        "yemek1":"Berliner Buletten",
+
+        "yemekBilgi1": "Berliner buletten, Berlin’in ünlü yassı köfteleridir. Ülke genelinde farklı isimlerle adlandırılan bu köfte, Kartoffelsalat olarak adlandırılan Alman salatası ile birlikte sunulmaktadır. Ekmek, kıyma, yumurta, soğan, maydanoz ve hardal ile yapılan Berliner buletteni pişirmek için sıvı yağ kullanılmaktadır. Yuvarlak ve yassı şeklinde hazırlanan bu köftelerin tadı, anne köftelerine benzemektedir. Berliner Buletteni, Berlin’deki her restoranda ya da atıştırmalık büfesinde bulmak mümkündür. Ancak şehrin en güzel ve leziz Berliner bulettenini, Curry 36 isimli restoran yapmaktadır.",
+
+        "img5": "./img/almanyayemek2.jpg",
+
+        "yemek2":"Currywurst",
+
+        "yemekBilgi2": "Currywurst, Berlin’in gururu olan geleneksel yemeklerden biridir. Şehirde bu ünlü lezzet için Deutsches Currywurst Museum kurulmuştur. Aynı zamanda şehrin hemen her sokağında Currywurst yapan bir restoran bulunmaktadır. Sadece Berlin’in değil; Almanya’nın da en sevilen atıştırmalığı olan Currywurst, tam olarak köri soslu sucuktur. İlk kez Batı Berlin’de bir yiyecek büfesi sahibi Herta Heuwer tarafından yapılan bu atıştırmalık, 1949 yılından beri Berlin’in en önemli yöresel lezzetidir. Kaiser Friedrich Strasse ve Kantstrasse caddelerinin köşesindeki Herta’nın Büfesi’nde Currywurst satışına devam edilmektedir. Ayrıca Curry 36 isimli mekan, Currywurst yapımı konusunda oldukça iddialı olan restoranlardandır.",
+
+        "img6": "./img/almanyayemek3.jpg",
+
+        "tatlı":"Berliner doughnuts",
+
+        "tatlıBilgi": "Berliner doughnuts; üstü krema, içi reçelle dolu bir tatlı çeşididir. Genellikle ahududu reçeli ile doldurulan bu eşsiz tarif, isteğe göre başka meyvelerin marmelatları ile de hazırlanabilmektedir. Berlin Donut’u olarak da bilinen bu tatlı, dünya çapında tanınmaktadır. Dünyaca tanınmasının nedeni ise ABD Başkanı John F. Kennedy’nin Batı Berlin’de yaptığı bir konuşmada ‘’Ben bir donutum’’ demesidir. Geçmişte özel günler için yapılan Berliner doughnuts, günümüzde her yerde bulunabilen bir lezzettir. Berlin’de en iyi Berliner doughnuts, Brammibal’s Donuts’da satılmaktadır."
+    },
+
+
+    {
+        "id":4,
+        "title": "Arjantin",
+        "img1": "./img/arjantinfoto.jpg",
+        "ulke": "Arjantin, resmi adıyla Arjantin Cumhuriyeti, topraklarının büyük bölümü Güney Amerika kıtasının güneyini kaplayan Güney Konisi’nde yer alan ülke. Arjantin 2.791.810 kilometrekare'lik toplam yüzölçümü ile Güney Amerika'da ikinci, dünyada ise en büyük sekizinci ülkedir.",
+
+        "ekonomi": "Tarım ve tarıma dayalı sanayi, ekonomi ve istihdam içerisinde önemli ağırlığa sahiptir. Hızla artan tarım ürünleri fiyatları Arjantin ekonomisi için önemli bir büyüme kaynağı haline gelmiştir. Gıda, içecek, kimya-petrokimya, otomotiv ve metal sanayii ülkenin en büyük sanayi sektörleri durumundadır.",
+
+        "iklim": "Ülkenin kuzeyinde yağmur ormanlarında nemli tropikal iklim, güneydeki Patagonya'da çöl iklimi, And Dağları boyunca uzanan Bariloche bölgesinde ise İsviçre benzeri dağlar ve göllerle kaplı bir iklim ve Kuzey Doğuda ise karasal ve kuru bir iklim hüküm sürmektedir. Arjantin 190.000 km2 ekilebilir araziye sahiptir.",
+
+        "cografya":"Batıda And Dağları ve doğuda Güney Atlantik Okyanusu ile sınırlanan ülkenin komşuları, batıda Şili, kuzeyde Bolivya ve Paraguay ve kuzeydoğuda Brezilya ve Uruguay'dır.",
+
+        "tarih":"Rio Plata Birleşik Eyaletleri, 1816'da İspanya'dan bağımsızlıklarını ilan ettikten sonra Bolivya, Paraguay ve Uruguay bağımsız olarak yollarına devam edince kalan bölgeye Arjantin ismi verildi. Ülke nüfusu büyük ölçüde Avrupa'dan 1860 ile 1930 yılları arasında gelen göç ile şekillendi.",
+
+        "gezilecekYer1": "Iguazû Falls",
+        "gezilecekYerBilgi1":"Etkileyici güzellikteki Iguazû Şelaleri, Arjantin ve Brezilya sınırında bulunuyor. Dolayısıyla iki ülkede de Iguazû Milli Parkı var. UNESCO Dünya Mirası Listesi’ne alınan büyük şelaleler şüphesiz Güney Amerika’nın en görkemli doğal oluşumlarından.Ziyaretçiler çoğunlukla Şeytan Boğazı denilen yere gidip en iyi manzarayı yakalamak istiyor. Yürüme yolları günümüzde iyileştirilerek epey kolaylık sağlamış.",
+
+        "img2": "./img/arjantingez1.jpg",
+
+        "gezilecekYer2": "Perito Moreno Buzulu ",
+
+        "gezilecekYerBilgi2": " UNESCO Dünya Mirası Listesi’nde olan Patagonia’nın Los Glaciares Milli Parkı, ziyaretçilerine çeşitli konaklama opsiyonları sunuyor. Çoğu turist, Perito Moreno Buzulu’nu görmeye gelir. En popüler buz kütlesi 30 kilometreden oluşuyor. Aynı zamanda burada dünyanın en büyük üçüncü tatlı su rezervi var.",
+
+        "img3": "./img/arjantingez2.jpg",
+
+        "img4": "./img/arjantinyemek1.jpg",
+
+        "yemek1":"Milanesa",
+
+        "yemekBilgi1": "Milanesa, Arjantin mutfağının en sevilen yemeklerinden biri ve Avrupa kökenli bir yemek olan Wienerschnitzel’in Arjantin versiyonu. Genellikle sığır veya tavuk göğsü eti kullanılarak hazırlanıyor. Kızartılmış, gevrek bir kaplaması olan lezzetli bir yemek.",
+
+        "img5": "./img/arjantinyemek2.jpg",
+
+        "yemek2":"Choripan",
+
+        "yemekBilgi2": "Arjantin mutfağında popüler bir sokak yemeği olan choripan iki dilim ekmek arasına konulan ızgara chorizo sosisi ile yapılan bir sandviç. Choripan’ın yanında genellikle chimichurri sosu, salata ve domates dilimleri gibi garnitürler sunuluyor.",
+
+        "img6": "./img/arjantinyemek3.jpg",
+
+        "tatlı":"Alfajor",
+
+        "tatlıBilgi": "Alfajor, Arjantin mutfağının en meşhur tatlılarından biri. İki adet mısır nişastası ve un karışımından yapılan yumuşak bisküvi arasına, genellikle Dulce de Leche olarak bilinen süt reçeli sürülerek hazırlanıyor. Bazı alfajorlarda ise, farklı tatlandırıcılarla kaplanmış çikolata kullanılıyor. Alfajorlar genellikle özel kutular içinde paketlenerek satılıyor ve hediyelik eşya olarak da tercih ediliyor. Arjantin seyahatinizde enfes alfajorları kahvenize eşlikçi yapın ve dönerken sevdiklerinize de hediye alın."
+    },
+
+    {
+        "id":5,
+        "title": "Avustralya",
+        "img1": "./img/avustralyafoto.jpg",
+        "ulke": "Avustralya ya da resmî adıyla Avustralya Federal Devleti, Güney Yarım Kürede yer alan kıta ülkesi. Hint Okyanusu ve Büyük Okyanus arasında uzanır. Okyanusya kıtasında bulunur ve kıtanın çok büyük bir bölümünü kaplar.",
+
+        "ekonomi": "Avustralya ekonomisinin önemini ortaya koymaktadır. Başlıca İhracat Ürünleri Kömür, demir, altın, yün, et, buğday. Başlıca İthalat Ürünleri Makine ve ekipman, taşıt araçları, Bilgisayar ve ofis ekipmanları, ham petrol, hazırgiyim.",
+
+        "iklim": "İklim Avustralya dünyanın en kurak ülkelerinden biridir. Ülkenin iç kesimlerinin büyük bir kısmı düz, çıplak ve seyrek nüfusludur. Öte taraftan Kuzey Avustralya'nın çoğu tropik iklime sahiptir.",
+
+        "cografya":"Avustralya, 7.617.930 km² karada, 68.920 km² sularda olmak üzere toplam 7.686.850 km²'lik bir alana kurulmuştur. Hiçbir ülkeyle kara sınırı yoktur. Çevresinde sadece 25.760 kilometrelik bir sahil şeridi vardır. İklimi: Kıtanın hemen hemen üçte biri tropik ve kalanı ılıman bölgedir.",
+
+        "tarih":"Altına hücum ve tarımsal sanayi beraberinde refah getirdi. 19. yüzyılın ortalarından itibaren altı Britanya kolonilesinde özerk parlamenter demokrasiler kurulmaya başladı. Koloniler 1901 yılında oylanan referandumla federasyonlaşarak tek çatı altında birleşti ve böylece modern Avustralya devleti kuruldu. ",
+
+        "gezilecekYer1": "GREAT OCEAN ROAD",
+        "gezilecekYerBilgi1":"İlk olarak 1932 senesinde ziyarete açılan Great Ocean Road (Büyük Okyanus Yolu), toplam 243 km uzunluğa sahiptir. Ülkenin en önemli ulusal değerleri arasına gösterilen bu yol, I. Dünya Savaşı döneminde ölen Avustralyalı askerlerin anısını yaşatmak için yapılan bir anıt niteliğindedir.",
+
+        "img2": "./img/avustralyagez1.jpg",
+
+        "gezilecekYer2": "SİDNEY OPERA HOUSE",
+
+        "gezilecekYerBilgi2": "Sidney’in simge yapılarından olan opera evi, Avustralya kültürel değerini de en iyi yansıtan yapılarından biridir. Yılda yaklaşık 1500 etkinliğe ev sahipliği yapan opera evi, devasa bir etkinlik merkezidir.  Yapımına 1959 senesinde başlanmış olsa da, tamamlanması 1973 yılını bulmuştur. Opera evinin açılışını ise, II. Elizabeth yapmıştır. ",
+
+        "img3": "./img/avustralyagez2.jpg",
+
+        "img4": "./img/avustralyayemek1.jpg",
+
+        "yemek1":"Sidney Kaya İstiridyesi",
+
+        "yemekBilgi1": "Avustralya kıyılarının mücevheri olarak tanımlanan Sidney kaya istiridyesi, genellikle kavrularak ya da az yağda kızartılarak servis edilmektedir. Sidney kaya istiridyesini muadillerinden ayıran şey ise tatlı bir tada sahip olmasıdır. Worcestershire sosu ile mükemmel bir uyum yakaladığı düşünülen istiridyenin en iyi eşlikçisi bir kadeh şaraptır. Sidney kaya istiridyesi ile hazırlanan lezzetli tariflerin tadına bakmak için William Blue Dining tercih edilmektedir.",
+
+        "img5": "./img/avustralyayemek2.jpg",
+
+        "yemek2":"Dim Sim",
+
+        "yemekBilgi2": "Dim sim ilk kez 1940’lı yıllarda Melbourne’de Çinli bir restoran işletmecisi olan William Chen Wing Young tarafından yapılmıştır. Dim sim geleneksel bir Çin böreği türü olan şumainin farklı bir versiyonudur. Avustralya’ya çalışmak için göç eden Çinlilerin satarak para kazanmalarını sağlamak amacıyla ortaya çıkıralın dim sim, yerel halk tarafından çok sevilmiştir.",
+
+        "img6": "./img/avustralyayemek3.jpg",
+
+        "tatlı":"Çilekli Karpuzlu Kek",
+
+        "tatlıBilgi": "Sidney’in en ünlü gastronomi buluşlarından biri olan çilekli karpuzlu kek, akıllara durgunluk verecek lezzeti ve sosyal medyada binlerce beğeni alacak kadar güzel görseli ile çok sevilmektedir. İlk kez Christopher Thé tarafından hazırlanan pasta, iki kat dakuaz arasına gül kokulu krema, karpuz, çilek, Antep fıstığı ve kuru gül gibi farklı malzemelerin eklenmesi ile hazırlanmaktadır. Bu eşsiz lezzetin ilk ortaya çıktığı yer olan Black Star Pastry’de tadılması önerilmektedir."
+    },
+
+    {
+        "id":6,
+        "title": "Belarus",
+        "img1": "./img/belarusfoto.jpg",
+        "ulke": "Belarus, resmî adıyla Belarus Cumhuriyeti ya da diğer adıyla Beyaz Rusya, Doğu Avrupa'da bulunan bir devlettir. 1991'de Sovyetler Birliği'nin dağılmasıyla bağımsızlığını ilan eden eski bir Sovyetler Birliği ülkesidir. Bir Slav devleti olan Belarus'un başkenti ve en büyük şehri Minsk'tir.",
+    
+        "ekonomi": "Baltık Denizi'ne olan yakınlığı nedeniyle, ülke ılıman bir karasal iklime sahiptir. Kışlar 105 ila 145 gün sürer ve yazlar 150 güne kadar sürer. Ocak ayında ortalama sıcaklık -6 °C  ve Temmuz ayı için ortalama sıcaklık yaklaşık 18 °C  ve yüksek nemlidir.",
+    
+        "iklim": "Baltık Denizi'ne olan yakınlığı nedeniyle, ülke ılıman bir karasal iklime sahiptir. Kışlar 105 ila 145 gün sürer ve yazlar 150 güne kadar sürer. Ocak ayında ortalama sıcaklık -6 °C  ve Temmuz ayı için ortalama sıcaklık yaklaşık 18 °C  ve yüksek nemlidir.",
+    
+        "cografya":"Belarus, Karayla çevrili, genellikle düz bir ülke olan, doğal sınırları olmayan, 207.600 kilometrekarelik bir alanı kaplar veya yüzölçümü bakımında Birleşik Krallık veya Kansas eyaletinden biraz daha küçüktür.",
+    
+        "tarih":"Polonya ve SSCB arasında uzun görüşmelerden sonra 18 Mart 1921'de imzalanan Riga Anlaşması'yla Beyaz Rusya'nın batısı Polonya'ya verildi. Ülkenin geri kalanı da SSCB'ye bağlı bir cumhuriyet oldu. 1991'de Belarus bağımsızlığını ilan etti. Türkiye; Belarus'u tanıyan ilk ülke oldu.",
+    
+        "gezilecekYer1": "Gorky Park",
+        "gezilecekYerBilgi1":"Gorky Park, Belarus’un Minsk şehrinde bulunan en büyük cazibe merkezlerinden biridir. Parkın içinde; oyun alanları, çiçek bahçeleri, tiyatro, stadyum, gözlem evi gibi çeşitli aktiviteler bulunmaktadır. Nehrin üzerinde düzenlenen etkinlikler ve tekne gezileri, ziyaretçilere büyük bir keyif vermektedir. Ferahlatıcı ve eğlenceli etkinlikler sunan park, ziyaretçileri adeta büyülemektedir.",
+    
+        "img2": "./img/belarusgez1.jpg",
+    
+        "gezilecekYer2": "Minsk Botanical Garden",
+    
+        "gezilecekYerBilgi2": "Minsk Botanical Garden, Belarus’un Minsk şehrinde yer almaktadır. Botanik bahçesi, sakin ve keyifli zaman geçirmek için mükemmel bir yerdir. Botanik bahçesinin bitki çeşitliliği ve peyzaj tasarımı ziyaretçileri büyülemektedir. Botanik bahçesi, Belarus’un doğal florasını, su florasını, tıbbi bitkileri, aromatik bitkileri ve daha fazlasını bitki koleksiyonunda bulundurmaktadır. ",
+    
+        "img3": "./img/belarusgez2.jpg",
+    
+        "img4": "./img/belarusyemek1.jpg",
+    
+        "yemek1":"Draniki",
+    
+        "yemekBilgi1": "Belarus mutfağın en meşhur yemeklerinden biridir. Altın sarısı nar gibi kızarmış yeni ateşten çıkmış bu lezzetli yemeği tatmadan Belarus'tan gitmek haksızlık olur! Belarus yemeklerin çoğunda patates kullanılır. Draniki de bir çeşit patates mücveridir.",
+    
+        "img5": "./img/belarusyemek2.jpg",
+    
+        "yemek2":"Piroshki",
+    
+        "yemekBilgi2": "Piroçki, piroşki gibi farklı okunuş ve isimlerle de adlandırılan bu tat, kızartılabiliyor, iç malzemeleri değiştirilebiliyor ya da şekilleri değiştirilerek pişirilebiliyor.",
+    
+        "img6": "./img/belarusyemek3.jpg",
+    
+        "tatlı":"Bal",
+    
+        "tatlıBilgi": "Tatlılara gelince, eskiden beri bal Belaruslular için en önemli tatlıdır. Ayrıca soloduha (malt hamuru), kulaga (yemiş, un, şeker ve baldan yapılan jöle), fırında elma hazırlanırdı. Çökelekten maçanka ile yapılan tatlı pide, Radzivil usulu armut, meşhur tarifler arasındadır."
+    },
+
+    {
+        "id":7,
+        "title": "Bolivya",
+        "img1": "./img/bolivyafoto.jpg",
+        "ulke": "",
+    
+        "ekonomi": "Bolivya'nın Ekonomisi / T.C. Dışişleri Bakanlığı Ülkenin verimli kalay, çinko, gümüş ve altın madenleri ile doğalgaz ve petrol yatakları bulunmaktadır. Stratejik bir maden olarak kabul edilen ve elektrik bataryalarının temel hammaddesi olan lityumun dünyadaki rezervlerinin %60'tan çoğu Bolivya'dadır.",
+    
+        "iklim": "Başka nehirler varsa da önemsizdir. İklimi Tropik iklim bölgesinin girişinde yer alan Bolivya'nın yüksek yaylalarında dikkate değer soğuklar; alçak bölgelerinde ise bunaltıcı sıcaklar göze çarpar.",
+    
+        "cografya":"Ülkenin coğrafyası çok çeşitli arazi ve iklimlere sahiptir. Bolivya, dünyanın en büyüklerinden biri olarak kabul edilen yüksek düzeyde biyoçeşitlilik ve ayrıca Altiplano, tropikal yağmur ormanları, kuru vadiler ve tropikal bir savan olan Chiquitania gibi ekolojik alt birimleri olan birkaç ekolojik bölge'ye sahiptir.",
+    
+        "tarih":"İspanyol sömürgesi olduğu dönemde Yukarı Peru olarak adlandırılan ülke, 1825 yılında İspanya'dan bağımsızlığını ilan etti, ancak bu bağımsızlık 1847 yılında tanındı. Bağımsızlığını kazanmasında Simon Bolivar'ın katkısı üzerine ülke Bolivya ismini aldı.",
+    
+        "gezilecekYer1": "Titicaca Gölü",
+        "gezilecekYerBilgi1":"Güney Amerika’daki en büyük tatlı su gölü olarak bilinen Titicaca Gölü (Lago Titicaca), Copacabana kasabasında bulunuyor. Rivayete göre İnkaların İspanyollar’dan kaçırdığı iki ton altını buraya gömdüğü de söyleniyor. Harika doğası ve dingin atmosferiyle enfes bir manzara oluşturan Titicaca’da, katamaranlarla eğlenceli bir gezi yapabilirsiniz.",
+    
+        "img2": "./img/bolivyagez1.jpg",
+    
+        "gezilecekYer2": "Isla Del Sol",
+    
+        "gezilecekYerBilgi2": "Titikaka Gölü üzerindeki en büyük ada olan Isla Del Sol (Güneşin Adası), ülkenin en popüler ziyaret yerlerinden biri. Copacabana’dan hareket eden gezi tekneleriyle ulaşabileceğiniz adanın güney bölümünde yer alan Yumani köyünde ise gezginlerin konaklayabileceği hostel ve pansiyonlar hizmet veriyor. ",
+    
+        "img3": "./img/bolivyagez2.jpg",
+    
+        "img4": "./img/bolivyayemek1.jpg",
+    
+        "yemek1":"Pique Macho",
+    
+        "yemekBilgi1": "Dana etinin birçok leziz malzemeyle buluşturulduğu pique macho, La Paz’da denenmesi önerilen yöresel tarifler arasındadır. Yemeğin ana malzemesi olan dana etine soğan, sosis, peynir, renkli ve acı biber gibi ürünler eşlik etmektedir. Sunumunda patates kızartması ve yumurta dilimleri ile daha da zenginleştirilen pique macho, Dumbo adlı restoranda tadılabilmektedir.",
+    
+        "img5": "./img/bolivyayemek2.jpg",
+    
+        "yemek2":"Sanduiche De Chola",
+    
+        "yemekBilgi2": "La Paz’a giden her turistin tadına bakmak istediği sanduiche de chola, bölge mutfağının en beğenilen sokak lezzetlerinden biridir. Kavrulmuş domuz etinin yanı sıra havuç, soğan, salsa sosu ve acı sos gibi malzemelerin özel sandviç ekmeklerine eklenmesiyle birlikte muhteşem bir lezzet yakalanmaktadır. Las Cholas adlı restoranda bu lezzetli sandviçin tadına bakılabilmektedir.",
+    
+        "img6": "./img/bolivyayemek3.jpg",
+    
+        "tatlı":"Chairo",
+    
+        "tatlıBilgi": " La Paz’a giden turistlerin her öğünde tercih edebilecekleri chairo, kuzu eti ile yapılan bir çorba çeşididir. Spesiyal tarifte kuzu etine eşlik eden malzemeler arasında ise buğday, soğan, mısır, havuç ve sarımsak vardır. Kimyon ve karabiber gibi baharatlarla lezzetlendirilen chairo, El Famoso Chairo gibi kaliteli restoranlarda tadılabilmektedir."
+    },
+
+    {
+        "id":8,
+        "title": "Brezilya",
+        "img1": "./img/brezilyafoto.jpg",
+        "ulke": "",
+    
+        "ekonomi": "Brezilya ekonomisi, gayri safi yurtiçi hasıla (nominal GSYİH) ölçümüyle dünyanın en büyük on ikinci ve 2020'de satın alma gücü paritesine göre de yine dünyanın sekizinci en büyük ekonomisidir.",
+    
+        "iklim": "Kuzeyden güneye, Brezilya'nın iklimi yavaş yavaş tropikal iklimden  nispeten ılıman bir subtropikal iklime  dönüşür. Brezilya, ekvator, tropikal, kuru tropikal, alpin ve subtropikal olmak üzere toplam beş farklı iklime sahiptir.",
+    
+        "cografya":"Brezilya, Güney Amerika'nın en büyük ülkesidir. Yüzölçümü olarak dünyanın 5. büyüğü olan 8.456.510 kilometrekarelik arazisi, Güney Amerika'nın neredeyse yarısını kaplar. Brezilya'nın en yüksek noktası deniz seviyesinden 2.994 metre yükseklikteki Pico da Neblina'dır.",
+    
+        "tarih":"Brezilya, kaşif Pedro Alvares Cabral tarafından Portekiz adına 22 Ekim 1500 tarihinde keşfedilmiştir. İlk başta Portekizliler Brezilya ile pek ilgilenmediler, ancak daha çok Çin, Hindistan ve Endonezya ile ticari faaliyetlere odaklandılar.",
+    
+        "gezilecekYer1": "Tujica Ormanı",
+        "gezilecekYerBilgi1":"Kahve üretimi için kesilmiş yağmur ormanları 19. Yüzyılda yeniden ormana çevrilmiş. Burası 32 dönümlük alanıyla dünyanın bir şehrin sınırları içerisindeki en büyük ormanıdır. Rehbersiz gezmeniz tehlikeli olacaktır. Cascatinha Şelalesi ve Mayrink Şapeli de gezilebilir.",
+    
+        "img2": "./img/brezilyagez1.jpg",
+    
+        "gezilecekYer2": "İsa Heykeli",
+    
+        "gezilecekYerBilgi2": "Rio de Janeiro şehrinin simgesi İsa Heykeli, kentin en yüksek tepesine yapılmış ve Dünyanın Yedi Yeni Harikasından biri olarak seçilmiş bir heykel. Buraya trenle ulaşım sağlanıyor. Hatta heykelin yanına kadar yürüyen merdivenlerle tırmanabilirsiniz. Brezilya’nın kuruluşunun 100. Yılı anısına dikilen heykel, 30 metre yüksekliğinde. ",
+    
+        "img3": "./img/brezilyagez2.jpg",
+    
+        "img4": "./img/brezilyayemek1.jpg",
+    
+        "yemek1":"Farofa",
+    
+        "yemekBilgi1": "Farofa, genelde feijoada yemeğinin yanında garnitür olarak servis edilmektedir. Manyok ununun, bol miktarda tereyağı ve baharatla kavrulması ile hazırlanmaktadır. Quick Galteos, farofa ile ünlenmiş bir restorandır.",
+    
+        "img5": "./img/brezilyayemek2.jpg",
+    
+        "yemek2":"Feijoada",
+    
+        "yemekBilgi2": "Feijoada, hem sığır hem de domuz eti kullanılarak hazırlanan geleneksel bir güveçtir. Güvecin içine, sindirime yardımcı olduğuna inanılarak portakal da eklenmektedir. Ayrıca feijoada yapımında siyah fasulye, lahana ve patates de kullanılmaktadır. Ziyaretçiler Braseiro da Gávea’da geleneksel feijoada güvecini deneyebilmektedir.",
+    
+        "img6": "./img/brezilyayemek3.jpg",
+    
+        "tatlı":"Brigadeiro",
+    
+        "tatlıBilgi": "Brigadeiro; kakao, tereyağı ve krema ile hazırlanan minik yuvarlak keklerdir. Üzerleri çikolata parçaları ile kaplanan bu minik keklerin ilk kez Rio de Janerio’da bir şekerlemeci olan Heloisa Nabuco de Oliveira tarafından, Eduardo Gomes’un başkan adaylığını desteklemek amacıyla yapıldığı söylenilmektedir. Confeitaria Colombo, hazırladığı enfes brigadeiro tatlıları ile beğenileri toplayan bir mekândır."
+    },
+
+    {
+        "id":9,
+        "title": "Çin",
+        "img1": "./img/çinfoto.jpg",
+        "ulke": "Çin, resmî adı ile Çin Halk Cumhuriyeti, Doğu Asya'da Çin Komünist Partisi tarafından tek parti rejimiyle yönetilen üniter egemen devlet.",
+    
+        "ekonomi": "Kısacası Çin ekonomisi 1980'lerin sonu ile 1990'ların başında önemli ölçüde karma bir sistem olma özelliğine sahiptir. Çin ekonomisi tam olarak ne merkezi planlı bir ekonomi, ne de pazar ekonomisi olarak tanımlanmaktadır.",
+    
+        "iklim": "Çin Halk Cumhuriyeti'nin farklı bölgelerinde Muson, Tropikal Savan, Çöl, Kurak ve Karasal olmak üzere pek çok iklim türü bulunur. Güney bölgelerinde muson ikliminin hâkim olduğu Çin Halk Cumhuriyeti'nde, özellikle kuzeybatı kesimlerinde sert kara iklimi hüküm sürer.",
+    
+        "cografya":"Çin büyük fiziksel çeşitliliğe sahiptir. Ülkenin doğusu ile güneyi, verimli ovalardan ve bayırlardan ibaret, ve Çin'deki tarımsal üretimin ve insan nüfusunun çoğunun bulunduğu konumdur. Ülkenin batısı ve kuzeyinde ise batık havzalar, yaylalar ve yüksek masifler mevcuttur.",
+    
+        "tarih":"Çin tarihi, yazılı kaynaklara göre 3500 yıldan fazla geriye uzanmakta olup yazılı Çin tarihi ise MÖ 1500'lerde Shang Hanedanı döneminden (c. MÖ 1600–1046) başlamaktadır. Çin binlerce yıllık tarihi ile dünyanın en eski medeniyetlerinden biri ve uygarlığın beşiği olarak kabul edilmektedir.",
+    
+        "gezilecekYer1": "Çin Seddi",
+        "gezilecekYerBilgi1":"Toplam 8.851.8 kilometre uzunluğuyla uzaydan bile görülebilen bir yapı olan Çin Seddi, UNESCO Dünya Mirası Listesi’nde yer alıyor. Görkemli ve etkileyici görüntüsüyle ülkenin en çok turist çeken yapıları arasında bulunan Çin Seddi her yıl milyonlarca kişi tarafından ziyaret ediliyor.",
+    
+        "img2": "./img/çingez1.jpg",
+    
+        "gezilecekYer2": "Tarihi Makao Şehri",
+    
+        "gezilecekYerBilgi2": " Günümüzde Çin Halk Cumhuriyeti’ne bağlı özel bir yönetim bölgesi olan Tarihi Makao Şehri, 1999 yılına kadar Portekiz’e bağlı bir sömürge idi. Tarihi ve kültürel gezilere meraklı olan turistlerin ve gezginlerin en sevdiği seyahat rotaları arasında yer alan bu şehir, ülkenin güney kıyısında yer alıyor.",
+    
+        "img3": "./img/çingez2.jpg",
+    
+        "img4": "./img/çinyemek1.jpg",
+    
+        "yemek1":"Kung Pao Tavuğu",
+    
+        "yemekBilgi1": "Kung Pao tavuğunun Çince ismi gōngbào jīdīng. Çin tavuk yemekleri listesinde birinci sırada. Küp şeklinde doğranmış tavuklar, kuru chili biberi ve kızarmış fıstıklar buluşuyor ortaya enfes bir lezzet çıkıyor. Mutlaka denenmeli.",
+    
+        "img5": "./img/çinyemek2.jpg",
+    
+        "yemek2":"Pekin Ördeği",
+    
+        "yemekBilgi2": "Çin’in milli yemeği nedir diye sorsanız bir Çinliye size direkt Pekin Ördeği der. Bu yöresel lezzet geçmişte kraliyet menüsünde yer alıyormuş. Pekin Ördeği, odun ateşi üzerine asılı şekilde ağır ağır pişiriliyor. İnce dilimler kesiliyor ve yeşil soğan, havuç gibi sebzeler ayrıca lavaş ile servis ediliyor. Sosa batırılan etleri dürüm yapıp afiyetle yiyebilirsiniz.",
+    
+        "img6": "./img/çinyemek3.jpg",
+    
+        "tatlı":"Ma Po Tofu",
+    
+        "tatlıBilgi": "Asırlık geçmişi olan ve Çin yemekleri içinde en meşhurlarından biri Ma Po Tofu. Önce tofu parçaları kızartılıyor sonra fasulye-çili karışımı sos ve yağdan oluşan karışıma eklenip pişiriliyor. Acı sevmiyorsanız sizin için pek uygun olmayabilir."
+    },
+
+    {
+        "id":10,
+        "title": "Fas",
+        "img1": "./img/fasfoto.jpg",
+        "ulke": "Fas veya resmî olarak Fas Krallığı, yaklaşık 37 milyon nüfusa ve 720.000 km² yüzölçümüne sahip bir Kuzey Afrika ülkesidir. Başkenti Rabat ve en büyük şehri de Kazablanka'dır. Mağrip ülkelerinden biri olan Fas'ın, Atlantik Okyanusu'dan Cebelitarık Boğazı'nı çevreleyip Akdeniz'de son bulan uzun bir sahil şeridi vardır.",
+    
+        "ekonomi": "Fas orta gelir düzeyinde bir ülke olarak kabul edilmektedir. Gayri Safi Yurtiçi Hasıla'nın yaklaşık yarısı hizmetler sektörüne dayanmaktadır. Sanayi sektörü GSYİH'nın yaklaşık % 13'ünü, tarım sektörü ise GSYİH'nın yaklaşık % 12'sini oluşturmaktadır.",
+    
+        "iklim": "Okyanus'a daha yakın olan şehirlerde ılıman iklim tipi hakimdir. Atlas Dağı bölgesinde yer alan şehirlerde ise daha çok çöl iklimi hakim iklimdir. İç kesimlerde ise daha çok Akdeniz iklimi görülür. Ülkede genellikle kışlar ılık, yaz mevsimi ise sıcak geçer.",
+    
+        "cografya":"Ülkenin orta kesimleri olan Atlas Dağları ve aralarındaki vadilerde serin bir iklim hüküm sürerken, özellikle güney-doğu olmak üzere iç kesimlerde çöl iklimi hakimdir. Ülkenin sıcaklık ortalamaları, kıyılardan iç kesimlere doğru gittikçe artarken, yağış ortalamaları ise azalma gösterir.",
+    
+        "tarih":"Fas tarihi, günümüzde Fas Krallığı olarak bilinen ülke topraklarının ve halklarının tarihidir. 788'de, Arapların Kuzey Afrika'yı fethinden yaklaşık yüzyıl sonra, bir dizi Faslı Müslüman hanedanları Fas'ı yönetmeye başladı.",
+    
+        "gezilecekYer1": "Jemaa el-Fnaa Meydanı",
+        "gezilecekYerBilgi1":"Jemaa el-Fnaa 11. yüzyıldan kalma eşsiz bir meydandır. Fas Marakeş’te bulunan meydan, kentin kültürel mirasının temelini oluşturmaktadır. 2008 yılında UNESCO İnsanlığın Somut Olmayan Kültürel Mirası Listesi’ne dahil edilmiştir. Jemaa el-Fnaa ziyaretçilerine Fas kültürünü en net şekilde yansıtmaktadır.",
+    
+        "img2": "./img/fasgez1.jpg",
+    
+        "gezilecekYer2": "Hasan Cami",
+    
+        "gezilecekYerBilgi2": " Kazablanka’da şehrin sembolik ibadethanesi olan II. Hasan Camii, dini birleştiriciliğinin yanı sıra olağanüstü mimarisi ve etkileyici tarihçesiyle de dikkat çeken özellikteki bir yapıdır. Camii, dokusunda taşıdığı islam dinine ait ruhun manevi yönüyle birlikte okyanus üzerindeki konumu ve muazzam yapısal özellikleriyle dünyada benzerine az rastlanan yapılardandır.",
+    
+        "img3": "./img/fasgez2.jpg",
+    
+        "img4": "./img/fasyemek1.jpg",
+    
+        "yemek1":"Harira",
+    
+        "yemekBilgi1": "Arapça “İpeksi” anlamına gelen harira, oldukça lezzetli bir çorbadır. Yerel halk bu çorbayı genellikle ramazan aylarında oruçlarını açarken tüketmektedir. Tavuk, mercimek, nohut, şehriye kullanılarak hazırlanan harira için Imilchil ismindeki restoran önerilmektedir.",
+    
+        "img5": "./img/fasyemek2.jpg",
+    
+        "yemek2":"Kebda Mchermla",
+    
+        "yemekBilgi2": "Kuzu ciğeri kullanılarak hazırlanan kebda mchermla, genellikle ana yemeklerinin yanında meze olarak servis edilmektedir. Sarımsak, maydanoz ve karabiber, kimyon, kırmızı toz biber gibi çeşitli baharatlar ilave edilebilen bu yiyecek; özellikle Dar Filali isimli restoranda oldukça meşhurdur.",
+    
+        "img6": "./img/fasyemek3.jpg",
+    
+        "tatlı":" Sellou",
+    
+        "tatlıBilgi": "Meknes mutfağının vazgeçilmez tatlıları arasında yer alan sellou; bal, un, badem ve anason ile yapılmaktadır. Özellikle Ramazan aylarında baharatlı yemeklerin ardından sıkça tercih edilen sellou; tarçın ve susam eşliğinde sunulmaktadır. Enfes bir sellou için La Fine Bouche adlı mekana uğranması mümkündür."
+    },
+
+    {
+        "id":11,
+        "title": "Finlandiya",
+        "img1": "./img/finlandiyafoto.jpg",
+        "ulke": "Finlandiya veya resmî adıyla Finlandiya Cumhuriyeti, Kuzey Avrupa'daki bir İskandinav ülkesi. Doğuda Rusya, kuzeyde Norveç ve batıda İsveç'le komşudur. Batıda Botniya ve güneyde Finlandiya körfezlerine kıyısı vardır. Yüzölçümü 338.455 km² ve nüfusu 5,5 milyondur. Helsinki ülkenin başkenti ve en büyük şehridir.",
+    
+        "ekonomi": "Finlandiya ekonomisi, Fransa, Almanya, İsveç veya Birleşik Krallık gibi diğer batı ekonomileriyle eşit bir kişi başına üretimle son derece sanayileşmiş, karma bir ekonomidir.",
+    
+        "iklim": "Finlandiya iklimi soğuk-ılıman olarak nitelendirilir. Ülkede kış aylarında -20'ye varan soğuklar görülür.",
+    
+        "cografya":"Finlandiya yer şekilleri bakımından yılın büyük bir bölümünü su ve buzun altında geçiren kayaçlara sahiptir. Finlandiya'nın kuzey kesiminde bulunan kayaç ve topraklar yılın tamamı boyunca buzla kaplı bulunmaktadır.",
+    
+        "tarih":"Finlandiya 6.12.1917 tarihinde bağımsızlığını ilan etmiş ve Rusya Ekim Devrimi'nde yönetime geçen Bolşevikler 31.12.1917 tarihinde Finlandiya'nın bağımsızlığını kabul etmişlerdir. 1812 Helsinki başkent oldu. 1827 Eski başkent Turku yangında mahvoldu ve Helsinki'nin önemi arttı.",
+    
+        "gezilecekYer1": "Suomenlinna Adası",
+        "gezilecekYerBilgi1":"Suomenlinna, Finlandiya’nın en çok turist çeken tarihi yapılarından biridir. 18. yüzyıldan kalma bir kale olan ve 6 ada üzerine inşa edilen yapı, uzun yıllar farklı devletlere ev sahipliği yapmıştır. Toplamda 210 hektarlık bir alanı kaplayan Suomenlinna, turistik açıdan taşıdığı önemle UNESCO Dünya Mirası Listesi’nde yer almaktadır.",
+    
+        "img2": "./img/finlandiyagez1.jpg",
+    
+        "gezilecekYer2": "Helsinki Katedrali",
+    
+        "gezilecekYerBilgi2": "Helsinki Katedrali, yakın tarihin en önemli dini yapılardan biri olarak dikkat çekmektedir. Bizzat dönemin çarının isteği ile yaptırılan kilise, bağımsızlığın kazanılmasının ardından Helsinki Katedrali adını almıştır. Önceki dönemlerde ise Nicholas Kilisesi ve Büyük Kilise adlarını almıştır. Şehrin tam merkezine konumlanan bu yapı, her sene yüz binlerce ziyaretçiyi ağırlamaktadır. ",
+    
+        "img3": "./img/finlandiyagez2.jpg",
+    
+        "img4": "./img/finlandiyayemek1.jpg",
+    
+        "yemek1":"Poronkaristys",
+    
+        "yemekBilgi1": "Rovaniemi’nin eşsiz tatlarından olan poronkaristys, ren geyiği etinin çeşitli malzemelerle birleştirildiği yöresel bir lezzettir. Spesiyal tarif hazırlanırken öncelikle ince dilimlenmiş ren geyiği etinin soğanla birlikte sotelendiği, sonrasında ise bira veya et suyuyla yavaşça pişirildiği bilinmektedir. Genellikle patates püresi üzerinde servis edilen meşhur tarifin denenebileceği en güzel duraklardan biri Nili Restaurant’tır.",
+    
+        "img5": "./img/finlandiyayemek2.jpg",
+    
+        "yemek2":"Lapin Poron Kylmasavuliha",
+    
+        "yemekBilgi2": "Lapin poron kylmasavuliha, ren geyiği etinin fümelenmesi ile hazırlanan benzersiz bir tariftir. İnce ince kesilen etler farklı ürünlerle birleştiğinde enfes tariflere dönüşmektedir. Genellikle soğuk tüketilen lapin poron kylmasavuliha, Lapland Restaurant Kotahovi’de tadılabilmektedir.",
+    
+        "img6": "./img/finlandiyayemek3.jpg",
+    
+        "tatlı":"Lappi Peyniri",
+    
+        "tatlıBilgi": "Laponya’nın nefis yöresel lezzetlerinden biri olan Lappi peyniri, yarı yumuşak dokuya sahip bir kahvaltılıktır. Hem hamur işlerinin dolgusuna eklenen hem de bölgenin yerel şaraplarının tadımına eşlik eden Lappi peyniri, hafif ve az tuzludur. Nili Restaurant’a uğrayan turistlerin enfes peyniri leziz bir şarapla birlikte tatmaları mümkündür."
+    },
+
+    {
+        "id":12,
+        "title": "Fransa",
+        "img1": "./img/fransafoto.jpg",
+        "ulke": "Fransa ya da resmî adıyla Fransa Cumhuriyeti veya Fransız Cumhuriyeti, ana kara toprakları Batı Avrupa'da bulunan ve dünyanın pek çok bölgesinde denizaşırı toprakları olan bir ülkedir.",
+    
+        "ekonomi": "Fransa ekonomisi, nominal olarak dünyanın altıncı büyük ve satınalma gücü paritesi bakımından dokuzuncu büyük ekonomisi olup Almanya'dan sonra Avrupa Birliği'nin en büyük 2. ekonomisidir.",
+    
+        "iklim": "Kuzey ve kuzeybatı kesimlerinde ılıman iklim egemendir ve denizelliğin etkisi iç bölgelerin de iklimlerini biçimlendirmektedir. Güneydoğuda ise Akdeniz iklimi egemendir. Batı kesimler okyanusal iklim etkisi altındadır ve yüksek miktarda yağış alır. Bu bölgelerde kışlar ılık ve yazlar serin geçer.",
+    
+        "cografya":"Ülkenin kuzeyinde kışları soğuk, yazları yağmurlu geçer. Güneyde ise Akdeniz iklimi hakimdir. Arazi yapısı: Plato görünümlü masifleri oluşturan yaşlı dağ kalıntıları; kuzey ve batıdaki tortul ovalar; güney ve güneydoğudaki genç dağlar ile bunların arasında uzanan dar ovalar.        ",
+    
+        "tarih":"Fransa tarihi için ilk yazılı kayıtlar Demir Çağı'ndan itibaren bulunmaktadır. Günümüzdeki Fransa, Galya olarak bilinen bir Roma İmparatorluğu eyaletinin üstüne kuruludur. Romalı tarihçiler, bölgede, dil farkıyla ayrılan üç büyük etnik grubun varlığını ortaya koymuşlardır: Galyalılar, Akuitanlar ve Belgalar.",
+    
+        "gezilecekYer1": "Eyfel Kulesi",
+        "gezilecekYerBilgi1":"1889’da Paris’te yükselen Eyfel Kulesi, sadece Fransa’nın değil dünya genelinde de oldukça önemli bir sembol haline gelmiştir. Mimarisi ile en belirgin yapılar arasında öne çıkan Eyfel Kulesi, 31 Mart 1889’da açılmıştır. Gustave Eiffel, üç renkli Fransız bayrağını zirvesine yerleştirmek için 1.710 basamağı yürüyerek Kule’nin tepesine çıkmıştır. Bugün kule milyonlarca ziyaretçiyi ağırlamaktadır.",
+    
+        "img2": "./img/fransagez1.jpg",
+    
+        "gezilecekYer2": "Notre Dame Katedrali",
+    
+        "gezilecekYerBilgi2": "Notre Dame de Paris veya Notre Dame Katedrali, ziyaretçiler için Paris’teki en popüler turistik yerlerden biridir. Katedralin vitraylarına, kulelerine, gül işlemeli pencerelerine, çan kulesine ve çirkin yaratıklarına hayran kalmaktadır. Paris’in panoramik manzarasını görmek için kuleler de ziyarete açıktır. Bu sebeple dünyanın her yerinden birçok ziyaretçiyi ağırlamaktadır. ",
+    
+        "img3": "./img/fransagez2.jpg",
+    
+        "img4": "./img/fransayemek1.jpg",
+    
+        "yemek1":"Biftek Kızartması",
+    
+        "yemekBilgi1": "Biftek ve patates kızartmasından oluşan Steak Frites, Paris’in en sevilen yiyeceklerinden biridir. Fransız usulü biftek olarak geçen az pişmiş dana eti, özellikle alkollü mekanlarda sıkça tüketilmektedir. Damak zevkine bağlı olarak değişebilecek soslar ve yanına gelen çıtır patates kızartması ile eşsiz bir lezzet oluşturmaktadır. Bu güzel yemeğin denenebileceği en güzel mekânlardan birisi ise Paris’te bulunan Champeaux in Les Halles’dir.",
+    
+        "img5": "./img/fransayemek2.jpg",
+    
+        "yemek2":"Soğan Çorbası",
+    
+        "yemekBilgi2": "Klasik bir Paris yemeği olan soğan çorbası, kentin yöresel lezzetlerinden biridir. Et suyu kullanılarak hazırlanan bu çorbaya, tereyağında yavaşça karamelize edilen soğanlar ve kekik eklenmektedir. Soğan çorbasını diğer çorbalardan farklı kılan içindekilerden çok sunumudur. Çorbanın üzerine Fransa’ya özgü olan baget ekmeği, rendelenmiş gruyere ve parmesan peynir eklenmektedir. Tüm kase peynirle kaplandıktan sonra fırına verilmektedir. Eriyen peynirler ve kıtırlaşan baget ekmeği ile eşsiz bir sunuma ve lezzete ulaşan soğan çorbası, Paris’e gidildiğinde mutlaka denenmesi gereken lezzetlerdendir. Ziyaretçilerin bu özel çorbayı Paris’te deneyebilecekleri en güzel restoran ise Café Du Centre 57 Rue Montorgueil‘dir.",
+    
+        "img6": "./img/fransayemek3.jpg",
+    
+        "tatlı":"Fougasse",
+    
+        "tatlıBilgi": "Fougasse; portakal çiçeği suyu, anason, fındık ve badem ile süslenmiş bir çeşit ekmektir. Geleneksel Monte Carlo tatlılarından olan fougasse, dünyanın en popüler tatlılarından biridir. Monte Carlo’da bulunan ünlü Boulangerie l’Epi d’Or ve Cafe de Paris’te fougassenin tadılması önerilmektedir."
+    },
+
+    {
+        "id":13,
+        "title": "Grönland",
+        "img1": "./img/grölandfoto.jpg",
+        "ulke": "Grönland, Atlas Okyanusu'nun kuzeyinde, 2.166.086 km² ile kuzey kutbundaki en büyük buz örtüsüyle kaplı, Danimarka Krallığı'na bağlı özerk bir bölgedir. Kanada Arktik Adaları'nın doğusunda, Arktik ve Atlantik okyanusları arasında yer alan dünyanın en büyük adasıdır.",
+    
+        "ekonomi": "Grönland'ın ekonomisi uzun zamandır balıkçılığa dayanır. Bir zamanlar ekonominin temel dayanağı olan fok avı, 20. yüzyılın başlarında büyük ölçüde azaldı ve yerini morina balığı, karides, konserve ve dondurma gibi ürünlere bıraktı. Fiyat dalgalanmaları 20. yüzyılın sonlarında ekonomide endişe yaratmaya başladı ve Grönland bu nedenle ekonomisini çeşitlendirmeye başlayarak turizm endüstrisine daha çok önem verdi.",
+    
+        "iklim": "Ülke çok yüksek enleminden dolayı serin yazlara ve çok soğuk kışlara sahip. İklimi arktik ile yarı arktik arasında. Örneğin başkenti Nuuk, Ocak ayında ortalama -10 C düşük sıcaklığa ve Temmuz ayında ise sadece 9,9 C yüksek ortalama sıcaklığa sahiptir.",
+    
+        "cografya":"Grönland'ın topografyası çoğunlukla düzdür. Adanın en yüksek dağı olan Bunnbjørn Fjeld'de 3.700 metreden ülke ulusunu selamlar. Ek olarak topraklarının çoğu buz tabakası ile kaplıdır ve ülkenin üçte ikisi permafrost durumunda.Grönland'da bulunan bu büyük buz tabakası iklim değişikliğini gözlemlemede kullanılıyor. Bilim adamları bu bölgedeki buz çekirdeklerini delerek küresel ısınmanın etkilerini gözlemliyorlar. Ülke fazlasıyla buzla kaplı olduğundan küresel ısınmanın buzulu eritmesi halinde deniz seviyelerinin önemli ölçüde yükseleceği düşünülüyor.",
+    
+        "tarih":"Tarih öncesi zamanlardan beri çeşitli Paleo-Eskimo gruplarının adada yaşadığı düşünülmektedir. Bununla birlikte bazı arkeolojik araştırmalar MÖ 2500 civarında Grönland'a giren İnuitlere işaret etti. Norveçliler ve İzlandalıların Grönland’ın batı kıyılarına yerleşmesi ancak 986'da görülüyor. Yerleşimciler adayı Avrupa keşiflerinin başlamasıyla buldular.",
+    
+        "gezilecekYer1": "Grönland’in  Illulisat Kasabası",
+        "gezilecekYerBilgi1":"Grönland’ın büyüklüğünü ve sunduğu gezi seçeneklerini düşündüğümüzde insan nereden başlayacağını şaşırıyor bir an. Ama ilk kez Grönland’i ziyaret edecekler için Illulisat şehri hem Grönland’da gezilecek yerler listesinde hemde gezinizin başlangıç noktası olmalı. Hem şehrin çok güzel olması, hem de Eqi Glasiyerine giden gemilerin buradan kalkması nedeniyle pek çok turistin öncelikli uğrak yeri.",
+    
+        "img2": "./img/grölandgez1.jpg",
+    
+        "gezilecekYer2": "Doğu Grönland Ulusal Parkı",
+    
+        "gezilecekYerBilgi2": " Dünyanın en büyük ulusal parkı unvanını taşıyan Doğu Grönland Ulusal Parkı (Grønlands Nationalpark), 1974 yılında hizmete girdi. Danimarka Krallığı tarafından kurulan bu park aynı zamanda Grönland’ın tek ulusal parkı olmasıyla da biliniyor. 972 bin kilometrekarelik genişliğiyle bölgenin kuzeydoğusunu çevreleyen bu park, yeryüzünün en büyülü ve maceralı yerlerinden biri. Kutuplardaki bitki ve hayvan türlerini görebileceğiniz bu ulusal park, buzullardan arta kalan derin vadileri ve etkileyici atmosferiyle nefes kesen bir güzelliğe sahip.",
+    
+        "img3": "./img/grölandgez2.jpg",
+    
+        "img4": "./img/grölandyemek1.jpg",
+    
+        "yemek1":"Reindeer Steak",
+    
+        "yemekBilgi1": "En sevilen etlerden biri olan Muskox birçok şekilde yapılmaktadır. Genel olarak içinde sebzeler ve çeşitli soslarla pişirilenler oldukça yaygındır. Ren geyiği etini de birçok şekilde tüketirler. Sadece tuz ve karabiber ekleyip tavada kızartıp yanında pirinç pilavı ya da patatesle yenen ren geyiği çok sık yapılmaktadır. Reindeer Steak de popüler yemekler arasındadır.",
+    
+        "img5": "./img/grölandyemek2.jpg",
+    
+        "yemek2":"Suaasat ÇORBASI",
+    
+        "yemekBilgi2": "Suaasat, geleneksel bir Grönland çorbasıdır. Geleneksel olarak fok etinden yapılsa da fok olmadığı zamanlarda deniz kuşları balina ya da ren geyiğinden de yapılabilir.  Arpa ya da pirincin gece boyunca suda bırakılarak nişastasının suya akıtması beklenir. Bu nişasta çorbanın kıvamı için çok önemlidir. Çorbanın içine soğan ve patates de eklenir.",
+    
+        "img6": "./img/grölandyemek3.jpg",
+    
+        "tatlı":"Puisi",
+    
+        "tatlıBilgi": "Bu kadar soğuk bir memlekette yaşayan insanların en temel gıdaları çoğunlukla onları soğuktan koruyacak yağlı etleri içeriyor. Fok balığı eti oldukça keskin bir tada sahip olduğu için çoğunlukla soğan, patates, pirinç ve arpalı yemeklerde kullanılıyor. Aynı zamanda fok balığının derisi boyanıp ulusal giysilerinin bir parçası olarak da giyiliyor.   "
     }
+
 ]
