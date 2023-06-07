@@ -31,7 +31,7 @@
     {
         "id":2,
         "title": "Amerika",
-        "img1": "./img/abdfoto.jpg",
+        "img1": "https://atlasedu.com/images/spot_resim/buyuk/MR7Wtm9LPR-960-usa-jpg.jpg",
         "ulke": "Amerika Birleşik Devletleri, Birleşik Devletler veya resmî olmayan ismiyle Amerika, orta Kuzey Amerika'da, Kanada ve Meksika arasında bulunan, elli eyalet ve bir federal bölgeden oluşan, federal anayasal cumhuriyet ile yönetilen bir ülkedir.",
 
         "ekonomi": "Amerika Birleşik Devletleri ekonomisi, oldukça gelişmiş bir liberal-kapitalist piyasa ekonomisidir. Nominal olarak dünyanın en büyük ve satınalma gücü paritesi bakımından ikinci büyük ekonomisi olup nominal olarak dünya GSYİH'sinin %22'sini oluşturmaktadır. Birleşik Devletler'in finans merkezi New York.",
@@ -45,27 +45,27 @@
         "gezilecekYer1": "Özgürlük Heykeli",
         "gezilecekYerBilgi1": "Bakırdan yapılan Özgürlük Heykeli, Fransa tarafından kuruluşunun 100. yılı nedeniyle ABD'ye hediye edilmiştir. 1884-1886 yılları arasında inşa edilmiştir. ABD'nin New York şehrindeki Özgürlük Adası'nda yer alır. Heykel, sağ elinde bir meşale, sol elinde ise bir kitabe tutar.",
 
-        "img2": "./img/abdgez1.jpg",
+        "img2": "https://arkeofili.com/wp-content/uploads/2020/04/hey1.jpg",
 
         "gezilecekYer2": "Ulusal Doğa Tarihi Müzesi ",
 
         "gezilecekYerBilgi2": "Dünyadaki bütün doğa müzelerinden daha fazla ziyaretçi çeken kurum, 1910 yılından bu yana hizmet vermektedir. Müze binası, Hornblower ve Marshall mimarlık firmalarının katkılarıyla Neo-Klasik mimari üslubuyla oluşturulmuştur. Kurum bitki, hayvan, meteor, kayaç, fosil ve kültürel çalışmalar ile beraber 125 milyondan fazla öge içermektedir.",
 
-        "img3": "./img/abdgez2.jpg",
+        "img3": "https://www.biyologlar.com/images/articles/large/_dc.jpg",
 
-        "img4": "./img/abdyemek1.jpg",
+        "img4": "https://cdn1.ntv.com.tr/gorsel/LyBbdJvJuE2ULhdczuTgCQ.jpg?width=1000&mode=crop&scale=both",
 
         "yemek1":"Hamburger",
 
         "yemekBilgi1": "Amerika deyince kesinlikle ilk sıraya konması gereken yemeklerin başında fast food yemek kültürünün en önemli simgelerinden birini koymamız gerekti. İşte biz de çok demode olmasına karşın “Amerika’da ne yenir?” sorusunun ilk akla gelen cevaplarından biri olan hamburgeri listemize ilk sıradan aldık.",
 
-        "img5": "./img/abdyemek2.jpg",
+        "img5": "https://media.istockphoto.com/id/477362844/photo/american-hotdog.jpg?s=1024x1024&w=is&k=20&c=hC_41zsvgU_Lq2BVKe9ioYbof5jdsqfOW74Oro1MbbU=",
 
         "yemek2":"Hot Dog",
 
         "yemekBilgi2": "ABD’nin yiyecek üzerine dünyaya armağan ettiği en etkili şeylerin başında şüphesiz hot dog geliyor. Bu sosisli sandviç aslında öyle aman aman bir lezzete sahip olmasa da yemesinin kolay olması ve ülkenin gerçekleştirdiği muhteşem reklam çalışmaları ile dünya genelinde kendine yer bulmayı başarmıştır.",
 
-        "img6": "./img/abdyemek3.jpg",
+        "img6": "https://d2lswn7b0fl4u2.cloudfront.net/photos/pg-a-slice-of-cheesecake-with-berries-on-top-1608056709.jpg",
 
         "tatlı":"Cheesecake",
 
@@ -75,7 +75,7 @@
     {
         "id":3,
         "title": "Almanya",
-        "img1": "./img/almanyafoto.jpg",
+        "img1": "https://atlasedu.com/images/spot_resim/buyuk/a6jSp466KyYk3scyC2N_germany.jpg",
         "ulke": "Almanya veya resmî ismiyle Almanya Federal Cumhuriyeti, Orta Avrupa'da bulunan bir ülkedir. Kuzeyinde Kuzey Denizi, Danimarka ve Baltık Denizi, doğusunda Polonya ve Çekya, güneyinde Avusturya ve İsviçre, batısında Fransa, Lüksemburg, Belçika ve Hollanda bulunur.",
 
         "ekonomi": "Avrupa'daki en büyük ulusal ekonomiye sahip olan ülke, dünyadaki nominal GSYİH'ya göre dördüncü ve SAGP GSYİH açısından beşinci büyüklüğe sahiptir. 2017 yılında, ülke IMF'ye göre Euro bölgesi ekonomisinin %28'ini oluşturmaktaydı. Almanya ayrıca, Avrupa Birliği ve Euro Bölgesi'nin kurucu üyesidir.",
@@ -89,13 +89,13 @@
         "gezilecekYer1": "Brandenburg Kapısı",
         "gezilecekYerBilgi1": "Atina’da modellenen 1791 yapımı Brandenburg Kapısı, Berlin’in ilk Neoklasik yapısıdır. Aynı zamanda şehrin en ikonik eseridir. Bir zamanlar Berlin Duvarı’nın bir parçası olduğu için Berlin‘in Doğu ve Batı olarak bölünmesinin de sembolü olmuş.",
 
-        "img2": "./img/almanyagez1.jpg",
+        "img2": "https://www.interbustur.com/wp-content/uploads/2017/12/berlin-brandenburg-kap%C4%B1s%C4%B1.jpg",
 
         "gezilecekYer2": "Köln Katedrali",
 
         "gezilecekYerBilgi2": "Ren Nehri’nin kıyısında yükselen Köln Katedrali, şehrin en etkileyici simgesidir. Bununla beraber Avrupa’nın en büyü katedralleri arasındadır. Gotik mimarinin görüldüğü yapının inşası 1248’de başladı ve Orta Çağ döneminde epey iddialıydı. İç mekanı 6.116 metrekarelik bir alanı kaplıyor. Köln‘ün hemen hemen her yerinden katedralin kulelerini görebilirsiniz. Almanya’ya veya Köln’e gelen turistler muhakkak buraya uğrar.",
 
-        "img3": "./img/almanyagez2.jpg",
+        "img3": "",
 
         "img4": "./img/almanyayemek1.jpg",
 
@@ -599,6 +599,1128 @@
         "tatlı":"Bingsu",
     
         "tatlıBilgi": "Bingsu, Kore mutfağının tatlı detaylarından biridir.Gofret, gevrek ve bisküvi tadını veren bu tatlı yaz sıcaklarında tüketilmektedir.Kore’nin dondurma tatlısı olarak bilinen “bingsu” meşhur soya sosu ile hazırlandığı için bu ülkede çok sevilmektedir.Kore’de tatlı yemek istediğinizde pek çok restoran size bingsu önerecektir. Özellikle de doğranmış meyvelerle servis edildiğinde tadına doyum olmayacaktır."
+    },
+
+    {
+        "id":16,
+        "title": "Hindistan",
+        "img1": "./img/hindistanfoto.jpg",
+        "ulke": "Hindistan ya da resmî adıyla Hindistan Cumhuriyeti, Güney Asya'da bulunan bir ülkedir. Dünyanın en büyük yedinci coğrafi alanı ve en büyük ikinci nüfusuna sahip olan ülkenin ulusal marşı Jana Gana Mana'dır. Ülkede resmi dilleri İngilizce ve Hintçe oluşturur, ancak 22 adet tanınmış bölgesel dil de bulunur.",
+    
+        "ekonomi": "Hindistan ekonomisi, nominal olarak dünyanın yedinci büyük ve satınalma gücü paritesi bakımından üçüncü büyük ekonomisidir. Ülkenin ekonomisi 20 yıldır ortalama %7 oranında büyümekte olup yeni sanayileşen ülke olarak sınıflandırılmaktadır.",
+    
+        "iklim": "Güney ve güneybatıdaki kıyı kesimlerinde sürekli yağışlı tropikal iklim, kuzey ve doğu kesimlerinde muson iklimi, kuzeybatı kesimlerinde yarı kurak step iklimi ve Thar Çölü bölgesinde çöl iklimi görülmektedir.",
+    
+        "cografya":"Soğuk dağları, kurak çölleri, uçsuz bucaksız ovaları, sıcak ve nemli platoları, geniş deniz kıyılarını ve tropik adalarıyla pek çok farklı coğrafi özellikleri bünyesinde barındırmaktadır. Hindistan'ın kuzeyinde, dünyanın en yüksek zirvelerine sahip Himalayalar bulunur.",
+    
+        "tarih":"Hindistan tarihi boyunca birçok uygarlığa ev sahipliği yapmıştır. Hindistan 1,3 milyon yıl önce Homo erectus akınlarına uğradı. 60.000 ila 80.000 yıl önce İnsanlar, Hindistan'a girdiler. MÖ 9000 gibi tarım yapılmaya başlandı. Tarım toplumunun oluşması ile birlikte İndus Vadisi Uygarlığı yükseldi.",
+    
+        "gezilecekYer1": "Tac Mahal",
+        "gezilecekYerBilgi1":"Dünyanın en eski başkenti olarak bilinen Roma’nın kalbinde yer alan Kolezyum; gladyatör ve vahşi hayvan dövüşlerinden, geceler boyu süren eğlencelere sahne olmuş tarihi bir amfitiyatrodur. Asırlarca kendi kaderine terk edilen Roma Kolezyum, bugün UNESCO Dünya Mirası Listesi ile korunmakta ve yılda yaklaşık 5 milyon turistin ziyaretçi akınına uğramaktadır.",
+    
+        "img2": "./img/hindistangez1.jpg",
+    
+        "gezilecekYer2": "Amber Kalesi",
+    
+        "gezilecekYerBilgi2": "Muhteşem manzarası, mimarisi ve tarihi ile, Jaipur şehrinin dışındaki bir tepenin üzerine inşa edilmiş Amber Kalesi, tarihsel ve kültürel olarak Hindistan’ın en önemli yapılarından biri kabul edilmektedir. Amer Fort olarak da bilinen kale kompleksi, Rajasthan’daki Rajput yönetiminin görkemli günlerini en iyi şekilde koruyan nadir yapılardan biridir. ",
+    
+        "img3": "./img/hindistangez2.jpg",
+    
+        "img4": "./img/hindistanyemek1.jpg",
+    
+        "yemek1":"Keema Pav",
+    
+        "yemekBilgi1": "Keema Pav, Mumbai’nin ikonik sokak lezzetlerinden biridir. Kıyma, önce tereyağı, domates sosu ve baharatlar ile kavrulmakta ve ardından yanında yerel bir beyaz ekmek ve yeşil biber ile birlikte servis edilmektedir. Keema Pav denemek için, Kyani & CO ziyaret edilebilir",
+    
+        "img5": "./img/hindistanyemek2.jpg",
+    
+        "yemek2":"Vada Pav",
+    
+        "yemekBilgi2": "Vada Pav, Mumbai’nin başkenti olduğu Maharashtra eyaletine özgü vejetaryen bir sokak lezzetidir. Ortasından ikiye bölünmüş ekmeğin içerisine derin yağda kızartılmış patates köftesinin yerleştirilmesi ile hazırlanmaktadır. Bu vejetaryen fast food genellikle, yanında Hint turşusu ve biber ile birlikte servis edilmektedir. Denemek için, Ashok Vada Pav ve Kalidas Mandya Masala Vada Pav adlı mekanlara gidilmesi önerilmektedir.",
+    
+        "img6": "./img/hindistanyemek3.jpg",
+    
+        "tatlı":"Rabdi ghevar",
+    
+        "tatlıBilgi": "Rabdi ghevar, festival zamanlarında yapılan özel bir tatlıdır. Bal peteğine benzeyen şekli ile oldukça ilgi çekicidir. Ghevar, şerbet ya da yoğunlaştırılmış süt anlamına gelen rabdi ile pişirilmektedir. Üzerine fıstık ve badem ekilerek servis edilmektedir. Laxmi Mishtaan Bhandar ve Rawat Mishthan Bhandar’da rabdi ghevar denenebilir."
+    },
+
+    {
+        "id":17,
+        "title": "İspanya",
+        "img1": "",
+        "ulke": "İspanya ya da resmî adıyla İspanya Krallığı, Avrupa'nın güneybatısında, İber Yarımadası'nda yer alan ülkedir. Güneyde ve doğuda Akdeniz'e, kuzeyde ise Atlantik Okyanusu'na kıyısı vardır. Batıda Portekiz, kuzeyde Fransa, Andorra ve güneyde Birleşik Krallık ile komşudur.",
+    
+        "ekonomi": "İspanya ekonomisi, nominal GSYİH'ye göre dünyanın 13. büyük ekonomisi ve satın alma gücü paritesi açısından dünyanın en büyük ekonomilerinden biridir. Ülke, Avrupa Birliği, Ekonomik Kalkınma ve İşbirliği Örgütü ve Dünya Ticaret Örgütü üyesidir. İspanya kapitalist bir karma ekonomiye sahiptir.",
+    
+        "iklim": "Özellikle kış aylarında yağış görülür, kış ve yaz oldukça ılıman geçer.",
+    
+        "cografya":"İspanya, güneybatı Avrupa'da yer alan ve İber Yarımadası'nın büyük çoğunluğunu kapsayan bir ülkedir. İspanyol anakarası, güneyde ve doğuda neredeyse tamamen Akdeniz, kuzeyde Fransa, Andorra ve Biskay Körfezi, batıda ise Portekiz ve Atlas Okyanusu ile sınırlanmıştır.",
+    
+        "tarih":"MÖ 2. yüzyılda İspanya, Roma Cumhuriyeti'nin bir parçası haline geldi. 410 yılında İspanya bir Cermen ırkı olan Vizigotların eline geçti. Orta Çağ boyunca süren anlaşmazlıklara rağmen, İspanya Avrupa'daki en eski millî devletlerden biridir.",
+    
+        "gezilecekYer1": "La Sagrada Familia",
+        "gezilecekYerBilgi1":"İspanya’nın Barcelona şehrinde bulunan, her yıl milyonlarca turistin akın ettiği ve henüz yapımı tamamlanamayan La Sagrada Familia, muhteşem yapısıyla dikkatleri üzerine çekmektedir. Sadece bağışlarla ilerleyen yapının inşası çok yavaş ilerlemekte ve halk arasında ‘bitmeyen kilise’ olarak adlandırılmaktadır.",
+    
+        "img2": "",
+    
+        "gezilecekYer2": "Montserrat",
+    
+        "gezilecekYerBilgi2": "İspanya’nın Barcelona şehrinde bulunan Montserrat, harika manzaralara sahip olmakla birlikte içerisinde bulundurduğu manastır nedeniyle dini bir semboldür. Montserrat’ın popüler bir mekân olmasında, 9. yüzyıla uzanan manastırın yapısı etkin bir yer tutmaktadır. Ayrıca yürüyüş yolları, burayı gezmek için oldukça verimlidir. Daha çok yeni dönem eserleri bulunan müzeyi gezip, yüzyıllardır devam eden çocuk korosundan muhteşem şarkılar dinlenebilmektedir. ",
+    
+        "img3": "",
+    
+        "img4": "",
+    
+        "yemek1":"Paella",
+    
+        "yemekBilgi1": "İspanya’nın meşhur lezzeti paella, ilk olarak Valensiya’da ortaya çıkmıştır. Genellikle orijinal paella olarak adlandırılan bu lezzet tavuk, tavşan, salyangoz ve garrafó adı verilen yerel fasulye ile pişirilen kısa taneli Valensiya pirincinden yapılmaktadır. Ayrıca safran ve kırmızı biberle baharatlandırılarak pişirilmektedir. Valensiya’nın mutfak mirasının en önemli lezzetlerinden biri olan bu eşsiz yemeği yapan en iyi restoranlar Restaurante Levante, Casa Carmela ve El Racó de la Paella’dır.",
+    
+        "img5": "./img/arjantinyemek2.jpg",
+    
+        "yemek2":"Escalivada",
+    
+        "yemekBilgi2": "Escalivada, Barselona’nın yöresel lezzetleri arasında en çok tercih edilenlerden biridir. Çünkü vejetaryen ve vegan beslenenler için de uygun bir yiyecektir. İçerisinde közlenmiş sebzeler bulunan escalivada, aynı zamanda oldukça hafif bir başlangıçtır. Biber, patlıcan ve soğan bu yemeğin ana bileşenleridir. Bu sebzeler öncelikle hafif bir zeytinyağı ile közlenmekte ardından ince olacak biçimde doğranarak bol zeytinyağı ve sarımsak ile lezzetlendirilmektedir. Közlenmiş sebze lezzetini sevenler için escalivada vazgeçilmez bir yemek haline gelmektedir. Şehirdeki Sesamo Restoran gibi mekanlarda ise bu lezzetin farklı sunum ve versiyonlarının bulunması mümkündür.",
+    
+        "img6": "./img/arjantinyemek3.jpg",
+    
+        "tatlı":"San Sebastian Cheesecake",
+    
+        "tatlıBilgi": "Dünyaca ünlü bir tatlı olan San Sebastian cheesecake, San Sebastian’da doğmuştur. La Vina kafenin sahibi olan Santiago; Bask mutfağında ünlü bir tatlı olmadığını görmüş ve San Sebastian keki olarak da bilinen bu tarifi hazırlamıştır. Krem peynir, yumurta, şeker ve un ile yapılan San Sebastian cheesecake; mükemmel tadını karamelize olmuş kabuğundan ve krema formundaki kıvamından almaktadır. Bu lezzeti denemek isteyenlere, günümüzde de hizmete devam eden La Vina Kafe’yi ziyaret etmeleri önerilmektedir."
+    },
+
+    {
+        "id":18,
+        "title": "İtalya",
+        "img1": "",
+        
+        "ulke": "İtalya ya da resmî olarak İtalyan Cumhuriyeti ya da bazen İtalya Cumhuriyeti, Güney Avrupa'da, büyük ölçüde İtalya Yarımadası üzerinde yer alan bir ülke. Akdeniz'in en büyük iki adası Sicilya ve Sardinya da İtalyan topraklarıdır.",
+    
+        "ekonomi": "İtalya ekonomisi, Euro bölgesindeki en büyük 3. ulusal ekonomi, nominal GSYİH'ya göre dünyanın en büyük 8. ve SAGP GSYİH'ye göre en büyük 12. ülke ekonomisidir.",
+    
+        "iklim": "Kuzey kesimler daha çok kara iklimine hâkimdir, Deniz kenarları ve orta bölgelere doğru gelindiğinde tropikal bir iklim özelliği görülür. Ülkenin Güney sahil kesimlerinde ise Akdeniz iklimi görülmektedir.",
+    
+        "cografya":"İtalya, Güney Avrupa'da engebeli bir coğrafyaya sahip olan İtalya Yarımadası üzerine konumlanmış bir ülkedir. Ülkenin kuzeyinde Alp Dağları, Po Vadisi ve Venedik Ovası gibi yer şekilleri görülürken, yarımadanın iç kesiminde Apenin dağ sırası uzanmaktadır.",
+    
+        "tarih":"1861 yılında İtalya Krallığı kurulunca İtalya Roma döneminden sonra ilk defa tek bir ülke haline gelmiştir. Bundan sonra diğer Avrupa ülkeleri gibi kolonileşme yoluna giden İtalya Osmanlı Devleti'ne karşı yaptığı Trablusgarp Savaşı'nı kazandı. Libya, Etyopya ve Somali gibi bazı Afrika ülkelerini işgal etti.",
+    
+        "gezilecekYer1": "Pisa Kulesi",
+        "gezilecekYerBilgi1":"İtalya’nın simgelerinden biri olan Pisa Kulesi, UNESCO Kültür Mirası’nda yer alan önemli tarihi eserlerden biridir. 5,5 derecelik eğimi ile bugün en dikkat çekici yapılardan biri haline gelen kulenin en tepesinden Pisa şehrini panoramik olarak görmek mümkündür. ",
+    
+        "img2": "",
+    
+        "gezilecekYer2": "Kolezyum",
+    
+        "gezilecekYerBilgi2": "Dünyanın en eski başkenti olarak bilinen Roma’nın kalbinde yer alan Kolezyum; gladyatör ve vahşi hayvan dövüşlerinden, geceler boyu süren eğlencelere sahne olmuş tarihi bir amfitiyatrodur. Asırlarca kendi kaderine terk edilen Kolezyum, bugün UNESCO Dünya Mirası Listesi ile korunmakta ve yılda yaklaşık 5 milyon turistin ziyaretçi akınına uğramaktadır.",
+    
+        "img3": "",
+    
+        "img4": "",
+    
+        "yemek1":"Tortellini",
+    
+        "yemekBilgi1": "Bolonya’dan çıkan ve dünyaca ünlü bir lezzet olan Tortellini, dolgusunda iki malzeme bulunan bir makarna çeşididir. Şekli bakımından göze oldukça hitap eden bu yemek, lezzeti ile de deneyenlerden tam not almaktadır. Makarnanın dolgusunda genellikle domuz eti ve parmesan peyniri bulunmaktadır. Domuz eti tüketmeyenler ya da vejetaryen olan kişiler için ise ıspanak dolgulu olarak yapılan tortelliniler de bulunmaktadır. Aynı zamanda farklı soslarla da servis edilen tortellini; tavuk suyu ya da tereyağı ile de sofralardaki yerini almaktadır. Ristorante Trattoria Oberdan da Mario, Bolonya’da tortellininin yenilebileceği en güzel mekânlardan biridir.",
+    
+        "img5": "",
+    
+        "yemek2":"Arancini",
+    
+        "yemekBilgi2": "Domates sosu, bezelye, et ya da jambon, beşamel ve peynir ile doldurulduktan sonra kızartılan bir pirinç topu olan arancini; Palermo ile çevresinde günün her saati bulunabilen bir sokak yemeğidir. Yüzyıllar önce adadaki Arap varlığından süregelen geleneğin bir ürünü olan arancini, Sicilyalılar tarafından malzemeleri kısmen değiştirilerek tüketilmeye devam edilmektedir. Köklü bir geçmişe sahip bu lezzetin en güzel halinin Ke Palle’de tadılabildiği söylenmektedir.",
+    
+        "img6": "",
+    
+        "tatlı":"Cannoli",
+    
+        "tatlıBilgi": "Cannolo, Sicilya bölgesindeki en ünlü hamur işi tatlılarından biridir. Günümüzde bir Sicilya spesiyali olarak anılan bu tatlının en eski tarifi aslen Palermo'da yer alan bir manastırdan gelmektedir. Tatlının içine şekerli ricotta peyniri doldurulmaktadır. Dışı ise gevrek bir hamurdan oluşmaktadır. Şekerli meyve parçaları ile limon ve tarçın özlerini de bünyesinde bulunduran cannolo, Palermo’da yer alan tüm pastanelerden temin edilebilmektedir."
+    },
+
+    {
+        "id":19,
+        "title": "İzlanda",
+    
+        "img1": "",
+    
+        "ulke": "İzlanda, Atlas Okyanusu'nun kuzeyinde Grönland'ın güneydoğusu ile İskandinavya ve Büyük Britanya'nın kuzeybatısında yer alan bir ada ve Avrupa ülkesi. İzlanda, kuzeyinde Arktik Okyanusu ile çevrilidir. 356.991 nüfus ve 103.000 km² yüzölçümüyle Avrupa'nın en seyrek nüfuslu ülkesidir.",
+    
+        "ekonomi": "İzlanda ekonomisi büyük oranda balıkçılık endüstrisine dayanmakta, anılan sektör ihracatın ağırlıklı bölümünü karşılamakta, ekonomiye önemli oranda istihdam sağlamaktadır. Alüminyum ve ferro-silikon üretimi ekonominin diğer önde gelen sektörleridir.",
+    
+        "iklim": "Kuzey Atlantik Akımının ılımlı etkisi nedeniyle, iklim ılımandır ve nemli, serin yazlar ve nispeten ılıman ama rüzgarlı kışlarla karakterizedir. Reykjavik'in Temmuz ayında ortalama 12 °C ve Ocak ayında 1 °C sıcaklıkları vardır.",
+    
+        "cografya":"İzlanda, Avrasya ve Kuzey Amerika levhalarının kesiştiği yerde bulunmasından ötürü hızla yükselmektedir ve bu konumu sayesinde çok şekilli bir coğrafyaya sahip olmuştur. ",
+    
+        "tarih":"İzlanda, jeolojik anlamda, yaklaşık olarak 20 milyon yıl önce başlayan Mid-Atlantik bölgedeki volkanik patlamalarla oluştuğundan genç bir adadır. Adada bulunan en eski taşların tarihleri ancak 16 milyon yıl öncesine kadar gider.",
+    
+        "gezilecekYer1": "Mavi Göl",
+        
+        "gezilecekYerBilgi1":"Listemizin ilk sırasında ülkenin en popüler noktalarından olan ‘’Mavi Göl’’ bulunmaktadır. Muhteşem görüntüsüyle insanları büyüleyen gölü insanlar sıcak suları sebebiyle tercih etmektedir. Aynı zamanda Göl masmavi suyunun rengini ‘’Silika’’ denilen bir maddeden almaktadır.",
+    
+        "img2": "",
+    
+        "gezilecekYer2": "Gullfoss Şelalesi",
+    
+        "gezilecekYerBilgi2": "Suyun ve yeşilin bol olduğu ülkenin sahip olduğu doğa harikalarından bir diğeriyse Gullfoss Şelalesi’dir. UNESCO Dünya Mirası Listesi’ne dahil edilmiş olan Gullfoss Şelalesi’ni dilediğiniz zaman ziyaret edebilirsiniz. ",
+    
+        "img3": "",
+    
+        "img4": "",
+    
+        "yemek1":"Hakarl",
+    
+        "yemekBilgi1": "Köpekbalığı etinin içindeki zararlı toksinlerden arınması için toprağa gömülmesiyle oluşturulan farklı bir yemektir. Küp küp kesildikten sonra kürdanlarda servis edilen Hakarl’e damak tadınız çok uymayabilir.",
+    
+        "img5": "",
+    
+        "yemek2":"Plokkfiskur",
+    
+        "yemekBilgi2": "Ezilmiş balık anlamına gelen Plokkfiskur, üstüne sos dökülerek sıcak şekilde servis edilen bir yemektir. Mezgit balığından yapılan yemeği börülce ve patates püresiyle birlikte servis edilmektedir.",
+    
+        "img6": "",
+    
+        "tatlı":"Randalin",
+    
+        "tatlıBilgi": "Yedi kat kekin arasına çikolataların sürülüp dondurulmasıyla oluşturulan bir İzlanda tatlısıdır. Randalin’i denerseniz tadını çok seveceğinize eminiz."
+    },
+
+    {
+        "id":20,
+        "title": "Japonya",
+    
+        "img1": "",
+    
+        "ulke": "Japonya, Doğu Asya'da bir ada ülkesidir. Büyük Okyanus'ta bulunan Japonya Japon Denizi'nden Çin, Kuzey Kore, Güney Kore ve Rusya'nın doğusuna, kuzeyde Ohotsk Denizi'nden güneyde Doğu Çin Denizi'ne ve Tayvan'a kadar uzanır. Japonca adını oluşturan kanji karakterler 'güneş' ve 'köken' anlamına gelir.",
+    
+        "ekonomi": "Japonya, ABD ve Çin Halk Cumhuriyeti'nden sonra dünyanın üçüncü büyük ekonomisidir. Japonya, otomotiv ve yan sanayi, imalat sanayi, gıda ve altyapı sektörlerine özel ilgi göstermektedir. 2021 itibariyle ülkemizde faaliyet gösteren 257 Japonya sermayeli firma vardır.",
+    
+        "iklim": "Japonya'nın büyük bölümü Kuzey Ilıman Bölgede yer almaktadır. Yazın Pasifik Okyanusundan güneydo- ğu rüzgarlarının, kışın ise Avrasya kıtasından kuzeybatı rüzgarlarının estiği rutubetli muson iklimi hüküm sür- mektedir. Ülkede dört mevsim belirgin olarak yaşanır.",
+    
+        "cografya":" Ülkenin dörtte üçü dağlık alanlarla, geri kalan kısımları ise ovalarla ve düz- lüklerle kaplıdır. Japonya, kuzeyden güneye 3000 km. boyunca uzanan takımadalar üzerine kurulmuştur. Ül- kenin en büyük dört adası Hokkaido, Honshu, Shikoku ve Kyushu'dur. Japonya denizlerle çevrilidir.",
+    
+        "tarih":"Japon adalarına ilk yerleşenler, M.Ö 8 bin yıl öncesinden başlayarak, Kuzey Asya'dan geldikleri sanılan ve Üst Yontmataş (veya en azından Ortataş) devrinde yaşayan topluluklardı. 538 yılına doğru Budizm'in Kore'den adalara gelişi genelde Japonya'nın tarih döneminin başlangıcı olarak kabul edilir.",
+    
+        "gezilecekYer1": "Ueno Parkı",
+        
+        "gezilecekYerBilgi1":"Kuşkusuz Japonya denince, aklımıza ülkenin sembolü haline gelmiş Tokyo şehri gelir. Dünyanın en büyük yatırım bankalarına, sigorta şirketlerine ev sahipliği yapan şehir büyük bir finans merkezidir. Japonya’da eğitim almaya gelen öğrencilerin ilk tercih olan Tokyo’dayken özellikle Ueno Parkı’nı ziyaret etmenizi öneririz. Japon kültüründe önemli bir yere sahip olan 9000 kiraz ağacına ev sahipliği yapan Ueno Parkı, bahar aylarında açan sakura yani kiraz çiçekleri ile en popüler yerlerdendir.",
+    
+        "img2": "",
+    
+        "gezilecekYer2": "Arashiyama Bambu Ormanı",
+    
+        "gezilecekYerBilgi2": "Dünyanın en kültürel açıdan zengin şehirlerinden biri olan Kyoto; antik tapınakları, bahçeleri, tarihi sokakları ve hediyelik eşya dükkanları ile birçok gezgin için Japonya’nın en çok ziyaret edilen yerlerine sahiptir. Şehrin en güzel taraflarından biri, her yıl milyonlarca turisti ağırlayan ve filmlere konu olan Arashiyama bölgesinde yer alan Bambu ormanıdır. Yıl boyunca ziyaret edebileceğiniz, şehrin sokaklarının ve gürültüsünün dışında, büyüleyici ve masalsı bambu saplarının arasında kendinizi kaybedeceğiniz Arashiyama’yı ziyaret etmeyi unutmayın.  ",
+    
+        "img3": "",
+    
+        "img4": "",
+    
+        "yemek1":"Sushi",
+    
+        "yemekBilgi1": "Japonya tam bir ada ülkesi olduğundan deniz ürünlerinin yeri gerçekten de bir ayrı. Sushi de bir deniz ürünü olarak artık tüm dünyaya nam salmış durumda. Zaten Japon mutfağı denince akla gelen ilk yemek hiç şüphesiz sushi oluyordur. Dolayısıyla sushi yemeden Japonya’dan dönmeyin.",
+    
+        "img5": "",
+    
+        "yemek2":"Gohan",
+    
+        "yemekBilgi2": "Aslında bir nevi pirinç pilavı olan Gohan, Japonya’da günün her öğünü yenebilen oldukça jenerik bir yiyecek. Hatta Japonlar sabah kahvaltısında bunu çiğ yumurta ile yiyorlar. Soya sosu ya da Japonya’ya özgü diğer soslar ile karıştırıldığında ise ana yemek olarak yeniliyor. ",
+    
+        "img6": "",
+    
+        "tatlı":"Daifuku Mochi",
+    
+        "tatlıBilgi": "Daifuku olarak da bilinen Daifuku Mochi, en popüler Japon tatlılarından biridir. Pirinç, azuki fasulyesi ve şekerden oluşmaktadır. Ezilen pirincin haşlanarak ya da buharda pişirilerek, kırmızı fasulye ezmesi ile doldurulmasıyla yapılmaktadır. Kremsi dolgusu ile yerli halk ve turistler tarafından oldukça sevilmektedir."
+    },
+
+    {
+        "id":21,
+        "title": "Kanada",
+    
+        "img1": "",
+    
+        "ulke": "Kanada, Kuzey Amerika'da bir ülkedir. On eyalet ve üç bölgeden oluşan ülke, Büyük Okyanus'tan Atlas Okyanusu'na ve kuzeyde Arktik Okyanusu'na kadar 9,98 milyon km²'lik bir alanı kaplar. Bu özelliğiyle yüz ölçümü bakımından dünyanın Rusya'dan sonra en büyük 2. ülkesidir. ",
+    
+        "ekonomi": "Kanada ekonomisinde başta ormancılık ile petrol endüstrisi olmak üzere birincil sektör önemli bir yer tutar. Aynı zamanda ülkenin orta eyaletlerinde özellikle otomotiv ve havacılık endüstrisi ile oldukça büyük bir üretim sektörüne sahiptir. Ayrıca uzun bir kıyı şeridine sahip olan Kanada dünyanın sekizinci büyük ticari balıkçılık ve deniz ürünleri sanayine sahiptir.[23][24] Kanada eğlence yazılım endüstrisinin küresel liderlerinden biridir.",
+    
+        "iklim": "Kanada'da, Ilıman okyanusal, karasal ve tundra iklimleri de görülmektedir. Büyük göller çevresinde iklim ılımandır.Yazlar sıcak ve yağışlı geçer. oluşturur. En yüksek sıcaklık 46°C ile Gleichen de, en düşük sıcaklık ise Snag'da (- 63°c) ölçülmüştür.",
+    
+        "cografya":"Kanada, suları dahil toplam alana göre Rusya'dan sonra dünyanın en büyük ikinci ülkesi’dir.",
+    
+        "tarih":"1 Temmuz 1867'de İngiliz Kuzey Amerika Yasası'nın geçmesiyle Büyük Britanya, Kuzey Amerikan kolonisi dört eyaletinden oluşan federasyona kendini yerel yönetim hakkı verdi. Bu eyaletlerden “Kanada” ikiye ayrılıp Québec ve Ontario eyaletlerini meydana getirdi, diğer iki eyalet de New Brunswick ve Yeni İskoçya'ydı.",
+    
+        "gezilecekYer1": "CN Kulesi",
+        
+        "gezilecekYerBilgi1":"Toronto’nun ünlü simgesi olan 553 metrelik CN Kulesi, kentin en ilgi çekici yerlerinden biridir ve ıskalamanız imkansız. Kentte yükselen yapı, neredeyse her yerden görülebilir. 1972-1976 arası inşa edilen kule bir zamanlar dünyadaki en uzun yapıydı.",
+    
+        "img2": "",
+    
+        "gezilecekYer2": "Niagara Şelaleleri",
+    
+        "gezilecekYerBilgi2": "10.000 yıl önce Kuzey Kutbu’ndan gelen buz kütlelerinin yol açtığı çöküntülerle oluşan Niagara Şelaleleri, Kuzey Amerika’nın en büyük şelaleleri olmasının yanı sıra en etkileyici doğa güzelliği. ABD-Kanada sınırını çizen doğa harikası Niagara Şelaleleri, 3 büyük şelaleden oluşuyor: Horseshoe, American Falls ve Bridal Veils Fall. Şelaleler en güzel Kanada tarafından görülüyor. Altına kadar giden bot turları var. Tamamen ıslanarak müthiş bir deneyim yaşamak istiyorsanız, bu bot turlarını kaçırmamanızı öneririm. Şelalelerin yakınındaki Niagara-on-the-lake kasabası ise son derece turistik ve güzel bir yerleşim. Hatta bence Kuzey Amerika’da görüp görebileceğiniz en güzel ve en romantik kasaba burasıdır. Bölgede yer alan Niagara Bağ Rotası da ziyaret edilmesi gereken en önemli yerler arasında yer alıyor.",
+    
+        "img3": "",
+    
+        "img4": "",
+    
+        "yemek1":"Peameal Bacon",
+    
+        "yemekBilgi1": "Peameal bacon, bezelyeli domuz pastırması veya mısır unu pastırması olarak bilinen bir domuz eti filetosudur. Yağdan arındırılmış ve tütsülenmiş Peameal bacon, raf ömrünü uzatmak ve daha lezzetli hale getirmek için mısır ununa bulanmaktadır. Bu lezzet, Ontario eyaletinin başkenti olan Toronto’nun yöresel ürünlerinden biridir. Pastırma, dilimlenerek ızgarada kızartılmakta ve farklı öğünlerde tüketilmektedir. Peameal bacon, St. Lawrence Market adlı halk pazarından temin edilebilmektedir.",
+    
+        "img5": "",
+    
+        "yemek2":"Jiggs Dinner  ",
+    
+        "yemekBilgi2": "Ottava’nın yöresel lezzetleri arasında yer alan jiggs dinner, tuzlu biftek, sotelenmiş kabak, paprika biberi ve yanında servis edilen bezelye püresinden oluşan bir ana yemektir. Haşlanmış veya pişirilmiş “akşam yemeği” olarak da bilinmektedir. Oldukça şık bir sunuma sahip olan bu lezzet, yanında pancar, lahana ve hardal turşusu gibi aperatiflerle birlikte sunulmaktadır. Kentin yöresel bir lezzeti olan jiggs dinner, dünyanın dört bir yanından Ottava’ya giden turistler tarafından çoğu restoranda akşam yemeği için sıkça tercih edilmektedir. Jiggs dinner için gidilebilecek en ünlü mekanlar arasında Petit Bill's Bistro yer almaktadır.",
+    
+        "img6": "",
+    
+        "tatlı":"BeaverTailsS",
+    
+        "tatlıBilgi": "BeaverTails, Ottava’ya özgü oldukça lezzetli hamur işi bir atıştırmalıktır. Kunduz kuyruğunu andıran bir görüntüye sahip olan bu lezzetli atıştırmalık, ilk kez kendisi ile aynı ada sahip olan BeaverTails’te yapılmıştır. Derin yağda kızartılarak hazırlanan tarif hem tatlı hem de tuzlu olarak tüketilebilmektedir. Görüntüsü ile iştah açan tarifi denemek isteyenlere BeaverTails’e gitmeleri önerilmektedir."
+    },
+
+    {
+        "id":22,
+        "title": "Kenya",
+    
+        "img1": "",
+    
+        "ulke": "Kenya ya da resmî adı ile Kenya Cumhuriyeti, Afrika kıtasının doğu kısmında yer alan bir ülkedir. Ülkenin sınır komşularını Etiyopya, Somali, Tanzanya, bir kısmı Victoria Gölü ile olmak üzere Uganda ve Güney Sudan oluşturmaktadır. Bunun haricinde ülkenin güneydoğusunda Hint Okyanusu yer almaktadır.",
+    
+        "ekonomi": "Dünyanın 62. büyük ekonomisi olan Kenya, Doğu Afrika'nın en büyük ekonomisidir. Aynı zamanda Doğu Afrika'nın ekonomik, ticari, finansal ve lojistik merkezi olan ülke cumhuriyet ile yönetilmektedir. Kenya, Dünya Bankası “İş Yapma Kolaylığı” endeksinde 56. sırada yer almaktadır.",
+    
+        "iklim": "Ekvator üzerinde yer alan Kenya, yükseklik nedeniyle ılıman bir ülkedir. Ülke genelinde tropikal iklim görülmektedir. Ülkenin kuzeyi ve kuzeydoğusu yarı çöl durumundadır. Sıcaklık değerleri denizden yükseklik durumuna göre değişim göstermektedir.",
+    
+        "cografya":" Kıyıda tropikal iklim, iç kesimlerde çöl iklimi hâkimdir. Doğu Afrika'da yer alan Kenya'nın doğusunda Somali ve Hint Okyanusu, batısında Uganda, kuzeyinde Etiyopya ve Güney Sudan, güneyinde ise Tanzanya bulunmaktadır.",
+    
+        "tarih":"Kenya'nın koloni tarihi 1885 yılında kıyı bölgesinde bulunan Witu Sultanlığı'nın Alman himayesi altına alınması ile başlamıştır. 1888 yılında Britanya Doğu Afrika Şirketi İmparatorluğu Kenya'ya gelerek 1895 yılına kadar Britanya Doğu Afrikası'nı yönetmiştir.",
+    
+        "gezilecekYer1": "Nairobi Milli Parkı",
+        
+        "gezilecekYerBilgi1":"Kenya’nın ilk milli parkı olan Nairobi National Park, çeşitlendirilmiş vahşi yaşam popülasyonu ve ziyaretçilerine sunduğu çeşitli etkinlik olanaklarıyla Kenya’nın dikkati çeken turistik yerleri arasına girmiştir. Bunun yanında park, siyah gergedanların doğal ortamlarında gözlemlenebildiği nadir yerlerdendir. Kurulma aşamasında ve sonrasında halk tarafından desteklenmeyen park, şu an Nairobi halkının gözdesi haline gelmiştir.",
+    
+        "img2": "",
+    
+        "gezilecekYer2": "Nairobi Safari Walk",
+    
+        "gezilecekYerBilgi2": " Nairobi Safari Walk, ziyaretçilerine çeşitli hayvan türleri ile iç içe olacakları harika bir yürüyüş imkanı tanımaktadır. Yükseltilmiş tahta kaldırım boyunca farklı habitat arasında yapılan bu yürüyüş, doğayı gözlemleme ve keşfetme fırsatı sunmaktadır. Aynı zamanda alanda bitki ve hayvanlara dair farklı içerikli eğitimler de yapılmaktadır.",
+    
+        "img3": "",
+    
+        "img4": "",
+    
+        "yemek1":"Ugali",
+    
+        "yemekBilgi1": "Bu şüphesiz Kenya'daki en popüler yemek. Bu, Kenya halkının temel beslenme şeklidir. Ilık suya eklenen ve yoğunlaşıncaya kadar ısıtılan mısır unu ile yapılır. Yemeğin kalın yoğun bir mısır unu ezmesi gibi görünüyor. Çanak ağır hamur kıvamındadır. Yerli halkın birkaç pişmiş sebze ya da soslu güveçle ugali yediği bilinmektedir. Onlar için normal bir yemek. Ancak, kesinlikle onların temel bir yemek denemelisiniz.",
+    
+        "img5": "",
+    
+        "yemek2":"Kenyalı Pilavı",
+    
+        "yemekBilgi2": "Bu Kenya'da denemek için en lezzetli yemeklerden biridir. Pişmiş pirincin, kakule, karanfil, kimyon ve tarçın gibi çeşitli baharatlarla birleştirilmesi, lezzet tomurcuklarınızı başka hiçbir şeye benzemez. Pirinç genellikle kokudur ve yemek için mükemmeldir. Birkaç dilim soğan ve domatesle birlikte bir çeşit et yahnisi ile tüketilir. Pirinçte kullanılan baharatlar eşsiz tadı veren şeydir. Kenya'da kalırken kolayca kaçıramayacağınız bir yemektir.",
+    
+        "img6": "",
+    
+        "tatlı":"Chai",
+    
+        "tatlıBilgi": "Birçok ülke mutfağında içecek olarak genellikle kahve veya asitli içecekler tercih edilirken Kenya’da durum biraz daha farklı. Damak tatlarına uygun olarak farklılaştırdıkları çaylarını günün her saatinden tüketmekten büyük zevk alıyorlar."
+    },
+
+    {
+        "id":23,
+        "title": "İngiltere",
+    
+        "img1": "",
+    
+        "ulke": "İngiltere, Birleşik Krallık'ı meydana getiren dört ülkeden biridir. Batıda Galler ve kuzeyde İskoçya ile komşudur. Kuzeybatısında İrlanda Denizi, güneybatısında da Kelt Denizi bulunur. Ülkenin doğusunda, kıta Avrupası ile ayrıldığı yerde Kuzey Denizi; güneyinde ise Manş Denizi bulunur.",
+    
+        "ekonomi": " Birleşik Krallık ekonomisi, oldukça gelişmiş bir sosyal pazar ve piyasa odaklı bir ekonomidir. Nominal olarak dünyanın beşinci büyük ve SAGP bakımından dokuzuncu büyük ekonomisi ve IMF'ye göre kişi başına GSYİH'ye göre yirmi birinci en büyük ekonomi olup dünya GSYİH'sinin %3.3'ünü oluşturur.",
+    
+        "iklim": "Adanın batısından gelen okyanus ikliminin özelliklerini taşımaktadır. Bunun yanında Büyük Britanya ve Kuzey İrlanda, güneydeki ılıman iklim kuşağı ile kutup dairesi iklim kuşağı arasında yer almaktadır. Genel olarak rüzgarlı ve yağışlı bir karaktere sahiptir.",
+    
+        "cografya":"İngiltere'nin coğrafi yapısını, ülkenin özellikle orta ve güney kesimlerinde, alçak tepeler ve ovalar oluşturmaktadır. Buna karşın kuzeyde ve batıda dağlık alanlar ve engebeli araziler görülebilmektedir.",
+    
+        "tarih":"İngiltere'nin tarihi, adanın milâttan önce 6000 yılları civarında Avrupa ana küresinden kopmasıyla başlatılmaktadır. Adanın doğu ve güney kısımlarına yerleşen Anglo-Saksonlar, zamanla kendi hâkimiyetlerini oluşturarak İngiltere'de Anglo-Sakson Kroniği başlattılar.",
+    
+        "gezilecekYer1": "Londra Kalesi",
+        
+        "gezilecekYerBilgi1":"Londra Kalesi, Londra'nın merkezinde, Thames Nehri'nin kuzey kıyısında bulunan tarihî bir kaledir. Londra Kulesi çoğu zaman 1078 yılında I. William tarafından yaptırılan Beyaz Kule adlı kulenin dörtgen biçimli yapısı ile tanınır; fakat kule birçok diğer bina, korunma duvarları ve hendeği ile bir komplekstir.",
+    
+        "img2": "",
+    
+        "gezilecekYer2": "Roma Hamamları Müzesi",
+    
+        "gezilecekYerBilgi2": "  İngiltere'nin Bath şehrinde yer alan, oldukça önemli kültürel ve tarihi değeri olan kompleks şeklinde bir yapıdır. Hamam günümüze kadar çok iyi şekilde korunmuş Roma kalıntılarından olup, halka açık banyo yapılabilen yerlerden birisi olmuştur.",
+    
+        "img3": "",
+    
+        "img4": "",
+    
+        "yemek1":"Fish And Chips",
+    
+        "yemekBilgi1": " Fish and chips yani kızarmış balık ve patates cipsi tüm dünyada ünlü bir tariftir. Londra'nın ünlü sokak lezzetlerinden biri olan tarif, balık filetosunun farklı malzemeler kullanılarak yapılan bir harç ile kaplanması ve ardından kızartılmasıyla hazırlanmaktadır. Altın sarısı rengine gelene kadar kızartılan patatesler de bu tarifin olmazsa olmazıdır. Fish and chips genellikle tartar sos eşliğinde servis edilmektedir. Poppies Restaurant, fish and chips konusunda ziyaretçilerin beğenisini en çok toplayan mekandır.",
+    
+        "img5": "",
+    
+        "yemek2":"Beef Wellington",
+    
+        "yemekBilgi2": "Sığır beef wellington için fileto biftek, ezme ile kaplanarak milföy hamuruna sarılmakta ve pişirilmektedir. The Hemingway, beef wellington ile ziyaretçilerin beğenilerini toplayan bir mekandır.",
+    
+        "img6": "",
+    
+        "tatlı":"Eton Trifle",
+    
+        "tatlıBilgi": "Eton trifle, Londra’nın en beğenilen tatlılarından biridir. Çırpılmış, yumuşacık krema, taze çilekler ve ufalanmış gevrek bezeler tatlıya inanılmaz bir lezzet kazandırmaktadır. Ziyaretçiler geleneksel eton trifle tatlısını, Bob Bob Ricard’da tadabilmektedir."
+    },
+
+    {
+        "id":24,
+        "title": "Irak",
+    
+        "img1": "",
+    
+        "ulke": "Irak ya da resmî adıyla Irak Cumhuriyeti, Batı Asya'da bir ülkedir. Kuzeyde Türkiye, doğuda İran, güneydoğuda Kuveyt, güneyde Suudi Arabistan, güneybatıda Ürdün, batıda ise Suriye ile sınır komşusudur. Başkenti ve en büyük şehri Bağdat olan federal parlamenter cumhuriyet ile yönetilen bir ülkedir.",
+    
+        "ekonomi": "Uluslararası Para Fonu (IMF) verilerine göre, Irak'ın 2021 yılındaki GSYH büyüklüğü cari fiyatlarla 209,5 milyar dolardır. 2021 yılında yıllık reel olarak %5,9 büyüyen Irak ekonomisinin, 2022 yılında %9,5 oranında büyüyeceği öngörülmektedir.",
+    
+        "iklim": "Irak'ta, soğuk ve kurak kışlar, sıcak, bulutsuz yazlar görülür. Çoğunlukla çöl olması bu sayılan iklimsel sonuçları doğurur. İran ve Türkiye sınırı boyunca uzanan kuzeydeki dağlık bölgeler, yoğun kar yağışı altındadır.",
+    
+        "cografya":"Körfez ülkeleri arasında Irak, Suudi Arabistan ve İran’dan sonra 437.072 km² ile en büyük yüz ölçümüne sahip ülkedir. Arap olmayan dünya ile komşu tek Arap körfez devleti Irak, kuzeyde Türkiye, batıda Suriye ve Ürdün, doğuda İran, güneyde Suudi Arabistan ve Kuveyt ile çevrilidir.",
+    
+        "tarih":"Modern Irak, 1920'de Osmanlıların I. Dünya Savaşı'nda yenilmesiyle birlikte İngilizlerin, Osmanlı eyaleti olan Musul, Bağdat ve Basra'yı yeni bir politik oluşum olarak değiştirmeleri sonucu, Fırat-Dicle havzasını kontrolü altına alan ve yakın bir bölge devleti tarafından yönetilmeyen yeni bir oluşumdur.",
+    
+        "gezilecekYer1": "Erbil Kalesi",
+        
+        "gezilecekYerBilgi1":" Erbil’in en merkezi noktasına bulunana Erbil Kalesi, tüm zamanlar boyunca Erbil için önemli bir idari ve savunma noktası olmuştur. Şehrin en popüler turistik noktalarından biri olan Erbil Kalesi, 2014 yılında Dünya Mirası Listesi’ne girmeye hak kazanmıştır.Tarihinin MÖ 6000 yılına kadar dayandığı düşünülen kale, yerden 25 metre yüksekliğe oldukça büyük bir alana yapılmıştır. Bu alan içerisinde kalenin yanı sıra kullanılmakta olan 506 ev bulunmakta.",
+    
+        "img2": "",
+    
+        "gezilecekYer2": "Sami Abdulrahman Park",
+    
+        "gezilecekYerBilgi2": " Erbil’de görmeniz gereken yerlerden biri de Sami Abdulrahman Parkı.800 dönümlük büyük bir arazi üzerinde, birçok farklı faaliyete özel olarak tasarlanmış olan park içerisinde eğlenceli bir gün geçirebilirsiniz.Oyun alanları, futbol sahaları, restoranlar, kafeler ve yürüyüş parkurlarına sahip olan parkta ailecek vakit geçirebileceğiniz gibi tek başınıza da sıkılmadan vakit geçirebileceğiniz mekanlardan biridir. ",
+    
+        "img3": "",
+    
+        "img4": "",
+    
+        "yemek1":"Erbil Kebabı",
+    
+        "yemekBilgi1": "Patates, kıyma ve maydanozla hazırlanmış olan harç “Adana Kebabı” havasında çöp şişe yerleştirilir ve köfte gibi kızartılarak pişirilir. Orta yağlı kıyma ile yapılan bu eşsiz köfte şehri en çok tercih edilenleri arasında bulunuyor.",
+    
+        "img5": "",
+    
+        "yemek2":"Biryani",
+    
+        "yemekBilgi2": " Erbil mutfağı içinde en çok tüketilen pilav türlerinin başında biryani gelmektedir. Bu pilavı bizim ülkemizde yapılan pilavlardan ayıran ise içine katılan diğer maddelerdir. Biryani hazırlanırken içine safran, bezelye ve patates de katılmakta ve bu da pilava ayrı bir lezzet katmaktadır.",
+    
+        "img6": "",
+    
+        "tatlı":"Tel Kadayıf",
+    
+        "tatlıBilgi": " Irak mutfağının en tanınmış tatlıları arasındaki baklava, çok ince açılmış yufkanın arasına fındık, ceviz veya Antep fıstığı konularak pişirilmesinden sonra bir şerbetle tatlandırılması yoluyla yapılır. Yine çok sevilen tatlılardan biri olan tel kadayıf ise çok ince teller halinde satılan hamurla hazırlanır ve baklavanın içine benzer içlerle doldurularak fırında kızartıldıktan sonra şerbetle tatlandırılır."
+    },
+
+    {
+        "id":25,
+        "title": "İran ",
+    
+        "img1": "",
+    
+        "ulke": "İran veya resmî adıyla İran İslam Cumhuriyeti, Güneybatı Asya'da yer alan bir ülkedir. Güneyde Basra Körfezi ve Umman Körfezi, kuzeyde ise Hazar Denizi ile çevrilidir. Türkiye, Azerbaycan, Ermenistan, Irak, Pakistan, Afganistan ve Türkmenistan ile kara sınırına sahiptir. Başkenti Tahran'dır. Resmî dili Farsçadır.",
+    
+        "ekonomi": "İran ekonomisi, işsizliği orantılı gerçek bir ekonomik büyüme ile uyuşmayan ve sürekli olarak güçlü bir şekilde artan işgücü nedeniyle işsizlik oranı resmî tahmin olan %11'in daha üstünde bir seviyeye ulaşan bir geçiş ekonomisidir.",
+    
+        "iklim": "İran'ın büyük kısmında kurak veya yarıkurak kara iklimi görülür. Hazar Denizi kıyısında ise iklim yarı tropikaldir. Ülkenin kuzey sınır bölgesinde kış aylarında sıcaklıklar neredeyse donma noktasının altına düşer ve iklim yıl boyu nemli kalır. Yaz sıcaklıkları nadiren 29 dereceyi aşar.",
+    
+        "cografya":" İran, Güneybatı Asya'da, Umman Körfezi, Fars Körfezi, Hazar Denizi, Irak, Türkiye ve Pakistan arasında bir coğrafik konuma sahiptir. İran yeryüzündeki en dağlık ülkelerden biridir. Dağlar, üzerlerinde ana tarım ve yerleşim bölgelerinin yer aldığı çok sayıda dar havza veya platoyu çevrelemektedir.",
+    
+        "tarih":"İran tarihi, tarihin en eski uygarlıklarından biri olan İran'ın tarihsel gelişimini ele alan tarih yazımı alanıdır. Bu tarih; batıdaki Anadolu'dan doğudaki Hindistan ile Siri Derya Nehri'ne, kuzeydeki Kafkaslar ve Avrasya steplerinden de güneydeki Basra Körfezi ile Umman Körfezi'ne kadar geniş bir alanı içine alan Antik İran bölgesinin tarihini kapsamaktadır.",
+    
+        "gezilecekYer1": "Milad Kulesi",
+        
+        "gezilecekYerBilgi1":" Milad Kulesi, İran’ın başkenti Tahran’da bulunmaktadır. İran’ın en yüksek binası olan Milad Kulesi, aynı zamanda şehrin simgesidir. Yapı aynı zamanda dünyanın 6. en yüksek kulesidir. 435 metre yüksekliğe sahip kulede 11 kat bulunmaktadır. Çok amaçlı olarak hizmet veren Milad Kulesi’nin içerisinde; seyir terası, kafeterya, yemek alanları, kütüphane ve ticaret merkezi yer almaktadır.",
+    
+        "img2": "",
+    
+        "gezilecekYer2": "Şeyh Lütfullah Camii",
+    
+        "gezilecekYerBilgi2": "Şeyh Lütfullah Camii; İsfahan meydanında bulunan, inanç turizminin önemli noktalarından biridir. İçerisinde ve dışarısında ki duvarlarda mavi, sarı, yeşil ağırlıklı çini desenler ile kaplanmış, kubbesi sarı, pembe ağırlıklı oluşturulmuş tepe noktasında aynı mavi-yeşil çiniler ile bezenmiştir. İç kısmında yer alan darphane ve kervansaray, camini en dikkat çekici alanları arasında yer almaktadır. ",
+    
+        "img3": "",
+    
+        "img4": "",
+    
+        "yemek1":"Halim Bademjan",
+    
+        "yemekBilgi1": "İran’ın meşhur yemeği Kaleh Josh gibi hazırlanan halim bademjan, İsfahan şehrinin en ünlü yemeklerindendir. Et, pirinç, patlıcan, beyaz fasulye ve baharatlarla yapılan bu yemek; enerji deposu olarak bilinmekte ve özellikle ramazan ayında sık tüketilmektedir. Zengin protein içeren Halim bademjanı tatmak için Mah ve Bahtiyari Restoran tercih edilmektedir.",
+    
+        "img5": "",
+    
+        "yemek2":"Gheymeh Rizeh",
+    
+        "yemekBilgi2": "Gheymeh rizeh, İsfahan’ın ünlü geleneksel köftesidir. Şehrin neredeyse her restoran menüsünde bulunan bu eşsiz yemek, özellikle bakır tencerede pişirilmektedir. Domates ve soğanlı özel sosla harmanlanan köfteler; fesleğen, nane ve turp ile servis edilmektedir. İsfahan’da bu yemeği en lezzetli yapan mekan ise İmam Meydanı’nda bulunan Sofrekhaneh Sonnati’dir.",
+    
+        "img6": "",
+    
+        "tatlı":"Dough And Gooshfil",
+    
+        "tatlıBilgi": "Dough and gooshfil, İsfahan’ın geleneksel tatlılarından biridir. Un, yumurta sarısı ve şekerden yapılan bu tatlı, yağda kızartılarak hazırlanmaktadır. Çıtır formu ve altın rengi ile beğeni toplayan dough and gooshfil; İsfahan sokaklarında, şehirdeki bazı restoranlarda ve pastanelerde bulunmaktadır. Fereni Hafız isimli mekan, bu tatlıyı denemek için en uygun yerlerden biridir."
+    },
+
+    {
+        "id":26,
+        "title": "Kolombiya",
+    
+        "img1": "",
+    
+        "ulke": "Kolombiya, resmî adıyla Kolombiya Cumhuriyeti, Güney Amerika'da yer alan ve Kuzey Amerika'da adaları bulunan bir ülkedir. Kuzeybatıda Panama, kuzeyde Karayip Denizi, doğuda Venezuela ve Brezilya, güneyde Ekvador ve Peru ve batıda Büyük Okyanus ile çevrilidir.",
+    
+        "ekonomi": "IMF verilerine (2020) göre Kolombiya; Brezilya, Meksika ve Arjantin'in ardından Latin Amerika ve Karayipler (LAK) bölgesinin dördüncü, dünyanın 43. büyük ekonomisidir. Satın alma gücü paritesine göre hesaplanmış GSYH verilerine göre ise dünyanın en büyük 33. ekonomisidir.",
+    
+        "iklim": "Kolombiya'nın iklimi bölgelere göre çeşitlilik gösterir. Vadilerde tropik, yüksek kesimlerde ise ılıman iklim özellikleri görülmektedir. Sıcak iklim kuşağında yer alan ülke dağlarının doruklarında her zaman kar vardır.",
+    
+        "cografya":"Cristóbal Colón Dağı ve Simón Bolívar Dağı ülkenin en büyük yükseltileridir. And Dağları sisteminin üç büyük sıra dağı olan Batı, Orta ve Doğu Cordillera'lar ülkenin batı yarısı boyunca uzanarak Ekvador sınırında birleşirler.",
+    
+        "tarih":"1886'da ülkeye, kıtayı keşfeden Kolomb'un ismi verildi ve Kolombiya Cumhuriyeti ilan edildi. 1903 yılında, ülke topraklarına dahil olan Panama, ABD'nin yardımı ile Kolombiya'dan ayrılarak bağımsız bir devlet oldu. Panama aynı yıl Panama Kanalı'nın kullanım hakkını ABD'ye verdi.",
+    
+        "gezilecekYer1": "Monserrate Dağı",
+        
+        "gezilecekYerBilgi1":"Kolombiya’nın başkenti Bogota’da bulunan Monserrate, şehir merkezinde yer alan bir dağdır. Monserrate, hem yerel hem de yabancı oldukça fazla ziyaretçi ağırlamaktadır. Şehrin bütün notalarından görülebilen Monserrate, en tepesinden konuklarına harika manzaralar izleme imkanı sağlamaktadır.",
+    
+        "img2": "",
+    
+        "gezilecekYer2": "Simon Bolivar Metropolitan Parkı",
+    
+        "gezilecekYerBilgi2": "Bogota şehrinin merkezinde bulunan Simon Bolivar Metropolitan Park, stratejik konumu itibariyle çok fazla tercih edilmektedir. Bir şehir parkı için oldukça işlevsel olan park, yabancı ziyaretçiler için de önemli bir eğlence merkezi olmuştur. Parkta muhteşem oyun alanları, devasa bir kütüphane, tekne kiralama imkanı, spor alanları ve daha pek çok seçenek bulunmaktadır. ",
+    
+        "img3": "",
+    
+        "img4": "",
+    
+        "yemek1":"Arepa de Queso",
+    
+        "yemekBilgi1": "Arepa de queso, queso fresco veya queso seco gibi peynirler kullanılarak hazırlanmaktadır. Tercihe göre tereyağı ve ekstra peynirle servis edilen arepa de queso sade olarak da yenebilmektedir. Genellikle sıcak çikolata ile eşliğinde tüketilen arepa de quesoyu denemek isteyenlere Quero Arepa adlı restoran tavsiye edilmektedir.",
+    
+        "img5": "",
+    
+        "yemek2":"Cazuela de Mariscos",
+    
+        "yemekBilgi2": "Cazuela de Mariscos deniz mahsulleri ile hazırlanan bir güveçtir. Cazuela de mariscos genellikle karides, kalamar ve istiridye kullanılarak yapılmaktadır. Hindistan cevizi sütü ile pişirilen deniz mahsulleri Hindistan cevizli pirinç ve patacones ile servis edilmektedir. Porton de San Sebastian, cazuela de mariscos lezzetini denemek isteyenlere önerilen mekanlar arasında yer almaktadır.",
+    
+        "img6": "",
+    
+        "tatlı":"Mote de Queso",
+    
+        "tatlıBilgi": "Mote de queso Cartagena’ya özgü bir peynir çorbasıdır. Costeño peyniri ve ñame kullanılarak hazırlanan mote de queso da bol miktarda sarımsak ve soğan da bulunmaktadır. Mote de quesoyu denemek isteyenlere La Mulata’ya gitmeleri önerilmektedir."
+    },
+
+    {
+        "id":27,
+        "title": "Tayland",
+    
+        "img1": "",
+    
+        "ulke": "Tayland, resmî adıyla Tayland Krallığı, eski adıyla Siyam, Hindiçin yarımadasının orta kısmında bulunan Güneydoğu Asya ülkesi. Batıda Myanmar, doğuda Kamboçya, kuzeyde Laos ve güneyde Malezya ile sınırları bulunmaktadır. Güney kısmında Tayland Körfezi, batı kısmında ise Andaman Denizi yer almaktadır.",
+    
+        "ekonomi": "Ekonomisi büyük oranda ihracata dayalı olan Tayland'da dış ticaret hacmi 2020 yılında 229 milyar doları ihracat, 209 milyar doları ithalat olmak üzere toplamda 438 milyar dolar olarak gerçekleşmiştir. İhracatın yaklaşık %80'ini sanayi ürünleri oluşturmaktadır.",
+    
+        "iklim": "Tayland tropik iklime sahip bir ülkedir. Mevsimler kabaca üçe ayrılmaktadır. Kasım ve Şubat ayları arasındaki dönem serin mevsim olarak adlandırılmaktadır.",
+    
+        "cografya":"Güneydoğu Asya’da, 5° 32’ -20° 28’ kuzey enlemleri ve 97° 21’-105° 38’ Doğu boylamları arasında yer alan, kuzeyden Burma ve Laos, doğudan Laos, Kamboçya ve Siyam Körfezi, güneyden Malezya ve batıdan Burma ve Andaman Deniziyle çevrili, eski adı Siyam olan, mevki itibariyle büyük stratejik önemi haiz bir krallık.",
+    
+        "tarih":"Tarihçe. Tayland'da bilinen en eski insan yerleşimi 40.000 yıl öncesine dayanmaktadır. Bölgedeki bilinen ilk uygarlıklar 6. yüzyıldan itibaren hüküm sürmüş Dvaravati Krallığı ve 8. yüzyıldan itibaren hüküm sürmüş Sumatra kökenli Srivijaya Krallığıdır.",
+    
+        "gezilecekYer1": "Şafak Tapınağı",
+        
+        "gezilecekYerBilgi1":"Şafak Tapınağı, 70 metre yüksekliğinde Budistlerin ibadet için turistlerin ise bu kültürü daha yakından görmek için ziyaret ettiği bir mekândır. Bu tapınak şafak vaktinde cam ve Çin porseleni ile kaplı olduğu için parlamaktadır. Turistlerin ziyaretlerinin en büyük nedeni bu parıltıyı görmektir.",
+    
+        "img2": "",
+    
+        "gezilecekYer2": "National Gallery",
+    
+        "gezilecekYerBilgi2": " National Gallery, Tayland’da yer almaktadır. Ülkenin merkez şehri olan Bangkok’taki tarihi darphane binasında hizmete açılan National Gallery, 19 Nisan 1974 yılından beri hizmet vermektedir. Salı günleri dışında 09.00 ile 16.00 saatleri arasında ziyaret edilebilecek sanat merkezi için giriş ücreti 200 bath olarak belirlenmiştir. Galeride 17. yüzyıl itibariyle ülkedeki çalışmalar gerçekleştirilen sanatçıların sanat eserleri sergilenmektedir.",
+    
+        "img3": "",
+    
+        "img4": "",
+    
+        "yemek1":"Kuay Tiew",
+    
+        "yemekBilgi1": "Kuay tiew, Phi Phi Adası’nda en çok sevilen yemeklerden biridir. Temelinde noodle ile yapılan bu lezzetli yemek, tercihe göre farklı malzemelere hazırlanabilmektedir. Tavuktan domuza kadar farklı etler, fasulye gibi sebzeler kuay tiewe lezzet katmaktadır. Bunun yanı sıra ziyaretçilerin damak zevkine göre çorba kıvamında bir sos da kuay tiewe eklenmektedir. Bir nevi noodle çorbası olan kuay tiew, yaklaşık 5 dakika pişirilmekte ve hızlıca servis edilmektedir.",
+    
+        "img5": "",
+    
+        "yemek2":"Hokkien Mee",
+    
+        "yemekBilgi2": "Geleneksel Phuket yemeklerinden biri olan hokkien mee, adanın en eşsiz yemekleri arasındadır. Hokkien mee; dilimlenmiş domuz eti, domuz yağı, karides ve lahana ile kızarmış yumurta bazlı buğday eriştelerinden yapılmaktadır. Genellikle yemek, dilimlenmiş taze soğan ve yanında kırmızı biber veya karides ezmesi ile servis edilmektedir. En lezzetli hokkien mee, eski şehir merkezindeki Tu Khab Kao’da tadılabilmektedir.",
+    
+        "img6": "",
+    
+        "tatlı":"Khanom Bua Loi",
+    
+        "tatlıBilgi": "Bir Chiang Mai yöresel tatlısı olan khanom bua loi, pirinç topları ve hindistan cevizi sütü ile hazırlanmaktadır. Hindistan Cevizi sütünün Chiang Mai yiyeceklerindeki yaygınlığı bilinmektedir. Dolayısıyla pirinç toplarının bu sütle pişirilmesi eşsiz bir tatlıyı ortaya çıkarmaktadır. Şeker oranının oldukça dengeli kullanıldığı khanom bua loi, turistlerin vazgeçilmez Chiang Mai tatlı kaçamakları arasına girmektedir. Bu tatlının Khaofang Dessert kafesinde denemesi tavsiye edilmektedir."
+    },
+
+    {
+        "id":28,
+        "title": "Madagaskar",
+    
+        "img1": "",
+    
+        "ulke": "Madagaskar ya da resmî adıyla Madagaskar Cumhuriyeti, Afrika kıtasına bağlı bir ada ülke olup, kıtanın doğu kesiminde Hint Okyanusu'nun batı kısmında yer almaktadır. Mozambik Kanalı ülkeyi Afrika ana kıtası ile birbirinden ayırmaktadır. Madagaskar adası, dünyanın dördüncü büyük adasıdır.",
+    
+        "ekonomi": " Madagaskar Cumhuriyeti 45,5 milyar ABD doları GSYİH (2020 IMF) ve 1.647 ABD doları (2020, IMF) kişi başına milli gelir ile “En Az Gelişmiş Ülkeler (EAGÜ)” arasında yer almaktadır. 2019 yılında büyüme oranı %4,76 olarak gerçeklemiş ve 2020 yılı sonu büyüme tahmini % 039 olmuştur.",
+
+        "iklim": "Madagaskar genelinde coğrafî konum gereği farklı iklimler yaşanabilmektedir. Genel itibarıyla kasım ile nisan aylarında sıcak ve yağışlı bir iklim yaşanırken, mayıs ile ekim ayları arasında kurak ve soğuk bir süreç yaşanmaktadır. Ülkenin doğu kıyıları Madagaskar'ın en nemli ve yağış alan bölgesi konumundadır.",
+    
+        "cografya":"Hint Okyanusunun batısında, Madagaskar Adası ve yakınındaki küçük adalar üzerinde kurulmuş bir Afrika ülkesi, Afrika kıtasından Mozambik Kanalı ile ayrılan Madagaskar, 11° 57’-25° 36’ güney enlemleri ile 43° 13’-50° 29’ doğu boylamları arasında yer alır.",
+    
+        "tarih":" Madagaskar ilk olarak 14 Ekim 1958 yılında Fransız Topluluğu içerisinde Malgaşça Cumhuriyeti adı ile özerk bir statüye sahip bir bölge olarak yer almış, 1959 yılında ülke anayasını kabul edilmesi ile ülke 26 Haziran 1960 yılında Philibert Tsiranana başkanlığında bağımsızlığını elde etmiştir.",
+    
+        "gezilecekYer1": " Tsingy de Bemaraha Doğa Koruma Alanı  ",
+        
+        "gezilecekYerBilgi1":" Tsingy de Bemaraha Strict Nature Reserve, karstik dağ manzaraları ve etkileyici kireçtaşı yaylaları ile ender bitki ve hayvan türlerine ev sahipliği yapan bir koruma alanıdır. İğne yapraklı ormanları, Manambolo nehrinin muhteşem kanyonu ve inişli çıkışlı tepeleri ile ziyaretçilere muhteşem bir manzara sunmaktadır.",
+    
+        "img2": "",
+    
+        "gezilecekYer2": "Baobablar Bulvarı",
+    
+        "gezilecekYerBilgi2": " Avenue of the Baobabs, Madagaskar’da bulunan ünlü bir toprak yoldur. Yolun 260 metrelik kısmı boyunca, boyları 30 metreye ulaşan 20 - 25 görkemli Baobab ağacı bulunmaktadır. Dünyanın en büyük ağacı olarak kabul edilen Baobab ağacının birçok örneğine ev sahipliği yapan Avenue of the Baobabs Madagaskar’ın en meşhur noktalarından biridir. ",
+    
+        "img3": "",
+    
+        "img4": "",
+    
+        "yemek1":"Akoho sy voanio",
+    
+        "yemekBilgi1": " Akoho sy voanio, poulet au Coco adıyla da bilinen Madagaskar’a özgü bir tavuk yemeği tarifidir. Bu geleneksel Madagaskar tarifi tavuk parçaları, Hindistan cevizi sütü, domates, soğan, limon suyu, zencefil, sarımsak, kırmızı biber, karabiber ve tuz ile hazırlanmaktadır. Geleneksel olarak beyaz pirinç pilavı ile servis edilen akoho sy voanio, ülke genelinde özellikle Noel döneminde çok sık tüketilmektedir.",
+    
+        "img5": "",
+    
+        "yemek2":"Lasopy",
+    
+        "yemekBilgi2": " Lasopy, Madagaskar’ın geleneksel çorba tarifidir. Hem lezzetli olması hem de doyuruculuğu ile gönüllere taht kuran lasopy; şalgam, yeşil fasulye, domates, havuç, yeşil soğan, patates ve pırasa gibi sebzeler kullanılarak hazırlanmaktadır. Çorbaya esas lezzetini ise kemik suyu ve baharatlar vermektedir. Sıcak olarak bir parça baget ekmek ile servis edilen çorbanın sakay olarak bilinen baharatlı çeşni eşliğinde denenmesi önerilmektedir.",
+    
+        "img6": "",
+    
+        "tatlı":"Lasary Voatabia",
+    
+        "tatlıBilgi": " Lasary voatabia, Madagaskar’ın çok sevilen bir salata tarifidir. Bu salatanın temel malzemeleri domates ve yeşil soğandır. Salataya ayrıca limon suyu, rendelenmiş zencefil, Tabasco gibi acı bir sos, karabiber ve tuz eklenmektedir. Buzdolabında bekletildikten sonra soğuk olarak servis edilen salatanın üzeri kıyılmış maydanoz ya da kişniş ile süslenmektedir. Lasary voatabia, romazava ve poulet au coco gibi geleneksel Madagaskar yemeklerinin en güzel eşlikçisidir."
+    },
+
+    {
+        "id":29,
+        "title": "Meksika",
+    
+        "img1": "",
+    
+        "ulke": "Meksika, resmî adıyla Birleşik Meksika Devletleri, Kuzey Amerika'nın güney yarısında yer alan federal cumhuriyet. Kuzeyde Amerika Birleşik Devletleri; güney ve batıda Büyük Okyanusu; güneydoğuda Guatemala, Belize ve Karayip Denizi; doğuda ise Meksika Körfezi ile komşudur.",
+    
+        "ekonomi": "Meksika ekonomisi ve dış ticareti/ Nasıl Bir Ekonomi-27.02.2023. Meksika, dünyanın 15. büyük ekonomisi ve Brezilya'dan sonra Latin Amerika'nın en büyük ikinci ekonomisi konumunda. Ülke, federal cumhuriyet ile yönetilen 32 eyaletten oluşuyor ve Dünya Bankası “İş Yapma Kolaylığı” endeksinde 60. sırada yer alıyor.",
+    
+        "iklim": "Yengeç Dönencesi ülkeyi,ikiye böler termal 'ılıman' (kuru subtropikal iklim) ile diğer tropikal iklim . Doğu tarafında yer alan Tamaulipas eyaletinin kıyıları, nemli subtropikal eğilimli bir iklime sahiptir.",
+    
+        "cografya":"Kuzey Amerika'nın güneyinde yer alan Meksika, kuzeyden ABD, güneyden Guatemala, Belize ve Pasifik Okyanusu, doğudan Meksika Körfezi ve Karayip Denizi, batıdan ise yine Pasifik okyanusu ile çevrilidir.",
+    
+        "tarih":"Meksika'nın tarihi, Kuzey Amerika'nın güney kısmında bulunan bir ülke olan Meksika'nın, üç bin yıl olarak bilinen sürecini kapsamaktadır. İlk olarak 13,000 yıl önce uygarlıklar tarafından bulunulmuştur.",
+    
+        "gezilecekYer1": "Chichen Itza",
+        
+        "gezilecekYerBilgi1":"Chichen Itza, Yucatan yarımadasındaki en önemli antik Maya kentlerinden biri. Dünya Mirası listesinde yer alan bu tarihi yer, günümüzde resmen turist akınına uğruyor. En dikkat çekici özelliklerinden biri, “Kukulkan Piramidi” olarak da bilinen “El Castillo” adlı yapı.",
+    
+        "img2": "",
+    
+        "gezilecekYer2": "Cobá",
+    
+        "gezilecekYerBilgi2": "Meksika’nın tarihi yerleri içinde Maya uygarlığından izler taşıyan tarihi bir yerleşim yeri olan Coba, ülkenin en çok turist çeken noktalarından. Quintana Roo’da bulunan Yucatán Yarımadası’nda konumlanan bu Maya şehri, arkeolojik gezilere ve tarihe meraklı gezginlerin gözdesi. ",
+    
+        "img3": "",
+    
+        "img4": "",
+    
+        "yemek1":"Fajita",
+    
+        "yemekBilgi1": "Fajita, Meksika mutfağı denilince ilk akla gelen yemeklerden biri. Neredeyse bütün ülke restoranlarının menülerinde bulunuyor. Fajita görüntüsü, kokusu ve tadı ile deneyenleri kendine hayran bırakıyor. Tavuk, dana veya balık eti kullanılarak yapılabiliyor. Fajita, Meksika mutfağının olmazsa olmazlarından biber çeşitleri ve diğer sebzeler eşliğinde pişiriliyor. Söz konusu Meksika mutfağı olunca baharatları da anmak gerekiyor. Fajita, genellikle Meksika mutfağında adı çokça geçen mısır unundan yapılan küçük lavaş şeklindeki ‘tortilla’ ile tüketiliyor. ",
+    
+        "img5": "",
+    
+        "yemek2":"Taco",
+    
+        "yemekBilgi2": "Meksika’nın vazgeçilmez geleneksel lezzetlerinden biri olan taco, Avrupalılar Meksika’ya gelmeden çok öncesine ait bir yemek. Bu anlamda Meksika’nın yerli yemeği unvanını hak ediyor. Taconun ana malzemelerinden biri, meşhur tortilla ekmeği. Tercihe göre kıtır veya yumuşak yapılan tortilla, ikiye katlanarak içine et, peynir veya çeşitli sebzeler eklenerek hazırlanıyor. Pek çok şekilde yapılabilen taco, içinde bulunduğu malzemeye göre adlandırılıyor.",
+    
+        "img6": "",
+    
+        "tatlı":"Pay De Pera",
+    
+        "tatlıBilgi": "Güvecin içerisinde pişirilen pay de pera tatlısı, Meksika mutfağının sevilen lezzetlerinden biridir. Armutlu pay üzerine vanilyalı dondurma eklenerek servis edilen pay de pera, kolayca hazırlanır ve küçük porsiyonlar halinde servis edilir."
+    },
+
+    {
+        "id":30,
+        "title": "Mısır",
+    
+        "img1": "",
+    
+        "ulke": "Mısır veya resmî adıyla Mısır Arap Cumhuriyeti, Afrika ile Asya kıtalarının kesişiminde yer alan bir ülkedir. Kuzey Afrika'nın nüfusu en büyük olan ülkesidir. Nüfusunun büyük bölümü Nil Nehri boyunca yerleşmiştir. Akdeniz ve Kızıldeniz'e kıyısı bulunan Mısır'ın, batısında Libya, güneyinde ise Sudan yer almaktadır.",
+    
+        "ekonomi": "Mısır'ın gelir kalemlerinde petrol sanayi, tekstil, hazır giyim ve verimli Nil deltasında yapılan tarım faaliyetleri önemli yer tutmaktadır. Diğer gelişmiş sanayi dalları çelik, çimento, kimyasallar ve ilaç sanayidir.",
+    
+        "iklim": "Mısır'da step iklimi hâkim olduğu için yıl boyunca az yağış görülür. Ülkede yıllık ortalama sıcaklık 27°C civarındadır. Sıcaklıklar hemen her bölgede aynı olmakla birlikte Akdeniz ve Nil deltasına yakın olan bölgelerde, özellikle Kahire'de nem oranı oldukça yüksektir.",
+    
+        "cografya":"Mısır coğrafyası, ağırlıklı olarak çöldür. Mısır'ın toplam yüzölçümünün %3,5'luk alanı (35,000 km2) tarıma uygun ve kalıcı olarak yerleşim yerlerinden oluşmaktadır.",
+    
+        "tarih":"Mısır Tarihi boyunca 190 Kral hüküm sürmüştür. 30 hanedanlı Mısır'ın tarihi, Eski Krallık Dönemi (MÖ 3.100-MÖ 2.150), Orta Krallık Dönemi (MÖ 2.050-MÖ 1.650), Yeni Krallık Dönemi (1570-935) ve Geç Dönem (MÖ 935 - MS 343) olmak üzere 4 döneme ayrılır. Her dönemin ardından karışıklıkların yaşandığı bir ara dönem gelir.",
+    
+        "gezilecekYer1": "Sina Dağı",
+        
+        "gezilecekYerBilgi1":"Sina Dağı, dünya dinlerinde kutsal kabul edilen ve Mısır’ın Sina Yarımadasında yer alan ünlü bir dağdır. Dağ hakkında birçok rivayet bulunmakla birlikte Kuran-ı Kerim ve Tevrat’ta direkt olarak bahsedildiği bilinmektedir. Sina Dağı, bölgede Aziz Katerina Dağı’ndan sonra en yüksek ikinci dağ konumunda bulunmaktadır.",
+    
+        "img2": "",
+    
+        "gezilecekYer2": "Amon Tapınağı",
+    
+        "gezilecekYerBilgi2": "Karnak ya da Amon-Ra Tapınağı olarak bilinen yapı hem kral hem de Güneş Tanrısı olarak kabul edilen Amon-Ra adına yaptırılmıştır. 1979 yılında UNESCO Dünya Mirası Listesine alınan bu tapınak birçok Mısır Firavununun tahta çıkış törenlerinin de yapıldığı alandır. ",
+    
+        "img3": "",
+    
+        "img4": "",
+    
+        "yemek1":"Feteer Meshaltet",
+    
+        "yemekBilgi1": "Kahire mutfağının en eski yemeklerinden olan Feteer Meshaltet, Mısır İmparatorluğu zamanından kalma bir ekmek çeşididir. Katmere benzer şekilde yoğurulan ve katlanan hamurun içi lapa, dışı ise sert olarak pişirilmektedir. İçerisinde tercihe göre kıyma veya peynir bulunan Feteer Meshaltet ekmeği, üzerine pudra şekeri serpilerek, çilek ve muz gibi meyveler ile servis edilmektedir. Kahire kahvaltılarının vazgeçilmez lezzeti olan Feteer Meshaltet ekmeğinin en güzel yapıldığı yer, 3al 7aseera ve Desoky&Soda restoranlarıdır.",
+    
+        "img5": "",
+    
+        "yemek2":"Hawawshi",
+    
+        "yemekBilgi2": "Kahire’nin geleneksel tatlarından olan Hawawshi; kıyma, soğan, maydanoz ve biberle doldurulan bir ekmektedir. İlk olarak 1971 yılında Kahireli kasap Ahmed al-Hawawsh tarafından yapılan Hawawshi ekmeği, kısa bir sürede Kahire’den tüm Mısır’a yayılan bir lezzet olmuştur. Günümüzde Kahire sokaklarındaki en beğenilen lezzetlerin başında gelen Hawawshi ekmeği, seyyar satıcılarda ve birçok restoranda satılmaktadır. Kahire şehrinde en lezzetli Hawawshi ekmeğinin yapıldığı yer, Hawawshi Al-Refaie restoranıdır.",
+    
+        "img6": "",
+    
+        "tatlı":"Umm Ali",
+    
+        "tatlıBilgi": "Mısır’ın ulusal tatlısı olarak kabul edilen Umm Ali, farklı kompozisyona sahip birçok varyasyona sahiptir. Memluk dönemine kadar uzanan Umm Ali tatlısı; fındık, kuru üzüm, hindistan cevizi, süt ve şekerin karıştırılması ile pişirilmektedir. Görüntüsüyle kazandibini andıran Umm Ali tatlısının, Kahire’de mutlaka deneyimlenmesi önerilmektedir. Kahire’deki en meşhur Umm Ali tatlıcısı olduğu söylenen Oldish restoranı, Mohammed Mahmoud sokağında yer almaktadır."
+    },
+
+    {
+        "id":31,
+        "title": "Nepal",
+    
+        "img1": "",
+    
+        "ulke": "Nepal, resmî adıyla Nepal Federal Demokratik Cumhuriyeti, Güney Asya'da bir ülkedir. Büyük bölümü Himalayaların eteklerinde, bir bölümü ise Hint-Ganj Ovası'nda konumlanmıştır. Dünyanın 49. en kalabalık ve 93. en geniş ülkesidir.",
+    
+        "ekonomi": "Dünyanın en yoksul ülkelerinden biri olan Nepal, BM tarafından da “En Az Gelişmiş Ülkeler” kategorisinde değerlendirilmektedir. Ülkede nüfusun yaklaşık üçte biri yoksulluk sınırının altında yaşarken, 834 dolarlık kişi başı millî gelir de dünyadaki en düşük seviyelerden biridir.",
+    
+        "iklim": "Deniz seviyesinden 3600 ila 4.400 metre yükseklikteki bölgelerde subarktik iklim özellikleri görülürken 4.400 metre itibari ile arktik iklim egemendir. Nepal'de yaz mevsimi haziran ayında başlayıp eylül ortasına kadar devam etmektedir. Yıllık yağış miktarının %80'i yaz aylarında gerçekleşmektedir.",
+    
+        "cografya":" Büyük Himalaya Dağlarının hemen güneyinde, 25°25'-30°17' Kuzey enlemleri ve 80°6'-88°14' Doğu boylamları arasında yer alan Nepal'in, 147.181 km2lik toprakları, yaklaşık olarak bir dikdörtgen şeklindedir. Nepal, başlıca üç büyük bölgeye ayrılır: Tarai, Orta Tarai ve Dağlık Bölge.",
+    
+        "tarih":"Yapılan araştırmalara göre Nepal’in bilinen ilk tarihi, MS 4. yüzyılda, küçük Hint prensliklerinin kurulmasıyla başlamıştır. Nepal topraklarında yer alan bu küçük prenslikler 18. yüzyılın ortalarına kadar varlıklarını sürdürmüşlerdir.1814 - 1816 yılları arasında İngilizlerle yapılan savaşlar, Gurkaların mağlubiyetiyle sonuçlanmış ve bundan sonra 1846’ya kadar ülke, soylu ailelerin mücadele alanı durumuna gelmiştir.",
+    
+        "gezilecekYer1": "Pashupatinath Tapınağı",
+        
+        "gezilecekYerBilgi1":"Nepal’in Katmandu şehrinde bulunan Pashupatinath Tapınağı, Hindular için Nepal’deki en kutsal tapınaklardan biri olmaktadır. Sıra dışı ritüelleri, sadhularla tanışma imkanı ve manevi önemiyle ziyaretçilerin Nepal gezisinde gelmeyi tercih ettikleri ilk yerlerden biridir.",
+    
+        "img2": "",
+    
+        "gezilecekYer2": " Manaslu Dağı",
+    
+        "gezilecekYerBilgi2": "Nepal’in başkenti Katmandu’da bulunan Manaslu, 8,163 metrelik yüksekliğiyle Dünya’nın en yüksek sekizinci dağı olmaktadır. Manaslu’yu görmek için yapılan doğa yürüyüşlerinde ziyaretçiler dağın eşsiz manzarasını ve Tibetli Budistlerin kültürünü görme şansı yakalamaktadırlar. ",
+    
+        "img3": "",
+    
+        "img4": "",
+    
+        "yemek1":"Aloo Chop",
+    
+        "yemekBilgi1": "Katmandu’nun en çok tüketilen sokak yemeklerinden olan aloo cho, özellikle turistlerin çok sık tercih ettiği bir atıştırmalıktır. Her daim Katmandu sokaklarında hazır olarak bulunabilen aloo chop, patates ve et ile doldurularak kızartılan hamur işidir. Katmandu’da insanların gezinti esnasında tükettikleri bir yiyecek olan aloo chop, Tukche Thakali Kitchen isimli restoranda bulunmaktadır.",
+    
+        "img5": "",
+    
+        "yemek2":"Chatamari",
+    
+        "yemekBilgi2": "Chatamari, Katmandu’nun en çok tercih edilen sokak yemeklerinin başında gelmektedir. Görüntüsü pizzaya benzeyen chatamari, pirinç unu ve çeşitli soslarla hazırlanmaktadır. Yumurta veya et ile yapılan chatamari, doyurucu ve baharatlı bir yiyecektir. Katmandu’daki birçok yerde kolaylıkla bulunabilecek olan chatamari, Jhigu Bhoe Chhen isimli restoranda en lezzetli haliyle servis edilmektedir.",
+    
+        "img6": "",
+    
+        "tatlı":"Sel Roti",
+    
+        "tatlıBilgi": "Halk arasında Nepal çöreği olarak bilinen sel roti, Katmandu’nun en bilinen sokak lezzetleri arasındadır. Pirinç unu ve farklı malzemelerle hazırlanan sel roti, iyice çıtır hale gelene kadar yağda kızartılmaktadır. Simide benzeyen bir çörek türü olan sel rotiyi Katmandu’nun her yerinde bulabilmek mümkündür."
+    },
+
+    {
+        "id":32,
+        "title": "Nijerya",
+    
+        "img1": "",
+    
+        "ulke": "Nijerya ya da resmî adı ile Nijerya Federal Cumhuriyeti, Afrika kıtasının batısında yer alan ülkedir. Ülkenin sınır komşularını Nijer, Çad, Kamerun ve Benin oluştururken, ülkenin güneyinde Gine Körfezi içerisinde yer alan Benin Körfezi yer almaktadır. Ülkenin başkenti Abuja'dır.",
+    
+        "ekonomi": "Nijerya, Afrika'da yaklaşık 506,6 milyar Dolar Gayrisafi Yurtiçi Hasılatı ile önemli bir ekonomi, aynı zamanda büyük nüfusuyla önemli bir pazar olarak öne çıkmaktadır. Petrol İhraç Eden Ülkeler Örgütü (OPEC) üyesi olan Nijerya, hâlihazırda dünyanın 8. büyük rezervine sahiptir.",
+    
+        "iklim": "Nijerya, tropikal iklimin tesirinde, yüksek sıcaklıkların olduğu bir ülkedir. Yıllık ortalama yağış miktarı, bölgeden bölgeye farklılıklar gösterir.",
+    
+        "cografya":" Nijerya toprakları, kıyılardan itibaren tedricen kesilmiş ve dağlık arazilerle kırılmış, hafif ondüleli bir yayla görünümündedir. Lagos'tan Kamerun sınırına kadar olan şerit, ekvatoral ormanlık araziyle örtülüdür. Nijerya'nın ikinci ormanlık bölgesi, Savana bölgesidir.",
+    
+        "tarih":"Nijerya topraklarında ilk yaşamın, MÖ 1500'de başlayan Nok uygarlığı sırasında geliştiği düşünülmektedir. Bu dönemde Nok uygarlığı, Sahra Altı Afrika'da bilinen en eski heykeller arasında olan toprak figürler üretmiştir. Kainji Barajı'nda yapılan kazılar ise MÖ 200'de bölgede demir işçiliği yapıldığını ortaya koymaktadır.        ",
+    
+        "gezilecekYer1": "Elegushi Plajı",
+        
+        "gezilecekYerBilgi1":"Hafta içi her gün 24 saat açık olan Elegushi Royal Beach Lekki Lagos sahip olduğu imkanlar ile bölge turistlerine Nijerya’da unutulmayacak bir tatil sunmaktadır. Bu özel plaj ev sahipliği yaptığı birçok aktivite imkanı ile ziyaretçilerine mükemmel anlar yaşatmaktadır. Plajda bulunan birçok kaliteli restoran ve gece kulübü burayı ziyaretçiler için özellikle tercih sebebi haline getirmektedir.",
+    
+        "img2": "",
+    
+        "gezilecekYer2": "Kanu Ndubuisi Parkı",
+    
+        "gezilecekYerBilgi2": "Nijerya’nın Lagos şehrinde yer alan Ndubuisi Kanu Park Oregun Lagos, ülkenin ünlü parklarından biridir. Yıl boyunca çok sayıda ziyaretçiye ev sahipliği yapan park, çocuklar için eğlenceli oyun alanlarına sahiptir. Pek çok spor aktivitesinin de yapılabileceği ünlü cazibe merkezi, her yaştan ziyaretçiyi kendisine hayran bırakmaktadır. ",
+    
+        "img3": "",
+    
+        "img4": "",
+    
+        "yemek1":"Ewa Aganyin",
+    
+        "yemekBilgi1": " Ewa aganyin, Nijerya’da oldukça popüler olan bir sokak yemeğidir. Nijerya’nın yerel halkı Yorubaların evlerinden eksik olmayan ewa aganyinin ana malzemesi ise fasulyedir. Püre haline gelene kadar pişirilen fasulyeler, farklı baharatlarla lezzetlendirilen domates sosu ile buluşturulmakta ve ortaya ewa aganyin gibi eşsiz bir lezzet çıkmaktadır. Halk arasında “Ewa G” olarak da bilinen bu lezzetli yemeğin içinde ayrıca hurma yağı, soğan ve kerevit de bulunmaktadır. Bu yöresel yemeğin Lagos’ta tadılabileceği en meşhur restoran ise Amoke ewa agoyin Special’dir.",
+    
+        "img5": "",
+    
+        "yemek2":"Akara",
+    
+        "yemekBilgi2": "Fasulye pürelerinden kek! Eğer akarayı en kısa bir şekilde tarif etmemiz isteselerdi en açık böyle anlatırdık galiba. En ideal geleneksel Nijerya kahvaltı menüsü olan akaralar kesinlikle bir kahvaltıda denenmesi gereken bir lezzet. Bu kekler tabi ki sadece kahvaltılarda değil, günün her saatinde tüketilebilmektedir. Bu lezzetli kahvaltılık Kano mutfağı içinde de önemli bir yere sahiptir.",
+    
+        "img6": "",
+    
+        "tatlı":"Zobo",
+    
+        "tatlıBilgi": " Kuru rozella ya da kuzukulağı ile ortaya çıkan bu aşırı derecedeki kırmızı içki ülkenin geleneksel içeceklerinden biri ve yerli halk bunu çok seviyor. Bu içecek canlılık ve enerji vermesi ile pek çok kişi için ülkedeki favori içeceklerden biri olmayı başarıyor."
+    },
+
+    {
+        "id":33,
+        "title": "Peru",
+    
+        "img1": "",
+    
+        "ulke": "Peru, ya da resmî adıyla Peru Cumhuriyeti Güney Amerika'nın batısında bir ülkedir. Kuzeyde Ekvador ve Kolombiya, doğuda Brezilya, güneydoğuda Bolivya, güneyde Şili ve batıda Büyük Okyanus'la sınırlıdır.",
+    
+        "ekonomi": "Ülkede önemli miktarda gümüş, bakır, kalay, cıva, lityum ve altın kaynakları vardır. Toplam ihracatın yaklaşık %65'ini madencilik ürünleri oluşturmaktadır. İşgücünün %7,6'sına istihdam sağlayan tarım sektörü de ülkenin ihracatında önemli paya sahiptir.",
+    
+        "iklim": "Doğuda tropikal, batıda kuru çöl iklimi hakimdir, Andlarda ılımandan çok soğuğa iklim değişikliği görülür.",
+    
+        "cografya":"Güney Amerika’nın batı kıyısında 0°3’-18°24’ güney enlemleri ve 69°55’-81°21’ batı boylamları arasında yer alan ve kuzeybatısında Ekvador, kuzeydoğusunda Kolombiya, doğusunda Brezilya ve Bolivya, güneyinde Şili ve batısında Pasifik Okyanusu ile çevrili bağımsız bir Latin Amerika ülkesi.",
+    
+        "tarih":"İnsanlık tarihinin en köklü medeniyetlerinden bazılarına ev sahipliği yapan Güney Amerika ve özelde Peru topraklarında bilinen ilk insan yerleşimleri MÖ 10.000'li yıllara kadar gitmektedir. Ancak bölgede varlığı bilinen ilk topluluk olan Norte Chicolar MÖ 2.000'li yıllara tarihlendirilmektedir.",
+    
+        "gezilecekYer1": "Titicaca Gölü",
+        
+        "gezilecekYerBilgi1":"Güney Amerika’nın en büyük gölü olan Titicaca, Bolivya ve Peru arasında, And Dağları’nın Altiplano adlı platosunda yer almaktadır. Zengin faunası, eşsiz manzarası ve rengarenk kıyafetleri ile ünlü yerel halkı ile doğa severlerin Puno’daki uğrak noktalarından biridir. İlginç efsaneleri ünlü olan Titicaca, yıl boyunca Peru’da birçok turiste ve ziyaretçiye ev sahipliği yapmaktadır.",
+    
+        "img2": "",
+    
+        "gezilecekYer2": "Gökkuşağı Dağı Cusco",
+    
+        "gezilecekYerBilgi2": " Vinicunca, Peru’nun Cusco şehrinde yer alan küresel ısınma sonucunda eriyen karlardan dolayı 2015 yılında keşfedilen ünlü bir dağdır. National Geographic’in “Ölmeden Önce Ziyaret Edilecek En İyi 100 Yer” listesinde yer almasıyla popülaritesini iyice artırmıştır. Dağ, yıllar içinde karın altında biriken minareler sayesinde gökkuşağı renklerine sahiptir. Aynı zamanda 5.200 metre yüksekliğe sahip olduğundan dolayı eşsiz bir manzarayı da ziyaretçilerinin ayaklarının altına sermektedir. ",
+    
+        "img3": "",
+    
+        "img4": "",
+    
+        "yemek1":"Lomo Saltado",
+    
+        "yemekBilgi1": " Lomo saltado, marine edilmiş sığır filetosunun tavada kızartılması ile hazırlanmaktadır. Dana bonfile dilimlerinden de yapılan farklı tarifleri mevcuttur. Tarifte kullanılan değişmez belli başlı malzemelerden bazıları soğan ve sarı Peru biberidir. Genelde patates kızartması ve pilav ile servis edilmekte, birçok restoranda bulunabilmektedir. Bu tarifin doğru yapıldığı ve en meşhur restoran ise Tanta olarak öne çıkmaktadır.",
+    
+        "img5": "",
+    
+        "yemek2":"Cuy al Horno",
+    
+        "yemekBilgi2": "Cuy al horno sarımsak, tuz, kimyon, biber, yağ ve hutacay ile marine edilerek yapılan bir domuz eti yemeğidir. Marine edildikten sonra patates ile dolu bir tavaya alınarak bir saat kadar pişirilmektedir. Salsa sos ile servis edilen bu tarifin güzel yapıldığı en meşhur restoran ise Sumaqcha isimli mekandır.",
+    
+        "img6": "",
+    
+        "tatlı":" Pisco Sour",
+    
+        "tatlıBilgi": " Pisco sour; içerisinde alkol olarak Pisco bulunan, limon suyu, şeker şurubu ve yumurta akı ile yapılan bir kokteyldir. Tüm malzemeler buz ile çalkalandıktan sonra Angostura bitteri ile süslenerek bardağa konmaktadır. İlk kez Lima’da yapıldığından yöreye ait özel bir içecektir. Pisco souru deneyimlemek için en meşhur restoran ise Museo Del Pisco Lima isimli mekandır."
+    },
+
+    {
+        "id":34,
+        "title": "Romanya",
+    
+        "img1": "",
+    
+        "ulke": "Romanya Orta, Doğu ve Güneydoğu Avrupa'nın kesişim noktasında bulunan bir ülkedir. Kuzey ve kuzeydoğuda Ukrayna, kuzeydoğuda Moldova, kuzeybatıda Macaristan, güneybatıda Sırbistan, güneyde Bulgaristan ve doğuda Karadeniz ile çevrilidir.",
+    
+        "ekonomi": "Dünya Bankası'na göre Romanya yüksek gelirli ekonomidir. Eurostat'a göre Romanya'nın kişi başına düşen GSYİH'sı 2019'da AB ortalamasının %70'iydi. 2007'deki %44'lük artış Romanya'yı AB'nin en hızlı büyüyen ekonomilerinden biri yaptı.",
+    
+        "iklim": "Romanya'nın iklimi orta nemlilikte olan tipik bir kara iklimidir. İklim, geniş ölçüde, mevsimlere ve bölgelere göre farklılıklar gösterir. Yaz ayları kurak ve sıcak, kış ayları ise sert ve karlı geçer. Sonbahar mevsimi uzun sürerken, İlkbahar çok kısa müddetle kendini gösterir.",
+    
+        "cografya":"Romanya'nın coğrafyası, dağlar (%23), ovalar (%39) ve tepeler (%35) arasında bölünmüştür. Romanya'nın %3'ünü de çayırlar, bataklıklar ve sulak alanlar oluşturmaktadır.",
+    
+        "tarih":" Avrupa'nın en eski topraklarındandır. Birçok medeniyete ev sahipliği yapmıştır. Roma imparatorluğu tarafından işgal edilmiştir. İşgal edilen bu devlet Gotlar, Hunlar, Macarlar, Peçenekler, Slavlar, Avarlar ve Osmanlı istilalarına uğramıştır. 1881 yılında Romanya Krallığı ilan edilmiştir.",
+    
+        "gezilecekYer1": "Voronet Manastırı",
+        
+        "gezilecekYerBilgi1":"Rumen Köyü’nün bir parçası haline gelen Voronet Manastırı, Orta Çağ’dan günümüze kadar gelen ülkenin önemli dini yapılarından biridir. 1488 yılında inşa edilen manastır, Boğdan’da Dünya Kiliseler Mirası’nı oluşturan 8 kiliseden biri konumunda… Ülkeye gelen turistlerin ziyaret ettiği gezi noktalarından biri olan manastırı, seyahat listenize eklemenizde fayda var.",
+    
+        "img2": "",
+    
+        "gezilecekYer2": "Bran Kalesi",
+    
+        "gezilecekYerBilgi2": "Romanya’nın ulusal anıtlarından biri kabul edilen Bran Kalesi, ülkenin en meşhur kalesi. Sebebi ise yazar Bram Stoker’in hayali karakteri olan Kont Drakula’nın evi olması. ‘’Drakula’nın Kalesi’’ olarak bilinen yapı şehrin en çok turist ağırlayan noktalarından biri aynı zamanda Eski dönemde Osmanlılara karşı savunma amaçlı inşa edilen kale, günümüzde şehrin en ihtişamlı yapılarından biri aynı zamanda. Bu muhteşem yapının içerisinde ise turistlere açık bir müze yer alıyor. Müzede ise Kraliçe Marie’nin mobilya ve sanat eserlerinden oluşan özel bir koleksiyonunu gözlemleme şansı elde edebilirsiniz.",
+    
+        "img3": "",
+    
+        "img4": "",
+    
+        "yemek1":"Bükreş Sarmale",
+    
+        "yemekBilgi1": "Sarma veya dolma olarak adlandırılan yiyeceğin birçok ülkede yapılması nedeniyle kökeni tartışılsa da Bükreş sarmasının içeriği bölgeye özgüdür. Lahana yaprağından yapılan Bükreş sarmale, bölgede daha yaygın olduğu için domuz eti eklenen bir harçla pişirilmektedir. Bükreş bölgesine özgü enfes soslarla sunulan sarmale, Vatra Restoran’ın menüsünde bulunan favori yemeklerden biridir.",
+    
+        "img5": "",
+    
+        "yemek2":"Fasole cu Carnati",
+    
+        "yemekBilgi2": "Bükreş şehrinde ordu aşçıları tarafından yapılan ve yerel bir lezzet haline gelen fasole cu carnati, sosisli fasulye yemeğidir. Bol soslu ve baharatlı fasulye yemeğinin üzerine genellikle domuz etinden yapılan sosisler eklenmektedir. Doyurucu ve yöresel lezzetler arasında turistlerin sıklıkla denemek istedikleri fasole cu carnati, Restaurant La Nuci adlı mekanda tadılabilmektedir.",
+    
+        "img6": "",
+    
+        "tatlı":"Joffre Kek",
+    
+        "tatlıBilgi": "Bükreş’te 1920 yılında yerel bir spesiyal olarak yapılan Joffre kek, adını bölgeyi ziyaret eden Fransız ordusu komutanından almaktadır. Yöresel lezzet oluşunu kanıtlayan bu enfes çikolatalı kek, yoğun katmanları ile turistleri kendine hayran bırakmaktadır. Bükreş’te kahve molasını mükemmel Joffre kek lezzetiyle buluşturmak isteyen ziyaretçilerin, Caru’cu Bere Restoran’a gitmeleri doğru bir seçim olacaktır."
+    },
+
+    {
+        "id":35,
+        "title": "Rusya",
+    
+        "img1": "",
+    
+        "ulke": "Kuzeybatıdan güneydoğuya Rusya; Norveç, Finlandiya, Estonya, Letonya, Litvanya, Polonya, Belarus, Ukrayna, Gürcistan, Azerbaycan, Kazakistan, Çin, Moğolistan ve Kuzey Kore ile komşudur.",
+    
+        "ekonomi": " Rusya ekonomisi stratejik alanlarda devlet mülkiyeti ile karma, yüksek gelire sahip bir ekonomidir. 1990'larda Pazar yenilikleri, enerjide meydana gelen özelleştirmelerle önemli istisnalarda ve savunmayla ilgili dallarda, Rus sanayisi ve tarımı çok özelleştirilmiştir.",
+    
+        "iklim": " Bütün Rusya'da orta karasal iklim hakimdir. 4 mevsim yaz kış ilkbahar son bahar olarak görülür. Her mevsim ortalama 3 ay sürer. Rusya'da yazları ortalama +25 derece sonbahar ortalama +10 +15 derece olan hava kışları -15′e kadar düşebiliyor.",
+    
+        "cografya":"Rusya Federasyonu Hangi Kıtadadır? Rusya Federasyonu; Avrasya kıtasının büyük bir parçasını oluşturan, Asya ve Avrupa'nın kuzeyinde yer alan bir ülkedir.",
+    
+        "tarih":"Rusya tarihi, Doğu Slavları'nın tarihleriyle başlar. Özellikle Rus tarihinin geleneksel başlangıç tarihi 862 yılında kuzeyde Vikingler tarafından yönetilen Rus devletinin kuruluşuna dayanmaktadır.",
+    
+        "gezilecekYer1": "Kızıl Meydan",
+        
+        "gezilecekYerBilgi1":"Rusya’nın kalbi olarak nitelendirilen Kızıl Meydan, şehrin en önemli meydanıdır. Özel etkinliklerde yerli ve yabancı turistlerin buluşma noktası olan bu meydandaki önemli yapılar, meydanı daha da değerli bir hale getirmektedir. Özellikle meydanda bulunan Aziz Vasil Katedrali ve Kremlin Sarayı, UNESCO Dünya Mirasları listesinde de yer aldığından dolayı sayısız ziyaretçinin bu meydanı ziyaret etmesini sağlamaktadır.",
+    
+        "img2": "",
+    
+        "gezilecekYer2": "Ermitaj Müzesi",
+    
+        "gezilecekYerBilgi2": " Rusya’nın Sankt-Petersburg şehrinde yer alan Ermitaj Müzesi, dünyadaki en önemli müzelerden biridir. Müzeyi gezenlerin, kendilerini 1760’lı yılların İmparatorluk ruhunu hissettiren muhteşem bir yapıda hissedecekleri söylenebilmektedir. Ayrıca müze, en büyük resim koleksiyonuna sahiptir. Harika zaman geçirmek isteyenler için en uygun mekânlar arasında yer almaktadır.",
+    
+        "img3": "",
+    
+        "img4": "",
+    
+        "yemek1":"Leningradsky Rassolnik",
+    
+        "yemekBilgi1": "Leningradsky rassolnik, St. Petersburg’a özgü geleneksel bir çorbadır. Bu çorbaya kendine özgü tat veren bir malzeme varsa o da turşudur. St. Petersburg’un eski adı Leningrad olduğu için çorba da zamanla bu isimle anılmaya başlanmıştır. Sırf bu ilginç bilgi sebebiyle dahi çorbanın tadına bakmak isteyen turist sayısı oldukça fazladır. Leningradsky rassolnikin denenebileceği en güzel mekân Public Cafe’dir.",
+    
+        "img5": "",
+    
+        "yemek2":" Zharkoe",
+    
+        "yemekBilgi2": "Zharkoe; dana, tavuk, domuz veya kuzu etinden yapılan içerisine patates eklenerek pişirilen bir yahnidir. Soğuk St. Petersburg akşamlarının vazgeçilmez yemeği olan zharkoenin yanında genellikle kırmızı şarap tüketilmektedir. İsteğe göre tavuk ya da domuz eti eklenmeden de hazırlanabilmektedir. Denenebilecek en güzel mekânlardan biri ise Bloody Mary Bar& Grill adlı restorandır.",
+    
+        "img6": "",
+    
+        "tatlı":"Morozhenoe",
+    
+        "tatlıBilgi": "Morozhenoe, yoğun süt ve buz oranına sahip bir dondurmadır. Saf sütten yapılmaktadır. Derin kremsi bir dokuya sahip olan bu dondurma yemeklerden sonra tatlı olarak da sıklıkla tüketilmektedir. Dileyen turistler dondurmanın üzerine çikolata sosu da ekletebilirken genelde sütün tadının alınabilmesi için sade tüketilmesi önerilmektedir. Morozhenoe lezzetinin denenebileceği en güzel mekân ise Graf-In’dır."
+    },
+
+    {
+        "id":36,
+        "title": "Singapur",
+    
+        "img1": "",
+    
+        "ulke": "Singapur, resmî adıyla Singapur Cumhuriyeti, Güneydoğu Asya'da bir ada ülkesi ve şehir devletidir. Ekvatorun 1 derece kuzeyinde, Malay Yarımadası'nın güney ucunda yer alan ülke batıda Malakka Boğazı, güneyde Endonezya'ya bağlı Riau Adaları ve doğuda Güney Çin Denizi ile çevrilidir.",
+    
+        "ekonomi": "Singapur ekonomisinin büyük bir kısmı ticarete dayanır. Ayrıca ulaştırma, bankacılık, sigortacılık, haberleşme, tamirat ve depolama gibi hizmetlerden de önemli ölçüde gelir elde edilmektedir. Singapur ekonomisinin dayandığı diğer önemli gelir kaynağı endüstridir.",
+    
+        "iklim": "Singapur, tropikal iklime sahiptir. Sıcaklık ve nem miktarı yüksektir. Yağışlar çok fazladır. Mevsimlere göre nem, ısı ve yağış değişikliği oldukça azdır.",
+    
+        "cografya":"Singapur arazisi çoğunlukla alçaktır, orta bölgelere gittikçe biraz yükseklik görülür. Ülkenin en yüksek rotası 177 metreyle Timah Dağı'dır. Adada Singapur Nehri dışında bir nehir bulunmaz. Singapur tropikal iklime sahiptir.",
+    
+        "tarih":"Singapur tarihi bin yıl önceye uzanır, ancak modern Singapur 1819'da Stamford Raffles tarafından Britanya İmparatorluğu'na bağlı bir ticaret merkezi olarak kuruldu. 1867'de Doğu Asya sömürgeleri yeniden yapılandırılırken Singapur Boğazlar Yerleşimleri'nin bir parçası olarak doğrudan Britanya'ya bağlandı.",
+    
+        "gezilecekYer1": "Kıyıdaki Bahçeler Singapur",
+        
+        "gezilecekYerBilgi1":"Singapur’da yer alan ve 2012 yılında açılmış olan Gardens by the Bay, ülkenin en popüler bahçe destinasyonudur. Bahçe içerisinde; Bulut Ormanı, Flower Dome, Supertree Korusu ve Floral Fantasy başta olmak üzere birçok tematik alan bulunmaktadır. Bahçenin bazı bölümleri ise ücretsiz bir şekilde gezilebilmektedir.",
+    
+        "img2": "",
+    
+        "gezilecekYer2": "Singapur Botanik Bahçeleri",
+    
+        "gezilecekYerBilgi2": " Singapur’da yer alan ünlü Singapur Botanik Bahçeleri, 1859 yılında Tarım-Bahçıvanlık Derneği tarafından kurulmuştur. Günümüzde UNESCO tarafından dünya mirası olarak kabul edilen bahçe, farklı temaları içeren pek çok bölgeye ayrılmıştır. 82 hektarlık geniş bir araziye sahip olan bahçe içerisinde, müze ve sergiler de bulunmaktadır.",
+    
+        "img3": "",
+    
+        "img4": "",
+    
+        "yemek1":"Chilli Crab",
+    
+        "yemekBilgi1": "Singapur’da sokak yemeği olarak da sıkça tüketilen chilli crab, lezzet patlaması yaşatan özel bir tarifle hazırlanmaktadır. Biber, domates püresi, sarımsak, karides ezmesi, et suyu, soya sosu ve sirke gibi çeşitli malzemeleri içeren bir sosla pişirilen taze yengeçler; kişniş ile süslenerek servis edilmektedir. Mellben Seafood gibi başarılı restoranlarda, yoğun aromaya sahip chilli crab lezzeti denenebilmektedir.",
+    
+        "img5": "",
+    
+        "yemek2":"Fish Head Curry",
+    
+        "yemekBilgi2": "Singapur’a giden turistlerin büyük bir merakla tadına baktığı fish head curry, artık balık kafalarının değerlendirilmesini sağlayan özel bir tariftir. Temizlenmiş balık kafaları; Hindistan cevizi kreması, domates, köri, sarımsak, biber, kişniş, zerdeçal, kimyon ve demirhindi gibi malzemelerle birlikte pişirilmektedir. Muthu’s Curry adlı restoranı ziyaret eden turistler, fish head curry lezzetini tadabilmektedir.",
+    
+        "img6": "",
+    
+        "tatlı":"Singapore Sling",
+    
+        "tatlıBilgi": "Singapur ziyaretçilerinin tadına hayran kaldığı Singapore sling, benzersiz bir aromaya ulaştırılan yöresel bir kokteyl çeşididir. Bu kokteylin içeriğinde cin, vişne likörü, ananas suyu, nar şurubu ve limon suyu gibi malzemeler yer almaktadır. Alkol tadımlarına renk katan Singapore sling kokteylinin, Long Bar’da denenmesi tavsiye edilmektedir."
+    },
+
+    {
+        "id":37,
+        "title": "Sudan",
+    
+        "img1": "",
+    
+        "ulke": "Sudan ya da resmî adıyla Sudan Cumhuriyeti, Kuzey Doğu Afrika'da bir ülkedir. Başkenti Hartum, en yüksek nüfuslu şehri Omdurman'dır. Sudan kuzeyden Mısır, kuzey doğudan Kızıldeniz, doğudan Etiyopya ve Eritre, güneyden Güney Sudan, batıdan Orta Afrika Cumhuriyeti ve Çad, kuzey batıdan da Libya'yla çevrilidir.",
+    
+        "ekonomi": "Sudan'ın 2019 yılı GSYİH'si 175 milyar ABD doları olurken, kişi başına düşen GSYİH 440 ABD doları olmuştur. Ülke ihracatı 2019 yılı içinde 2,4 milyar ABD doları olurken ithalat 6 milyar ABD doları olarak gerçekleşmiştir.",
+    
+        "iklim": "Sudan'ın tropikal iklimi kuzeyden gelen kuru hava ve güneyden gelen nemli hava kütlelerinden büyük ölçüde tesir görür. Kuzeyin kuru hava kütlesi kışın soğuk ve yazın sıcak getirir. Düşük bir nem oranına sahiptir ve ortalama sıcaklığı 47 dereceyi bulur.",
+    
+        "cografya":"Düz bir coğrafyaya sahip ülkenin güneyi, güneydoğusu ve batısı dağlarla çevrili iken kuzeyi ise çöllerle kaplı bulunmaktadır. Ülkenin yaklaşık %24'ü çöllerden oluşmaktadır. Beyaz Nil, Mavi Nil ve Atbarah gibi akarsular Sudan içerisinde birleşerek Nil nehrini oluşturmaktadır.",
+    
+        "tarih":"Araplar Afrika'ya girdikten sonra siyahilerin yaşadığı ve Kızıldeniz kıyılarından başlayarak Batı Afrika'ya kadar uzanan geniş bir alana Beledu's-Sudan (Siyahlar Ülkesi) adini vermişlerdi. Daha sonra 'Beled' kelimesi atılarak bu bölgeye sadece Sudan denmiştir. Bugünkü Sudan ise, Doğu Sudan denirken kastedilen bölgedir.",
+    
+        "gezilecekYer1": "Cumhurbaşkanlığı Saray Müzesi",
+        
+        "gezilecekYerBilgi1":"Cumhurbaşkanlığı Saray Müzesi’nde, Sudan’ın idari ve siyasi tarihi hakkında pek çok parça yanında diğer ülkelerden gelen hediyeler de sergileniyor. 2000 yılında açılan müze, önceleri Anglikan Kilisesi olarak hizmet veriyordu. Müze çarşamba, cuma ve pazar günleri saat 9.00-13.00 arası ziyaret edebilir.",
+    
+        "img2": "",
+    
+        "gezilecekYer2": "Gebel Barkal",
+    
+        "gezilecekYerBilgi2": " Ülkenin kuzeyinde konumlanan Karima kasabasında yer alan küçük bir dağ olan Gebel Barkal, bir dönem kraliyet mezarlığı olarak kullanılan pek çok piramit yapısına da ev sahipliği yapıyor. Tarihi ve kültürel gezilere meraklı olan gezginler, bu bölgeyi mutlaka görmeli.",
+    
+        "img3": "",
+    
+        "img4": "",
+    
+        "yemek1":"Aseeda",
+    
+        "yemekBilgi1": "Mayalanmış hamurun tuzlu suda haşlanmasıyla yapılan Aseeda, ülkede sıklıkla tüketilen yemeklerin başında sayılabilir. Cezayir, Libya ve Tunus gibi ülkelerinde önemli yemeklerinden sayılan bu lezzet, size biraz ağır gelebilir ama damak tadımıza çok da uzak değil. Kolay hazırlanan bir yemek olduğu için bölgede genellikle kahvaltılarda tüketiliyor.",
+    
+        "img5": "",
+    
+        "yemek2":"Bamia",
+    
+        "yemekBilgi2": "Kuzu etli bamya yemeği olan Bamia, Sudan sofralarına konuk olan lezzetlerden bir diğeri. Ana yemek olarak bolca tükettikleri bamyayı, kuzu etinin yanında soğan, sarımsak ve zeytinyağı gibi, tıpkı bizim yaptığımız şekilde, eklemelerle tatlandırıyorlar.",
+    
+        "img6": "",
+    
+        "tatlı":"Susam Şekeri",
+    
+        "tatlıBilgi": " Susam şekeri, karamelize şeker ve kavrulmuş susamdan yapılan gevrek bir tatlı. Bölgede ev ziyaretlerinde en çok ikram edilen atıştırmalıklardan biri kabul ediliyor. Bizim kandil simitlerimiz tatlı hali olarak düşünebilirsiniz."
+    },
+
+    {
+        "id":38,
+        "title": "Suddi Arabistan",
+    
+        "img1": "",
+    
+        "ulke": "Suudi Arabistan ya da resmî adıyla Suudi Arabistan Krallığı, Arap Yarımadası'nda bulunan en büyük ülkedir. Kuzeybatı'da Ürdün, kuzey ve kuzeydoğu'da Irak, doğuda Kuveyt, Katar, Bahreyn ve Birleşik Arap Emirlikleri, güneydoğuda Umman, güneyde Yemen, kuzeydoğusunda Basra Körfezi ve batısında Kızıldeniz ile çevrilidir.        ",
+    
+        "ekonomi": "Suudi Arabistan satınalma gücü paritesi bakımından 14. büyük ve nominal olarak dünyanın 20. büyük ekonomisidir. Suudi Arabistan dünyadaki kanıtlanmış petrol rezervlerinin %18'ine sahip olup dünyanın petrol en büyük ihracatçısıdır ve uzun yıllar OPEC'te öncü bir rol oynamıştır.",
+    
+        "iklim": "Arabistan iklimi, toprağı nedeniyle yüksek bölgelerde genellikle ılıktır. İklimin en uygun olduğu bölgeler, Yemen'e yakın bölgelere sahip olan Necid Çölü'dür. Dehna Çölü ve Tehame bölgelerinde şiddetli sıcaklıklar ve kuraklık vardır. Tehame'de genellikle yağış yoktur ve ortalama sıcaklık 37 °C civarındadır.",
+    
+        "cografya":"Arap Yarımadası (eskimiş Ceziretü'l-arap) ya da Arabistan, Asya'nın güneybatısı ve Afrika'nın kuzeydoğusunda yer alan yarımada. Büyük bölümü çöl olan yarımada, içerdiği petrol ve doğalgaz kaynakları nedeniyle Orta Doğu'nun jeopolitik açıdan önemli bir bölgesidir.",
+    
+        "tarih":"Suudi Arabistan'ın tarihi Suudi Arabistan Krallığı, 1932 yılında Kral Abdülaziz (Batı'da İbn Suud olarak bilinir) tarafından kuruldu. 1902'de atalarının klanı olan Suud Hanedanı'nın Riyad'ı ele geçirmesiyle başlayan bir dizi fetihle dört bölgeyi tek bir devlet çatısında birleştirdi.  ",
+    
+        "gezilecekYer1": "Mescid-i Haram",
+        
+        "gezilecekYerBilgi1":"Mescid-i Haram, Suudi Arabistan’ın Mekke şehrinde yer almaktadır. 634-644 yılları arasında Halife Ömer İbn el-Hattab tarafından inşa ettirilmiştir. Cami avlusunda Müslümanların hac ziyaretinin en önemli noktası olan Kâbe ve zemzem kuyusu yer almaktadır. Cami, 88,2 dönüm alanı ve 1,2 milyon kapasitesi ile dünyanın en büyük ve kutsal camisi olarak anılmaktadır.",
+    
+        "img2": "",
+    
+        "gezilecekYer2": "Arafat Dağı",
+    
+        "gezilecekYerBilgi2": "Arafat Dağı, Suudi Arabistan’ın Mekke şehrinde yer almaktadır. Hac ziyaretinde bulunan Müslümanların dokuzuncu günde Arafat Dağı’na giderek ibadet etmeleri ve tüm günü burada geçirmeleri zorunludur. Aksi takdirde, Hz. Muhammed’in “Hac, Arafat’tır” sözünden de anlaşılacağı üzere kişilerin hacları kabul edilmeyecektir. Ayrıca dağda dua eden Müslümanların tüm günahlarının silindiğine inanılmaktadır.        ",
+    
+        "img3": "",
+    
+        "img4": "",
+    
+        "yemek1":"Shikamba",
+    
+        "yemekBilgi1": "Shikamba, kuzu etinden yapılan köfteler ve krema ile hazırlanan geleneksel bir Suudi Arabistan çorbasıdır. Çorbanın içerisinde ayrıca biraz tavuk suyu, domates, defne yaprağı, kişniş, sarımsak ve biber gibi farklı malzemeler de bulunmaktadır. Bu lezzetli tarif aynı zamanda ana yemek olarak da tüketilmekte ve yerel halk tarafından genellikle öğle yemeklerinde tercih edilmektedir. Shikamba, Mekke’de yer alan pek çok restoranda tadılabilmektedir.",
+    
+        "img5": "",
+    
+        "yemek2":"Nejda Kabsa",
+    
+        "yemekBilgi2": "Suudi Arabistan yemekleri içinde belki de en önemlilerinden olan nejdi kabsa ülkenin milli yemeği olarak kabul edilmektedir. Fıstıklı ya da kajulu bir tepsi pilavın üzerinde kızarmış etlerin konmasıyla hazırlanan nejdi kabsa pek çok yemek gibi elle tüketilmektedir.",
+    
+        "img6": "",
+    
+        "tatlı":"Masoob",
+    
+        "tatlıBilgi": "Masoob için “Yemen ellerinin pudingi” desek yanlış bir tabir olmaz galiba. Arap yemekleri içinde özellikle kahvaltılarda tüketilen bu besleyici ve enerji verici tabak içinde muz ve ekmek parçacıkları bolca kullanılmaktadır. Ekmek olarak genellikle pide ya da kepekli ekmek tercih edilmektedir."
+    },
+
+    {
+        "id":39,
+        "title": "Tanzanya",
+    
+        "img1": "",
+    
+        "ulke": " Tanzanya, resmî adıyla Tanzanya Birleşik Cumhuriyeti, Doğu Afrika'da bir ülkedir. Afrika Büyük Gölleri bölgesinde yer alır. Ülke kuzeybatıda Kenya; kuzeyde Uganda; batıda Ruanda, Burundi ve Kongo Demokratik Cumhuriyeti; güneybatıda Zambiya; güneyde ise Malavi ve Mozambik ile komşudur.",
+    
+        "ekonomi": " Ülkenin dış ticaretinin %75'inde bu liman kullanılmaktadır. Tanzanya'nın 2019 yılı GSYİH değeri 193 milyar ABD doları olurken, yıllık enflasyon %3,45 olarak geçekleşmiştir. Aynı dönem içinde dış ticaret hacmi 12 milyar ABD doları olan TBC'nin ihracatı 2,9 milyar ABD doları, ithalatı 9,2 milyar ABD doları olmuştur.",
+    
+        "iklim": "Tanzanya'da tropik iklim görülür. Yüksek rakımlı bölgelerde sıcaklıklar yıl boyunca 10 ve 20 °C arasında değişir. Ülkenin geri kalan kısımlarında sıcaklık nadiren 20 °C altına düşer.        ",
+    
+        "cografya":"Doğu Afrika’da bir ülke. Tanzanya Nisan 1964’te Tanganika ve Zengibar adlı iki bağımsız devletin birleşmesinden meydana gelmiştir.",
+    
+        "tarih":"Tanzanya anakarası Tanganyika adıyla yönetilirken Zanzibar takımadaları ayrı bir sömürge yönetimine sahipti. 1961 ve 1963'te iki bölge art arda bağımsızlığını kazandı. 1964'te ise iki ülke Tanzanya Birleşik Cumhuriyeti adı altında birleşti. Tanzanya ismi ülkelerin ilk hecelerinin birleştirilmesiyle oluşturuldu.",
+    
+        "gezilecekYer1": "Kilimanjaro Dağı",
+        
+        "gezilecekYerBilgi1":"Tanzanya’da bulunan Kilimanjaro Dağı Afrika’nın en yüksek dağıdır. Ayrıca kıtanı tek kar alan noktası olan Kilimanjaro eşsiz doğasıyla Afrika’ya özgü birçok bitki ve hayvan türüne ev sahipliği yapmaktadır. Jeolojik yapısı itibariyle yürüyüş, tırmanış ve bisiklet sürme gibi aktivitelerin yapılabileceği dağ, turistlerde hayranlık uyandırmaktadır.",
+    
+        "img2": "",
+    
+        "gezilecekYer2": "Taş Kasaba",
+    
+        "gezilecekYerBilgi2": "Stone Town, Tanzanya’nın başkenti Zanzibar’da konumlanmaktadır. Mimarisi 19. yüzyıla ait olan bölge; Arap, Fars, Hint ve Avrupa kültürlerinin karışımından oluşan büyüleyici bir rotadır. Mimarisiyle ziyaretçilerini etkileyen ve zengin kültüre sahip olan bölge, UNESCO Dünya Mirası Listesi’nde yer almaktadır. Bünyesinde konumlanan eşsiz mekanlar ve alışveriş yerleri ile bu rota, gezginlerin vazgeçilmez tatil duraklarındandır. ",
+    
+        "img3": "",
+    
+        "img4": "",
+    
+        "yemek1":"Mishkaki",
+    
+        "yemekBilgi1": "Sokak yemeği kültürünün en dikkat çekici lezzetlerinden biri olan mishkaki, yerli ve yabancı turistler tarafından oldukça sevilen yöresel bir kebaptır. Şişe takılan bifteklerin ateş üzerinde pişirilmesi ile Zanzibar usulü lezzet ortaya çıkmaktadır. Genellikle tezgahlarda satışa sunulan mishkakinin en lezzetli hali için Hyatt isimli restoran tavsiye edilmektedir.",
+    
+        "img5": "",
+    
+        "yemek2":"Urjo Çorbası",
+    
+        "yemekBilgi2": "Zanzibar sokak pazarlarında servis edilen urjo çorbası, yöreye özgü malzemeler kullanılarak hazırlanmaktadır. Çorba içerisine dahil edilen patates püresi ve kızarmış sebzeler; akıllara durgunluk veren bir lezzet ortaya çıkarmaktadır. Sebzelerle sunulan urjo çorbasına genellikle sarımsak, biber, Hindistan cevizi ve mango eklenmektedir. Bu lezzeti hemen hemen her Zanzibar restoranında bulmak mümkündür.",
+    
+        "img6": "",
+    
+        "tatlı":"Baharatlı Kek",
+    
+        "tatlıBilgi": "Baharatlı kek, Zanzibar’ın ünlü bir tatlı çeşididir. Kek sevenler için mükemmel bir tarif olan bu lezzet; çikolata, tarçın, Hindistan Cevizi ve aromatik karanfiller ile yapılmaktadır. Zanzibar Adası’nın en sevilen baharatları ile güzel bir kombinasyon sağlanan kek, çeşitli pastalarda da kullanılmaktadır. Bu lezzeti denemek için Zanzibar Coffee House isimli kafenin ziyaret edilmesi önerilmektedir."
     }
+
+
 
 ]
