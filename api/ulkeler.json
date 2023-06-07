@@ -2,7 +2,7 @@
     {
         "id":1,
         "title": "Türkiye",
-        "img1": "./img/Tr1.jpg",
+        "img1": "https://cdn1.ntv.com.tr/gorsel/eF-KJqpybkCPugtMEHHBew.jpg?width=960&mode=crop&scale=both",
         "ulke": "Asya ile Avrupa'yı birbirine bağlayan Türkiye jeopolitik açıdan stratejik bir konumda yer alır. İki kıta arasındaki ulaşım ve ticari faaliyetler, İstanbul ve Çanakkale boğazları üzerinden sağlanır. Üç tarafı denizlerle çevrili olan Türkiye, aynı zamanda bir yarım ada ülkesidir.",
         "ekonomi": "Türkiye aynı zamanda ekonomistler ve siyaset bilimciler tarafından dünyanın en yeni sanayileşmiş ülkelerden biri olarak tanımlanır. Türkiye, nominal GSYİH'ya göre dünyanın 20. en büyük ekonomisi ve SAGP GSYİH'ya göre 11. en büyük ekonomisidir.",
         "iklim": "Türkiye, iklim kuşaklarından ılıman kuşak ile subtropikal kuşak arasında yer alır. Türkiye'nin coğrafî konumu ve yer şekilleri sonucunda ikliminin, farklı özellikte iklim tiplerinin oluşmasına yol açmıştır. Kıyı bölgelerinde denizlerin etkisiyle daha ılıman iklim özellikleri görülür.",
@@ -11,20 +11,21 @@
 
         "gezilecekYer1": "Kız Kulesi",
         "gezilecekYerBilgi1": "Yılanla Gelen Acı Son. İlk efsaneye göre Bizans krallarından birinin kızı olmuş ve kız hakkında bir kehanet ortaya atılmış. Prenses, 18 yaşında bir yılan tarafından sokularak ölecekmiş. Bunu duyan kral, denizin ortasındaki adada bulunan kuleyi restore ettirerek prensesin yaşayabileceği bir alana dönüştürmüş.",
-        "img2": "./img/KızKulesi.jpg",
+        "img2": "https://www.flypgs.com/blog/wp-content/uploads/2019/02/kiz-kulesinin-hikayesi.jpg",
         "gezilecekYer2": "Galata Kulesi",
         "gezilecekYerBilgi2": "Galata Kulesi ilk olarak Bizans İmparatoru Justinianos tarafından MS 507 - 508 yılında inşa edilmiştir. Günümüzdeki kuleyi 1348 - 49 yılında Cenevizliler yeniden inşa etmiştir. Kule 1445 - 46 yılları arasında yükseltilmiştir. 1500'lü yıllarda depremden zarar görerek Mimar Murad bin Hayreddin tarafından onarılmıştır.",
-        "img3": "./img/Galata.jpg",
+        "img3": "https://live.staticflickr.com/4691/39523615501_d7a8f552f6_b.jpg",
 
-        "img4": "./img/Kebab.jpg",
+        "img4": "https://images.deliveryhero.io/image/fd-tr/LH/hd3o-hero.jpg",
         "yemek1":"Kebab",
         "yemekBilgi1": "Kebap, mangalda meşe kömüründe veya odun fırınında, ayrıca günümüzde fırınlarda da pişirilerek yenen et yemeklerine verilen isimdir. Doğrudan doğruya ateşin üzerinde tutularak ya da bir kap içinde susuz olarak pişirilir. Bu yemeklerin çoğu ızgarada pişirilmiş olsa da, tas kebabı gibi sulu yemeklere de kebap denir.",
-        "img5": "./img/Karnıyarık.jpg",
+        "img5": "https://cdn.ye-mek.net/App_UI/Img/out/650/2016/06/karniyarik-resimli-yemek-tarifi(20).jpg",
         "yemek2":"Kaynıyarık",
         "yemekBilgi2": "Karnıyarık Türk mutfağının belli başlı patlıcan yemeklerinden biridir. Hazırlanırken ana malzeme olan patlıcanın dışında soğan, biber, domates ve kıyma da kullanılır. Benzeri bir patlıcan yemeği imambayıldıdır. İmambayıldının karnıyarıktan farkı içinde et olmaması ve soğuk olarak servis edilmesidir.",
-        "img6": "./img/Ekler.jpeg",
-        "tatlı":"Ekler",
-        "tatlıBilgi": "Ekler, yumuşak hamurlu bir tatlıdır. Genel olarak içinde vanilyalı krema vardır ve üstü çikolata kaplıdır. Bazen kahve, rom aromalı muhallebi, meyveli dolgular veya kestane püresi ile de doldurulur."
+
+        "img6": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Baklava%281%29.png",
+        "tatlı":"Baklava",
+        "tatlıBilgi": "Baklava Türk, Orta Doğu, Balkan ve Güney Asya mutfaklarında yer etmiş önemli bir hamur tatlısıdır. İnce yufkaların arasına yöreye göre ceviz, antep fıstığı, badem veya fındık konarak yapılır. Genel olarak şeker şerbeti ile tatlandırılır. Ayrıca bal şerbeti de kullanılabilir."
     },
 
 
@@ -236,7 +237,7 @@
     
         "yemekBilgi1": "Belarus mutfağın en meşhur yemeklerinden biridir. Altın sarısı nar gibi kızarmış yeni ateşten çıkmış bu lezzetli yemeği tatmadan Belarus'tan gitmek haksızlık olur! Belarus yemeklerin çoğunda patates kullanılır. Draniki de bir çeşit patates mücveridir.",
     
-        "img5": "./img/belarusyemek2.jpg",
+        "img5": "https://imengine.prod.srp.navigacloud.com/?uuid=A49C669E-8EAD-4169-9FDD-78F98A061527&type=primary&q=72&width=1200",
     
         "yemek2":"Piroshki",
     
@@ -310,13 +311,13 @@
         "gezilecekYer1": "Tujica Ormanı",
         "gezilecekYerBilgi1":"Kahve üretimi için kesilmiş yağmur ormanları 19. Yüzyılda yeniden ormana çevrilmiş. Burası 32 dönümlük alanıyla dünyanın bir şehrin sınırları içerisindeki en büyük ormanıdır. Rehbersiz gezmeniz tehlikeli olacaktır. Cascatinha Şelalesi ve Mayrink Şapeli de gezilebilir.",
     
-        "img2": "./img/brezilyagez1.jpg",
+        "img2": "./img/brezilyagez2.jpg",
     
         "gezilecekYer2": "İsa Heykeli",
     
         "gezilecekYerBilgi2": "Rio de Janeiro şehrinin simgesi İsa Heykeli, kentin en yüksek tepesine yapılmış ve Dünyanın Yedi Yeni Harikasından biri olarak seçilmiş bir heykel. Buraya trenle ulaşım sağlanıyor. Hatta heykelin yanına kadar yürüyen merdivenlerle tırmanabilirsiniz. Brezilya’nın kuruluşunun 100. Yılı anısına dikilen heykel, 30 metre yüksekliğinde. ",
     
-        "img3": "./img/brezilyagez2.jpg",
+        "img3": "./img/brezilyagez1.jpg",
     
         "img4": "./img/brezilyayemek1.jpg",
     
@@ -472,7 +473,7 @@
     {
         "id":12,
         "title": "Fransa",
-        "img1": "./img/fransafoto.jpg",
+        "img1": "https://i2.milimaj.com/i/milliyet/75/869x477/5f53ce3055428011c8c69a24.jpg",
         "ulke": "Fransa ya da resmî adıyla Fransa Cumhuriyeti veya Fransız Cumhuriyeti, ana kara toprakları Batı Avrupa'da bulunan ve dünyanın pek çok bölgesinde denizaşırı toprakları olan bir ülkedir.",
     
         "ekonomi": "Fransa ekonomisi, nominal olarak dünyanın altıncı büyük ve satınalma gücü paritesi bakımından dokuzuncu büyük ekonomisi olup Almanya'dan sonra Avrupa Birliği'nin en büyük 2. ekonomisidir.",
@@ -544,7 +545,7 @@
     
         "yemekBilgi1": "En sevilen etlerden biri olan Muskox birçok şekilde yapılmaktadır. Genel olarak içinde sebzeler ve çeşitli soslarla pişirilenler oldukça yaygındır. Ren geyiği etini de birçok şekilde tüketirler. Sadece tuz ve karabiber ekleyip tavada kızartıp yanında pirinç pilavı ya da patatesle yenen ren geyiği çok sık yapılmaktadır. Reindeer Steak de popüler yemekler arasındadır.",
     
-        "img5": "./img/grölandyemek2.jpg",
+        "img5": "https://i0.wp.com/thecookandthewriter.com/wp-content/uploads/2020/02/IMG_9375-cropped.jpg?fit=640%2C483&ssl=1",
     
         "yemek2":"Suaasat ÇORBASI",
     
@@ -600,6 +601,7 @@
     
         "tatlıBilgi": "Bingsu, Kore mutfağının tatlı detaylarından biridir.Gofret, gevrek ve bisküvi tadını veren bu tatlı yaz sıcaklarında tüketilmektedir.Kore’nin dondurma tatlısı olarak bilinen “bingsu” meşhur soya sosu ile hazırlandığı için bu ülkede çok sevilmektedir.Kore’de tatlı yemek istediğinizde pek çok restoran size bingsu önerecektir. Özellikle de doğranmış meyvelerle servis edildiğinde tadına doyum olmayacaktır."
     },
+<<<<<<< HEAD
 
     {
         "id":16,
@@ -1724,3 +1726,44 @@
 
 
 ]
+=======
+
+    {
+        "id":15,
+        "title": "Kongo Demokratik Cumhuriyeti",
+        "img1": "https://www.topragizbiz.com/blog/wp-content/uploads/2019/04/Kongo-Vizesi-Brazzaville.jpg",
+        "ulke": "Kongo Demokratik Cumhuriyeti ya da eski adıyla Zaire, Orta Afrika'da bir ülkedir. Yüzölçümü bakımından Sahra Altı Afrika'nın en büyük, Afrika'nın ikinci büyük, dünyanın ise 11. büyük ülkesidir. 105 milyonluk nüfusuyla en kalabalık Frankofon ülkedir. Ayrıca Afrika'nın en kalabalık 4., dünyanın ise 15. ülkesidir.",
+    
+        "ekonomi": "Kongo Demokratik Cumhuriyeti dünyadaki en fakir ülkelerden biri olarak kabul edilmektedir. 2006 yılında Kongo hükûmetinin yaptığı bir araştırmaya göre nüfusun %76'sı çocuklarını okula gönderme imkanına sahip değilken, %79 yoksulluk sınırının altında bir yaşam sürdürmektedir.",
+    
+        "iklim": "Demokratik Kongo Cumhuriyeti'nde coğrafi konumu nedeniyle Ekvator İklimi yaşanmaktadır. Bu sebepten dolayı ülke topraklarını çok büyük bir bölümünde sıcak, tropikal, nemli bir iklim yaşanmaktadır. Ülke genelinde yağmursuz geçen kurak dönemlerde ortalama sıcaklık 20 °C iken, yağmurun bol yağdığı yağmur sezonlarında ortalama sıcaklık 30 °C olarak ölçülmektedir. İklim mevsim geçişlerinde bile gözle görülür farklılık göstermemekte olup, ülke topraklarının genişliği nedeniyle bazı bölgelerde yerel olarak genelin dışında da iklim yaşanabilmektedir.",
+    
+        "cografya":"Afrika kıtasının en büyük ikinci yüzölçümüne sahip olan Kongo Demokratik Cumhuriyeti, sahip olduğu 2,344,458 km2'lik alan ile bir dönem sömürgesi konumunda olduğu Belçika'dan neredeyse 77 kat daha büyük konumdadır. Ekvator üzerinde kıtanın orta bölümünde yer alan ülke bitki örtüsü ve yaban hayat açısından zengin çeşitliliğe ve doğal alanlara sahiptir. Ülkenin toplamda sahip olduğu 10.730 km'lik kara sınırdan 2.511 km'si (251 km'si Cabinda ile sınır bölümünü oluşturmaktadır) Angola, 233 km'si Burundi, 1.577 km'si Orta Afrika Cumhuriyeti, 2.410 km'si Kongo Cumhuriyeti, 217 km'si Ruanda, 628 km'si Güney Sudan, 459 km'si Tanzanya, 765 km'si Uganda, 1.930 km'si Zambiya ile oluşurken, ülkenin ayrıca Atlas Okyanusu'nda 40 km'lik sahil şeridi bulunmaktadır.",
+    
+        "tarih":"Kongo, 1960'ta Kongo Cumhuriyeti adıyla Belçika'dan bağımsızlığını kazandı. Aynı yıl yapılan seçimlerle Kongo milliyetçisi Patrice Lumumba ülkenin ilk başbakanı, Joseph Kasa-Vubu ise ilk cumhurbaşkanı oldu. Bağımsızlıktan kısa bir süre sonra yönetimde çıkan anlaşmazlıklar Kongo Krizi'ne yol açtı.",
+    
+        "gezilecekYer1": "Nyiragongo",
+        "gezilecekYerBilgi1":"Nyiragongo Dağı, Albertine Yarığı ile ilişkili Virunga Dağları'nda 3.470 m yükseklikte aktif bir stratovolkandır. Kongo Demokratik Cumhuriyeti'ndeki Virunga Ulusal Parkı içinde, Goma kasabasının ve Kivu Gölü'nün yaklaşık 12 km kuzeyinde ve Ruanda sınırının hemen batısında yer almaktadır.",
+    
+        "img2": "https://th-thumbnailer.cdn-si-edu.com/xyF6IVTEhkGQUw25p9UMIZv-yiI=/1000x750/filters:no_upscale():focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8c/ea/8cea69c5-dcc6-487f-8fde-739d176c21c2/gettyimages-140189986.jpg",
+    
+        "gezilecekYer2": "Kivu Gölü (Lake Kivu)",
+    
+        "gezilecekYerBilgi2": "Kivu Gölü, Afrika kıtasının orta bölümünde Ruanda ve Kongo Demokratik Cumhuriyeti devletleri arasında bulunan göl. Gölün orta kısmında bulunan Idjivi adası Demokratik Kongo Cumhuriyeti'ne bağlı bir ada olup, gölün en önemli adası konumundadır.",
+    
+        "img3": "https://www.worldatlas.com/r/w1200/upload/d7/e6/fa/lake-kivu-africa.jpg",
+    
+        "img4": "https://cdn.emlak365.com/other/2018/12/08/moambe.jpg",
+    
+        "yemek1":"moambe",
+    
+        "yemekBilgi1": "Kongo'nun tek bir ulusal yemeği vardır. Sekiz manasına gelen moambe, sekiz maddeden yapılır; tavuk, balık, fındık, yer fıstığı, pirinç, manyok yaprağı, muz ve acı biber sosu. Ülkede musluk suyu temiz olmadığı için, şişelenmiş suların içilmesi tavsiye edilir.",
+    
+        "img5": "https://afrogistmedia.com/wp-content/uploads/2020/02/Chikwanga-Recipe.jpg",
+    
+        "yemek2":"Chikwanga",
+    
+        "yemekBilgi2": "Chikwanga veya kwanga, kuru muz yapraklarına sarılıp buharda pişirilen manyok unlu keklerden oluşan, Demokratik Kongo Cumhuriyeti'nden geleneksel bir ekmektir. Tuzlu tadı, ülkedeki ana yemeklerin çoğuyla iyi uyum sağlar."
+    }
+]
+>>>>>>> 297bf59544aab86a0b9611b3201aa32e23615868
