@@ -22,14 +22,10 @@
         "img5": "./img/Karnıyarık.jpg",
         "yemek2":"Kaynıyarık",
         "yemekBilgi2": "Karnıyarık Türk mutfağının belli başlı patlıcan yemeklerinden biridir. Hazırlanırken ana malzeme olan patlıcanın dışında soğan, biber, domates ve kıyma da kullanılır. Benzeri bir patlıcan yemeği imambayıldıdır. İmambayıldının karnıyarıktan farkı içinde et olmaması ve soğuk olarak servis edilmesidir.",
-<<<<<<< HEAD
+
         "img6": "./img/Baklava.png",
         "tatlı":"Baklava",
         "tatlıBilgi": "Baklava Türk, Orta Doğu, Balkan ve Güney Asya mutfaklarında yer etmiş önemli bir hamur tatlısıdır. İnce yufkaların arasına yöreye göre ceviz, antep fıstığı, badem veya fındık konarak yapılır. Genel olarak şeker şerbeti ile tatlandırılır. Ayrıca bal şerbeti de kullanılabilir."
-=======
-        "img6": "./img/Ekler.jpeg",
-        "tatlı":"Ekler",
-        "tatlıBilgi": "Ekler, yumuşak hamurlu bir tatlıdır. Genel olarak içinde vanilyalı krema vardır ve üstü çikolata kaplıdır. Bazen kahve, rom aromalı muhallebi, meyveli dolgular veya kestane püresi ile de doldurulur."
     },
 
 
@@ -560,7 +556,6 @@
         "tatlı":"Puisi",
     
         "tatlıBilgi": "Bu kadar soğuk bir memlekette yaşayan insanların en temel gıdaları çoğunlukla onları soğuktan koruyacak yağlı etleri içeriyor. Fok balığı eti oldukça keskin bir tada sahip olduğu için çoğunlukla soğan, patates, pirinç ve arpalı yemeklerde kullanılıyor. Aynı zamanda fok balığının derisi boyanıp ulusal giysilerinin bir parçası olarak da giyiliyor.   "
->>>>>>> a85825faef99bae35169692750b45f239d1fd15d
     }
 
 ]
