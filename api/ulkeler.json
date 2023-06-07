@@ -311,13 +311,13 @@
         "gezilecekYer1": "Tujica Ormanı",
         "gezilecekYerBilgi1":"Kahve üretimi için kesilmiş yağmur ormanları 19. Yüzyılda yeniden ormana çevrilmiş. Burası 32 dönümlük alanıyla dünyanın bir şehrin sınırları içerisindeki en büyük ormanıdır. Rehbersiz gezmeniz tehlikeli olacaktır. Cascatinha Şelalesi ve Mayrink Şapeli de gezilebilir.",
     
-        "img2": "./img/brezilyagez1.jpg",
+        "img2": "./img/brezilyagez2.jpg",
     
         "gezilecekYer2": "İsa Heykeli",
     
         "gezilecekYerBilgi2": "Rio de Janeiro şehrinin simgesi İsa Heykeli, kentin en yüksek tepesine yapılmış ve Dünyanın Yedi Yeni Harikasından biri olarak seçilmiş bir heykel. Buraya trenle ulaşım sağlanıyor. Hatta heykelin yanına kadar yürüyen merdivenlerle tırmanabilirsiniz. Brezilya’nın kuruluşunun 100. Yılı anısına dikilen heykel, 30 metre yüksekliğinde. ",
     
-        "img3": "./img/brezilyagez2.jpg",
+        "img3": "./img/brezilyagez1.jpg",
     
         "img4": "./img/brezilyayemek1.jpg",
     
@@ -473,7 +473,7 @@
     {
         "id":12,
         "title": "Fransa",
-        "img1": "./img/fransafoto.jpg",
+        "img1": "https://i2.milimaj.com/i/milliyet/75/869x477/5f53ce3055428011c8c69a24.jpg",
         "ulke": "Fransa ya da resmî adıyla Fransa Cumhuriyeti veya Fransız Cumhuriyeti, ana kara toprakları Batı Avrupa'da bulunan ve dünyanın pek çok bölgesinde denizaşırı toprakları olan bir ülkedir.",
     
         "ekonomi": "Fransa ekonomisi, nominal olarak dünyanın altıncı büyük ve satınalma gücü paritesi bakımından dokuzuncu büyük ekonomisi olup Almanya'dan sonra Avrupa Birliği'nin en büyük 2. ekonomisidir.",
@@ -545,7 +545,7 @@
     
         "yemekBilgi1": "En sevilen etlerden biri olan Muskox birçok şekilde yapılmaktadır. Genel olarak içinde sebzeler ve çeşitli soslarla pişirilenler oldukça yaygındır. Ren geyiği etini de birçok şekilde tüketirler. Sadece tuz ve karabiber ekleyip tavada kızartıp yanında pirinç pilavı ya da patatesle yenen ren geyiği çok sık yapılmaktadır. Reindeer Steak de popüler yemekler arasındadır.",
     
-        "img5": "./img/grölandyemek2.jpg",
+        "img5": "https://i0.wp.com/thecookandthewriter.com/wp-content/uploads/2020/02/IMG_9375-cropped.jpg?fit=640%2C483&ssl=1",
     
         "yemek2":"Suaasat ÇORBASI",
     
