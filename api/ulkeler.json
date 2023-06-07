@@ -237,7 +237,7 @@
     
         "yemekBilgi1": "Belarus mutfağın en meşhur yemeklerinden biridir. Altın sarısı nar gibi kızarmış yeni ateşten çıkmış bu lezzetli yemeği tatmadan Belarus'tan gitmek haksızlık olur! Belarus yemeklerin çoğunda patates kullanılır. Draniki de bir çeşit patates mücveridir.",
     
-        "img5": "./img/belarusyemek2.jpg",
+        "img5": "https://imengine.prod.srp.navigacloud.com/?uuid=A49C669E-8EAD-4169-9FDD-78F98A061527&type=primary&q=72&width=1200",
     
         "yemek2":"Piroshki",
     
@@ -600,6 +600,43 @@
         "tatlı":"Bingsu",
     
         "tatlıBilgi": "Bingsu, Kore mutfağının tatlı detaylarından biridir.Gofret, gevrek ve bisküvi tadını veren bu tatlı yaz sıcaklarında tüketilmektedir.Kore’nin dondurma tatlısı olarak bilinen “bingsu” meşhur soya sosu ile hazırlandığı için bu ülkede çok sevilmektedir.Kore’de tatlı yemek istediğinizde pek çok restoran size bingsu önerecektir. Özellikle de doğranmış meyvelerle servis edildiğinde tadına doyum olmayacaktır."
-    }
+    },
 
+    {
+        "id":15,
+        "title": "Kongo Demokratik Cumhuriyeti",
+        "img1": "https://www.topragizbiz.com/blog/wp-content/uploads/2019/04/Kongo-Vizesi-Brazzaville.jpg",
+        "ulke": "Kongo Demokratik Cumhuriyeti ya da eski adıyla Zaire, Orta Afrika'da bir ülkedir. Yüzölçümü bakımından Sahra Altı Afrika'nın en büyük, Afrika'nın ikinci büyük, dünyanın ise 11. büyük ülkesidir. 105 milyonluk nüfusuyla en kalabalık Frankofon ülkedir. Ayrıca Afrika'nın en kalabalık 4., dünyanın ise 15. ülkesidir.",
+    
+        "ekonomi": "Kongo Demokratik Cumhuriyeti dünyadaki en fakir ülkelerden biri olarak kabul edilmektedir. 2006 yılında Kongo hükûmetinin yaptığı bir araştırmaya göre nüfusun %76'sı çocuklarını okula gönderme imkanına sahip değilken, %79 yoksulluk sınırının altında bir yaşam sürdürmektedir.",
+    
+        "iklim": "Demokratik Kongo Cumhuriyeti'nde coğrafi konumu nedeniyle Ekvator İklimi yaşanmaktadır. Bu sebepten dolayı ülke topraklarını çok büyük bir bölümünde sıcak, tropikal, nemli bir iklim yaşanmaktadır. Ülke genelinde yağmursuz geçen kurak dönemlerde ortalama sıcaklık 20 °C iken, yağmurun bol yağdığı yağmur sezonlarında ortalama sıcaklık 30 °C olarak ölçülmektedir. İklim mevsim geçişlerinde bile gözle görülür farklılık göstermemekte olup, ülke topraklarının genişliği nedeniyle bazı bölgelerde yerel olarak genelin dışında da iklim yaşanabilmektedir.",
+    
+        "cografya":"Afrika kıtasının en büyük ikinci yüzölçümüne sahip olan Kongo Demokratik Cumhuriyeti, sahip olduğu 2,344,458 km2'lik alan ile bir dönem sömürgesi konumunda olduğu Belçika'dan neredeyse 77 kat daha büyük konumdadır. Ekvator üzerinde kıtanın orta bölümünde yer alan ülke bitki örtüsü ve yaban hayat açısından zengin çeşitliliğe ve doğal alanlara sahiptir. Ülkenin toplamda sahip olduğu 10.730 km'lik kara sınırdan 2.511 km'si (251 km'si Cabinda ile sınır bölümünü oluşturmaktadır) Angola, 233 km'si Burundi, 1.577 km'si Orta Afrika Cumhuriyeti, 2.410 km'si Kongo Cumhuriyeti, 217 km'si Ruanda, 628 km'si Güney Sudan, 459 km'si Tanzanya, 765 km'si Uganda, 1.930 km'si Zambiya ile oluşurken, ülkenin ayrıca Atlas Okyanusu'nda 40 km'lik sahil şeridi bulunmaktadır.",
+    
+        "tarih":"Kongo, 1960'ta Kongo Cumhuriyeti adıyla Belçika'dan bağımsızlığını kazandı. Aynı yıl yapılan seçimlerle Kongo milliyetçisi Patrice Lumumba ülkenin ilk başbakanı, Joseph Kasa-Vubu ise ilk cumhurbaşkanı oldu. Bağımsızlıktan kısa bir süre sonra yönetimde çıkan anlaşmazlıklar Kongo Krizi'ne yol açtı.",
+    
+        "gezilecekYer1": "Nyiragongo",
+        "gezilecekYerBilgi1":"Nyiragongo Dağı, Albertine Yarığı ile ilişkili Virunga Dağları'nda 3.470 m yükseklikte aktif bir stratovolkandır. Kongo Demokratik Cumhuriyeti'ndeki Virunga Ulusal Parkı içinde, Goma kasabasının ve Kivu Gölü'nün yaklaşık 12 km kuzeyinde ve Ruanda sınırının hemen batısında yer almaktadır.",
+    
+        "img2": "https://th-thumbnailer.cdn-si-edu.com/xyF6IVTEhkGQUw25p9UMIZv-yiI=/1000x750/filters:no_upscale():focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8c/ea/8cea69c5-dcc6-487f-8fde-739d176c21c2/gettyimages-140189986.jpg",
+    
+        "gezilecekYer2": "Kivu Gölü (Lake Kivu)",
+    
+        "gezilecekYerBilgi2": "Kivu Gölü, Afrika kıtasının orta bölümünde Ruanda ve Kongo Demokratik Cumhuriyeti devletleri arasında bulunan göl. Gölün orta kısmında bulunan Idjivi adası Demokratik Kongo Cumhuriyeti'ne bağlı bir ada olup, gölün en önemli adası konumundadır.",
+    
+        "img3": "https://www.worldatlas.com/r/w1200/upload/d7/e6/fa/lake-kivu-africa.jpg",
+    
+        "img4": "https://cdn.emlak365.com/other/2018/12/08/moambe.jpg",
+    
+        "yemek1":"moambe",
+    
+        "yemekBilgi1": "Kongo'nun tek bir ulusal yemeği vardır. Sekiz manasına gelen moambe, sekiz maddeden yapılır; tavuk, balık, fındık, yer fıstığı, pirinç, manyok yaprağı, muz ve acı biber sosu. Ülkede musluk suyu temiz olmadığı için, şişelenmiş suların içilmesi tavsiye edilir.",
+    
+        "img5": "https://afrogistmedia.com/wp-content/uploads/2020/02/Chikwanga-Recipe.jpg",
+    
+        "yemek2":"Chikwanga",
+    
+        "yemekBilgi2": "Chikwanga veya kwanga, kuru muz yapraklarına sarılıp buharda pişirilen manyok unlu keklerden oluşan, Demokratik Kongo Cumhuriyeti'nden geleneksel bir ekmektir. Tuzlu tadı, ülkedeki ana yemeklerin çoğuyla iyi uyum sağlar."
+    }
 ]

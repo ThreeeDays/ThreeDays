@@ -536,6 +536,11 @@ header{
 
 .paragraf h2{
     color: var(--color4);
+    margin: 10px;
+}
+
+.bilgi2{
+    margin: 10px;
 }
 
 .yemeh h1{
@@ -674,6 +679,10 @@ footer.ftr-bottom p a{
     }
 }
 
+@media (max-width:900px){
+    
+}
+
 @media (max-width:950px) {
     .contact{
         justify-content: center;
@@ -716,7 +725,8 @@ footer.ftr-bottom p a{
     }
 
     #imgs,#img1 ,#img2,#img3,#img4,#img5{
-        width: 97%;
+        width: 95%;
+        height: auto;
     }
 }
 
@@ -802,6 +812,11 @@ footer.ftr-bottom p a{
 
     #kaybol{
         display: none;
+    }
+
+    #imgs,#img1 ,#img2,#img3,#img4,#img5{
+        width: 97%;
+        height: 300px;
     }
 }
 /* Responsive End */

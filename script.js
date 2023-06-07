@@ -457,4 +457,30 @@ fetch("api/ulkeler.json")
         parag5.textContent=data[13].tatlıBilgi;
         tatlıBilgi1.textContent=data[13].tatlı;
     }
+
+    else if (deger==15){
+        title.textContent=data[14].title;
+        img.src= data[14].img1;
+        ulke.textContent=data[14].ulke;
+        ekonomi.textContent=data[14].ekonomi;
+        iklim.textContent=data[14].iklim;
+        cografya.textContent=data[14].cografya;
+        tarih.textContent=data[14].tarih;
+
+        parag1.textContent=data[14].gezilecekYerBilgi1;
+        geziBilgi1.textContent=data[14].gezilecekYer1;
+        img1.src=data[14].img2;
+
+        parag2.textContent=data[14].gezilecekYerBilgi2;
+        geziBilgi2.textContent=data[14].gezilecekYer2;
+        img2.src=data[14].img3;
+
+        img3.src=data[14].img4;
+        parag3.textContent=data[14].yemekBilgi1;
+        yemekBilgi1.textContent=data[14].yemek1;
+        
+        img4.src=data[14].img5;
+        parag4.textContent=data[14].yemekBilgi2;
+        yemekBilgi2.textContent=data[14].yemek2;
+    }
 })
