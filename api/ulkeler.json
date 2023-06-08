@@ -1759,6 +1759,53 @@
         "tatlı":"Baharatlı Kek",
     
         "tatlıBilgi": "Baharatlı kek, Zanzibar’ın ünlü bir tatlı çeşididir. Kek sevenler için mükemmel bir tarif olan bu lezzet; çikolata, tarçın, Hindistan Cevizi ve aromatik karanfiller ile yapılmaktadır. Zanzibar Adası’nın en sevilen baharatları ile güzel bir kombinasyon sağlanan kek, çeşitli pastalarda da kullanılmaktadır. Bu lezzeti denemek için Zanzibar Coffee House isimli kafenin ziyaret edilmesi önerilmektedir."
+    },
+
+    {
+        "id":40,
+        "title": "Güney Afrika",
+    
+        "img1": "https://img.piri.net/mnresize/900/-/resim/upload/2018/07/26/04/54/d2e93b5c6536.jpg",
+    
+        "ulke": "Güney Afrika Cumhuriyeti ya da daha yaygın kullanımı ile Güney Afrika, Afrika kıtasının güneyinde yer alan bir ülkedir. Ülkenin sınır komşularını Namibya, Botsvana, Zimbabve, Mozambik ve Esvatini oluştururken ülkenin güneydoğusunda Hint Okyanusu, güney ve güneybatısında Atlas Okyanusu bulunmaktadır.",
+    
+        "ekonomi": "Dünya ekonomisine en kaydadeğer tesirini maden kaynaklarıyla sağlayan ülke, dünyanın en büyük ikinci altın üreticisi olarak biliniyor. Diğer önemli yer altı kaynakları arasında kömür, elmas, manganez ve platin gibi madenler yer alıyor.",
+    
+        "iklim": "Batıda yarı çöl iklimi, doğu ve güney kıyısında subtropikal iklim hakimdir. Ülke güney yarım kürede bulunduğundan haziran, temmuz ve ağustos sıcaklığın düştüğü aylardır. Buna karşın aralık, ocak ve şubat aylarında sıcaklıklar artar.",
+    
+        "cografya":"Afrika kıtasının güney ucunda 22°10’-34°55’ güney enlemleri ile 16°30’-32°55’ doğu boylamları arasında yer alan ülke.",
+    
+        "tarih":"Güney Afrika Cumhuriyeti'nin kurulu olduğu bölgelerde paleoantropolojik olarak en eski fosillerinden bazıları ortaya çıkarılmıştır. Taung'un Çocuğu olarak adlandırılan ve Taung'da bulunan fosil ile birlikte Krugersdorf'ta bulunan Sterkfontein mağaralarında bulunan Australopithecus africanus'a ait kalıntılar 3,5 milyon yıl öncesine dayandırılmaktadır. Bu ön-insanların yaşamasından sonra bölgeye göç sonucu gelen Bantu grupları Limpopo nehrini geçerek günümüzde Güney Afrika'nın kurulu olduğu bölgelere yerleşerek çiftçi ve çoban olarak yerleşmişlerdir.",
+    
+        "gezilecekYer1": "Ümit Burnu",
+        
+        "gezilecekYerBilgi1":"Ümit Burnu, Güney Afrika’nın Cape Town bölgesinde yer almaktadır. Eşsiz manzarası ile ziyaretçileri büyülemektedir. Büyük dalgaları ve keskin uçurumları ile ünlüdür. 1036 tür bitkiye ve birçok hayvan türüne ev sahipliği yapmaktadır. Bundan dolayı doğa ve hayvan severlerin uğrak noktalarından biri haline gelmiştir.",
+    
+        "img2": "https://img.piri.net/mnresize/900/-/resim/imagecrop/2020/06/12/10/49/resized_8c07a-9daed6521.jpg",
+    
+        "gezilecekYer2": "Masa Dağı",
+    
+        "gezilecekYerBilgi2": " Masa Dağı, Güney Afrika’ya bağlı Cape Town’da yer alan ve şehrin simgesi haline gelen ünlü bir dağdır. 1086 metre yükseklikte yer alan dağa teleferikle ya da yürüyerek çıkmak mümkündür. Fakat ziyaretçiler arasında genellikle teleferik ile çıkmak yaygındır. Bitki çeşitliliği açısından zengin olan bir dağdır. Dağda 1470 çiçek ve 2.200 bitki türü bulunmaktadır. Dağın tepesi, Cape Town manzarasını en iyi sunan manzaralardan biridir.",
+    
+        "img3": "https://i4.hurimg.com/i/hurriyet/75/1110x740/5e33066a7152d807f43e14a6.jpg",
+    
+        "img4": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/bobotie-220627-093514-8687.jpg",
+    
+        "yemek1":"Bobotie",
+    
+        "yemekBilgi1": "Bobotie; kuzu eti, çeşitli baharatlar ve bol köri baharatı ile hazırlanan bir güveçtir. İçerisine hoş bir tat vermesi için kuru üzüm ve kremalı yumurta da eklenmektedir. İsteğe göre üzerine tarçın ve Hindistan cevizi de serpilmektedir. Muz dilimleri ve sarı pirinç eşliğinde servis edilmektedir. Karibu adlı restoranda bu lezzet oldukça güzel şekilde hazırlanmaktadır.",
+    
+        "img5": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/bunny-chow-220627-095108-0727.jpg",
+    
+        "yemek2":"Bunny Chow",
+    
+        "yemekBilgi2": "Bunny Chow, yuvarlak somun ekmeğinin içinin oyularak köri ve çeşitli soslar doldurulmasıyla elde edilen bir yemek çeşididir. Bu lezzetli tarifte ekmeğin içi işçilere verilecek köriyi tutması için çıkarılmış ancak sonralarda çok sevilmiş ve geleneksel bir tarife dönüşmüştür. Turistlerin de sıklıkla tadına baktığı bu lezzetin denenebileceği en güzel yer ise Chefs Warehouse’dur.",
+    
+        "img6": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/hertzoggie-220627-094032-1207.jpg",
+    
+        "tatlı":"Hertzoggie",
+    
+        "tatlıBilgi": "Hertzoggie, reçel ve Hindistan cevizi ile doldurulan turtalardır. Oldukça lezzetli olan bu turtalar adını 1924-1939 yılları arasında Güney Afrika başbakanı olan JBM Hertzog’dan almıştır. Turistlerin bu güzel lezzeti deneyebilecekleri en güzel yer ise Belly of the Beast adlı restorandır."
     }
 
 
