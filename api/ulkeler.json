@@ -96,21 +96,21 @@
 
         "gezilecekYerBilgi2": "Ren Nehri’nin kıyısında yükselen Köln Katedrali, şehrin en etkileyici simgesidir. Bununla beraber Avrupa’nın en büyü katedralleri arasındadır. Gotik mimarinin görüldüğü yapının inşası 1248’de başladı ve Orta Çağ döneminde epey iddialıydı. İç mekanı 6.116 metrekarelik bir alanı kaplıyor. Köln‘ün hemen hemen her yerinden katedralin kulelerini görebilirsiniz. Almanya’ya veya Köln’e gelen turistler muhakkak buraya uğrar.",
 
-        "img3": "",
+        "img3": "https://i0.wp.com/www.daszeitung.com/wp-content/uploads/2016/09/kolner-dom.jpg?fit=1000%2C667&ssl=1",
 
-        "img4": "./img/almanyayemek1.jpg",
+        "img4": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/berliner-buletten-220319-144954-5345.jpg",
 
         "yemek1":"Berliner Buletten",
 
         "yemekBilgi1": "Berliner buletten, Berlin’in ünlü yassı köfteleridir. Ülke genelinde farklı isimlerle adlandırılan bu köfte, Kartoffelsalat olarak adlandırılan Alman salatası ile birlikte sunulmaktadır. Ekmek, kıyma, yumurta, soğan, maydanoz ve hardal ile yapılan Berliner buletteni pişirmek için sıvı yağ kullanılmaktadır. Yuvarlak ve yassı şeklinde hazırlanan bu köftelerin tadı, anne köftelerine benzemektedir. Berliner Buletteni, Berlin’deki her restoranda ya da atıştırmalık büfesinde bulmak mümkündür. Ancak şehrin en güzel ve leziz Berliner bulettenini, Curry 36 isimli restoran yapmaktadır.",
 
-        "img5": "./img/almanyayemek2.jpg",
+        "img5": "https://www.gazeteduvar.com.tr/2020/08/curry.jpg",
 
         "yemek2":"Currywurst",
 
         "yemekBilgi2": "Currywurst, Berlin’in gururu olan geleneksel yemeklerden biridir. Şehirde bu ünlü lezzet için Deutsches Currywurst Museum kurulmuştur. Aynı zamanda şehrin hemen her sokağında Currywurst yapan bir restoran bulunmaktadır. Sadece Berlin’in değil; Almanya’nın da en sevilen atıştırmalığı olan Currywurst, tam olarak köri soslu sucuktur. İlk kez Batı Berlin’de bir yiyecek büfesi sahibi Herta Heuwer tarafından yapılan bu atıştırmalık, 1949 yılından beri Berlin’in en önemli yöresel lezzetidir. Kaiser Friedrich Strasse ve Kantstrasse caddelerinin köşesindeki Herta’nın Büfesi’nde Currywurst satışına devam edilmektedir. Ayrıca Curry 36 isimli mekan, Currywurst yapımı konusunda oldukça iddialı olan restoranlardandır.",
 
-        "img6": "./img/almanyayemek3.jpg",
+        "img6": "https://trsondakika-front.s3.amazonaws.com/uploads/2021/08/Farkli-Bir-Lezzet-Berliner-Tarifi.jpg",
 
         "tatlı":"Berliner doughnuts",
 
@@ -121,7 +121,7 @@
     {
         "id":4,
         "title": "Arjantin",
-        "img1": "./img/arjantinfoto.jpg",
+        "img1": "https://feedplanetmagazine.com/assets/img/uploads/2020/03/Argentina-Arjantin.jpg",
         "ulke": "Arjantin, resmi adıyla Arjantin Cumhuriyeti, topraklarının büyük bölümü Güney Amerika kıtasının güneyini kaplayan Güney Konisi’nde yer alan ülke. Arjantin 2.791.810 kilometrekare'lik toplam yüzölçümü ile Güney Amerika'da ikinci, dünyada ise en büyük sekizinci ülkedir.",
 
         "ekonomi": "Tarım ve tarıma dayalı sanayi, ekonomi ve istihdam içerisinde önemli ağırlığa sahiptir. Hızla artan tarım ürünleri fiyatları Arjantin ekonomisi için önemli bir büyüme kaynağı haline gelmiştir. Gıda, içecek, kimya-petrokimya, otomotiv ve metal sanayii ülkenin en büyük sanayi sektörleri durumundadır.",
@@ -135,27 +135,27 @@
         "gezilecekYer1": "Iguazû Falls",
         "gezilecekYerBilgi1":"Etkileyici güzellikteki Iguazû Şelaleri, Arjantin ve Brezilya sınırında bulunuyor. Dolayısıyla iki ülkede de Iguazû Milli Parkı var. UNESCO Dünya Mirası Listesi’ne alınan büyük şelaleler şüphesiz Güney Amerika’nın en görkemli doğal oluşumlarından.Ziyaretçiler çoğunlukla Şeytan Boğazı denilen yere gidip en iyi manzarayı yakalamak istiyor. Yürüme yolları günümüzde iyileştirilerek epey kolaylık sağlamış.",
 
-        "img2": "./img/arjantingez1.jpg",
+        "img2": "https://cdn.seturday.com/content/uploads/makale_resimleri/laybir/uc-ulkeyi-birlestiren-doga-harikasi-iguazu-selaleleri-e57b437c-5977-4498-bbb4-8c220352596fgrid-4.jpg",
 
         "gezilecekYer2": "Perito Moreno Buzulu ",
 
         "gezilecekYerBilgi2": " UNESCO Dünya Mirası Listesi’nde olan Patagonia’nın Los Glaciares Milli Parkı, ziyaretçilerine çeşitli konaklama opsiyonları sunuyor. Çoğu turist, Perito Moreno Buzulu’nu görmeye gelir. En popüler buz kütlesi 30 kilometreden oluşuyor. Aynı zamanda burada dünyanın en büyük üçüncü tatlı su rezervi var.",
 
-        "img3": "./img/arjantingez2.jpg",
+        "img3": "https://i2.milimaj.com/i/milliyet/75/0x0/5c8cd35207291c1d74fff347.jpg",
 
-        "img4": "./img/arjantinyemek1.jpg",
+        "img4": "https://www.authenticfoodquest.com/wp-content/uploads/2022/01/1200_ArgentinaMilanesaRecipe_AuthenticFoodQuest.jpg",
 
         "yemek1":"Milanesa",
 
         "yemekBilgi1": "Milanesa, Arjantin mutfağının en sevilen yemeklerinden biri ve Avrupa kökenli bir yemek olan Wienerschnitzel’in Arjantin versiyonu. Genellikle sığır veya tavuk göğsü eti kullanılarak hazırlanıyor. Kızartılmış, gevrek bir kaplaması olan lezzetli bir yemek.",
 
-        "img5": "./img/arjantinyemek2.jpg",
+        "img5": "https://img.taste.com.au/s-PZIRRH/taste/2016/11/argentinian-choripan-109514-1.jpeg",
 
         "yemek2":"Choripan",
 
         "yemekBilgi2": "Arjantin mutfağında popüler bir sokak yemeği olan choripan iki dilim ekmek arasına konulan ızgara chorizo sosisi ile yapılan bir sandviç. Choripan’ın yanında genellikle chimichurri sosu, salata ve domates dilimleri gibi garnitürler sunuluyor.",
 
-        "img6": "./img/arjantinyemek3.jpg",
+        "img6": "https://foodieadvice.com/storage/foods/292/large.jpg?time=1619529676",
 
         "tatlı":"Alfajor",
 
@@ -165,7 +165,7 @@
     {
         "id":5,
         "title": "Avustralya",
-        "img1": "./img/avustralyafoto.jpg",
+        "img1": "https://images.ctfassets.net/szez98lehkfm/2ttKRvQmGOQSiVySAfM1mY/ef7958f0a43dd018d846aeb14182e375/MyIC_Inline_30882",
         "ulke": "Avustralya ya da resmî adıyla Avustralya Federal Devleti, Güney Yarım Kürede yer alan kıta ülkesi. Hint Okyanusu ve Büyük Okyanus arasında uzanır. Okyanusya kıtasında bulunur ve kıtanın çok büyük bir bölümünü kaplar.",
 
         "ekonomi": "Avustralya ekonomisinin önemini ortaya koymaktadır. Başlıca İhracat Ürünleri Kömür, demir, altın, yün, et, buğday. Başlıca İthalat Ürünleri Makine ve ekipman, taşıt araçları, Bilgisayar ve ofis ekipmanları, ham petrol, hazırgiyim.",
@@ -179,27 +179,27 @@
         "gezilecekYer1": "GREAT OCEAN ROAD",
         "gezilecekYerBilgi1":"İlk olarak 1932 senesinde ziyarete açılan Great Ocean Road (Büyük Okyanus Yolu), toplam 243 km uzunluğa sahiptir. Ülkenin en önemli ulusal değerleri arasına gösterilen bu yol, I. Dünya Savaşı döneminde ölen Avustralyalı askerlerin anısını yaşatmak için yapılan bir anıt niteliğindedir.",
 
-        "img2": "./img/avustralyagez1.jpg",
+        "img2": "https://i.natgeofe.com/n/ea27bd3b-ab91-4997-99c6-3659179290cd/great-ocean-road-australia-590_4x3.jpg",
 
         "gezilecekYer2": "SİDNEY OPERA HOUSE",
 
         "gezilecekYerBilgi2": "Sidney’in simge yapılarından olan opera evi, Avustralya kültürel değerini de en iyi yansıtan yapılarından biridir. Yılda yaklaşık 1500 etkinliğe ev sahipliği yapan opera evi, devasa bir etkinlik merkezidir.  Yapımına 1959 senesinde başlanmış olsa da, tamamlanması 1973 yılını bulmuştur. Opera evinin açılışını ise, II. Elizabeth yapmıştır. ",
 
-        "img3": "./img/avustralyagez2.jpg",
+        "img3": "https://www.arkitektuel.com/wp-content/uploads/2017/08/stringio-19.jpg",
 
-        "img4": "./img/avustralyayemek1.jpg",
+        "img4": "https://media-cdn.tripadvisor.com/media/photo-s/1a/ef/a5/67/oyster-urchin.jpg",
 
         "yemek1":"Sidney Kaya İstiridyesi",
 
         "yemekBilgi1": "Avustralya kıyılarının mücevheri olarak tanımlanan Sidney kaya istiridyesi, genellikle kavrularak ya da az yağda kızartılarak servis edilmektedir. Sidney kaya istiridyesini muadillerinden ayıran şey ise tatlı bir tada sahip olmasıdır. Worcestershire sosu ile mükemmel bir uyum yakaladığı düşünülen istiridyenin en iyi eşlikçisi bir kadeh şaraptır. Sidney kaya istiridyesi ile hazırlanan lezzetli tariflerin tadına bakmak için William Blue Dining tercih edilmektedir.",
 
-        "img5": "./img/avustralyayemek2.jpg",
+        "img5": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/dim-sim-220414-211302-5728.jpg",
 
         "yemek2":"Dim Sim",
 
         "yemekBilgi2": "Dim sim ilk kez 1940’lı yıllarda Melbourne’de Çinli bir restoran işletmecisi olan William Chen Wing Young tarafından yapılmıştır. Dim sim geleneksel bir Çin böreği türü olan şumainin farklı bir versiyonudur. Avustralya’ya çalışmak için göç eden Çinlilerin satarak para kazanmalarını sağlamak amacıyla ortaya çıkıralın dim sim, yerel halk tarafından çok sevilmiştir.",
 
-        "img6": "./img/avustralyayemek3.jpg",
+        "img6": "https://media-cdn.tripadvisor.com/media/photo-s/15/86/d7/88/img-20181127-114412-049.jpg",
 
         "tatlı":"Çilekli Karpuzlu Kek",
 
@@ -209,7 +209,7 @@
     {
         "id":6,
         "title": "Belarus",
-        "img1": "./img/belarusfoto.jpg",
+        "img1": "https://i.cnnturk.com/i/cnnturk/75/740x416/60cb0b5370380e07f0bf8f5d.jpg",
         "ulke": "Belarus, resmî adıyla Belarus Cumhuriyeti ya da diğer adıyla Beyaz Rusya, Doğu Avrupa'da bulunan bir devlettir. 1991'de Sovyetler Birliği'nin dağılmasıyla bağımsızlığını ilan eden eski bir Sovyetler Birliği ülkesidir. Bir Slav devleti olan Belarus'un başkenti ve en büyük şehri Minsk'tir.",
     
         "ekonomi": "Baltık Denizi'ne olan yakınlığı nedeniyle, ülke ılıman bir karasal iklime sahiptir. Kışlar 105 ila 145 gün sürer ve yazlar 150 güne kadar sürer. Ocak ayında ortalama sıcaklık -6 °C  ve Temmuz ayı için ortalama sıcaklık yaklaşık 18 °C  ve yüksek nemlidir.",
@@ -223,15 +223,15 @@
         "gezilecekYer1": "Gorky Park",
         "gezilecekYerBilgi1":"Gorky Park, Belarus’un Minsk şehrinde bulunan en büyük cazibe merkezlerinden biridir. Parkın içinde; oyun alanları, çiçek bahçeleri, tiyatro, stadyum, gözlem evi gibi çeşitli aktiviteler bulunmaktadır. Nehrin üzerinde düzenlenen etkinlikler ve tekne gezileri, ziyaretçilere büyük bir keyif vermektedir. Ferahlatıcı ve eğlenceli etkinlikler sunan park, ziyaretçileri adeta büyülemektedir.",
     
-        "img2": "./img/belarusgez1.jpg",
+        "img2": "https://yesbelarus.com/usersdata/tumb_cache/fa6591e238c98de11f2b666eff7dc5cc.pic",
     
         "gezilecekYer2": "Minsk Botanical Garden",
     
         "gezilecekYerBilgi2": "Minsk Botanical Garden, Belarus’un Minsk şehrinde yer almaktadır. Botanik bahçesi, sakin ve keyifli zaman geçirmek için mükemmel bir yerdir. Botanik bahçesinin bitki çeşitliliği ve peyzaj tasarımı ziyaretçileri büyülemektedir. Botanik bahçesi, Belarus’un doğal florasını, su florasını, tıbbi bitkileri, aromatik bitkileri ve daha fazlasını bitki koleksiyonunda bulundurmaktadır. ",
     
-        "img3": "./img/belarusgez2.jpg",
+        "img3": "https://yesbelarus.com/usersdata/users/61/documents_files/38af86134b65d0f10fe33d30dd76442e.jpg",
     
-        "img4": "./img/belarusyemek1.jpg",
+        "img4": "https://gezimanya.com/sites/default/files/styles/800x600_/public/lokasyon-detay/2019-11/image-draniki.jpg",
     
         "yemek1":"Draniki",
     
@@ -243,7 +243,7 @@
     
         "yemekBilgi2": "Piroçki, piroşki gibi farklı okunuş ve isimlerle de adlandırılan bu tat, kızartılabiliyor, iç malzemeleri değiştirilebiliyor ya da şekilleri değiştirilerek pişirilebiliyor.",
     
-        "img6": "./img/belarusyemek3.jpg",
+        "img6": "https://belarusholiday.com/tr/assets/uploads/blog/mutfag%C4%B1/Belarussian_cuisine-10.jpg",
     
         "tatlı":"Bal",
     
@@ -253,7 +253,7 @@
     {
         "id":7,
         "title": "Bolivya",
-        "img1": "./img/bolivyafoto.jpg",
+        "img1": "https://gezimanya.com/sites/default/files/styles/800x600_/public/lokasyon-detay/2019-11/image-la-paz_1.jpg",
         "ulke": "Bolivya ya da resmî adıyla Bolivya Çokuluslu Devleti bir Güney Amerika ülkesidir. Başkenti Sucre olup; La Paz, Cochabamba, Santa Cruz, Potosi diğer önemli şehirlerinden birkaçıdır.",
     
         "ekonomi": "Bolivya'nın Ekonomisi / T.C. Dışişleri Bakanlığı Ülkenin verimli kalay, çinko, gümüş ve altın madenleri ile doğalgaz ve petrol yatakları bulunmaktadır. Stratejik bir maden olarak kabul edilen ve elektrik bataryalarının temel hammaddesi olan lityumun dünyadaki rezervlerinin %60'tan çoğu Bolivya'dadır.",
@@ -267,27 +267,27 @@
         "gezilecekYer1": "Titicaca Gölü",
         "gezilecekYerBilgi1":"Güney Amerika’daki en büyük tatlı su gölü olarak bilinen Titicaca Gölü (Lago Titicaca), Copacabana kasabasında bulunuyor. Rivayete göre İnkaların İspanyollar’dan kaçırdığı iki ton altını buraya gömdüğü de söyleniyor. Harika doğası ve dingin atmosferiyle enfes bir manzara oluşturan Titicaca’da, katamaranlarla eğlenceli bir gezi yapabilirsiniz.",
     
-        "img2": "./img/bolivyagez1.jpg",
+        "img2": "https://cdn.ytur.net/fit-in/697x465/filters:quality(100)/filters:format(webp)/post/titikaka-golu-220418-093737-7321.jpg",
     
         "gezilecekYer2": "Isla Del Sol",
     
         "gezilecekYerBilgi2": "Titikaka Gölü üzerindeki en büyük ada olan Isla Del Sol (Güneşin Adası), ülkenin en popüler ziyaret yerlerinden biri. Copacabana’dan hareket eden gezi tekneleriyle ulaşabileceğiniz adanın güney bölümünde yer alan Yumani köyünde ise gezginlerin konaklayabileceği hostel ve pansiyonlar hizmet veriyor. ",
     
-        "img3": "./img/bolivyagez2.jpg",
+        "img3": "https://ganasdemundo.com/wp-content/uploads/2020/04/isla-del-sol-4-scaled.jpg",
     
-        "img4": "./img/bolivyayemek1.jpg",
+        "img4": "https://mediterraneanlatinloveaffair.com/wp-content/uploads/2021/03/Pique-with-llajua-featured.jpg",
     
         "yemek1":"Pique Macho",
     
         "yemekBilgi1": "Dana etinin birçok leziz malzemeyle buluşturulduğu pique macho, La Paz’da denenmesi önerilen yöresel tarifler arasındadır. Yemeğin ana malzemesi olan dana etine soğan, sosis, peynir, renkli ve acı biber gibi ürünler eşlik etmektedir. Sunumunda patates kızartması ve yumurta dilimleri ile daha da zenginleştirilen pique macho, Dumbo adlı restoranda tadılabilmektedir.",
     
-        "img5": "./img/bolivyayemek2.jpg",
+        "img5": "https://wfg32p.s3.amazonaws.com/media/dishes/sanduiche_de_chola_2281-reg.jpg",
     
         "yemek2":"Sanduiche De Chola",
     
         "yemekBilgi2": "La Paz’a giden her turistin tadına bakmak istediği sanduiche de chola, bölge mutfağının en beğenilen sokak lezzetlerinden biridir. Kavrulmuş domuz etinin yanı sıra havuç, soğan, salsa sosu ve acı sos gibi malzemelerin özel sandviç ekmeklerine eklenmesiyle birlikte muhteşem bir lezzet yakalanmaktadır. Las Cholas adlı restoranda bu lezzetli sandviçin tadına bakılabilmektedir.",
     
-        "img6": "./img/bolivyayemek3.jpg",
+        "img6": "https://st2.depositphotos.com/1010142/6720/i/600/depositphotos_67200281-stock-photo-bolivian-soup-called-chairo-de.jpg",
     
         "tatlı":"Chairo",
     
@@ -297,7 +297,7 @@
     {
         "id":8,
         "title": "Brezilya",
-        "img1": "./img/brezilyafoto.jpg",
+        "img1": "https://content.skyscnr.com/m/331b0af36ff4d2e5/original/rio.jpg?resize=800px:600px&quality=100",
         "ulke": " Brezilya ya da resmî adıyla Brezilya Federal Cumhuriyeti, Güney Amerika'nın en büyük ve en kalabalık ülkesidir. Latin Amerika’nın %47,7’sini kaplayan Brezilya, Ekvador ve Şili haricinde Güney Amerika ülkelerinin hepsi ile sınır komşusudur.",
     
         "ekonomi": "Brezilya ekonomisi, gayri safi yurtiçi hasıla (nominal GSYİH) ölçümüyle dünyanın en büyük on ikinci ve 2020'de satın alma gücü paritesine göre de yine dünyanın sekizinci en büyük ekonomisidir.",
@@ -311,27 +311,27 @@
         "gezilecekYer1": "Tujica Ormanı",
         "gezilecekYerBilgi1":"Kahve üretimi için kesilmiş yağmur ormanları 19. Yüzyılda yeniden ormana çevrilmiş. Burası 32 dönümlük alanıyla dünyanın bir şehrin sınırları içerisindeki en büyük ormanıdır. Rehbersiz gezmeniz tehlikeli olacaktır. Cascatinha Şelalesi ve Mayrink Şapeli de gezilebilir.",
     
-        "img2": "./img/brezilyagez2.jpg",
+        "img2": "https://media.istockphoto.com/id/957554642/tr/foto%C4%9Fraf/tijuca-forest-rio-de-janeiro-%C5%9Felale.jpg?s=170667a&w=0&k=20&c=JuIvrirOEaL6VVRSIwIjB_u4srlX2Xo0T2lyQoLzp3Q=",
     
         "gezilecekYer2": "İsa Heykeli",
     
         "gezilecekYerBilgi2": "Rio de Janeiro şehrinin simgesi İsa Heykeli, kentin en yüksek tepesine yapılmış ve Dünyanın Yedi Yeni Harikasından biri olarak seçilmiş bir heykel. Buraya trenle ulaşım sağlanıyor. Hatta heykelin yanına kadar yürüyen merdivenlerle tırmanabilirsiniz. Brezilya’nın kuruluşunun 100. Yılı anısına dikilen heykel, 30 metre yüksekliğinde. ",
     
-        "img3": "./img/brezilyagez1.jpg",
+        "img3": "https://p4.wallpaperbetter.com/wallpaper/119/356/977/statue-of-christ-the-redeemer-rio-de-wallpaper-preview.jpg",
     
-        "img4": "./img/brezilyayemek1.jpg",
+        "img4": "https://media.istockphoto.com/id/823553796/tr/foto%C4%9Fraf/farofa-brezilya-g%C4%B1da.jpg?s=612x612&w=0&k=20&c=X0EOjyPBf07g3FOtnzL7xMv3fo2OzkOM9NP4GeovA4s=",
     
         "yemek1":"Farofa",
     
         "yemekBilgi1": "Farofa, genelde feijoada yemeğinin yanında garnitür olarak servis edilmektedir. Manyok ununun, bol miktarda tereyağı ve baharatla kavrulması ile hazırlanmaktadır. Quick Galteos, farofa ile ünlenmiş bir restorandır.",
     
-        "img5": "./img/brezilyayemek2.jpg",
+        "img5": "https://i.lezzet.com.tr/images-xxlarge-recipe/feijoda_brezilya_mutfagi-053d07a3-1093-4dbe-a631-39086cde24d5.jpg",
     
         "yemek2":"Feijoada",
     
         "yemekBilgi2": "Feijoada, hem sığır hem de domuz eti kullanılarak hazırlanan geleneksel bir güveçtir. Güvecin içine, sindirime yardımcı olduğuna inanılarak portakal da eklenmektedir. Ayrıca feijoada yapımında siyah fasulye, lahana ve patates de kullanılmaktadır. Ziyaretçiler Braseiro da Gávea’da geleneksel feijoada güvecini deneyebilmektedir.",
     
-        "img6": "./img/brezilyayemek3.jpg",
+        "img6": "https://i4.hurimg.com/i/hurriyet/75/1200x675/6093b52467b0a9434ca97ea0.jpg",
     
         "tatlı":"Brigadeiro",
     
@@ -341,7 +341,7 @@
     {
         "id":9,
         "title": "Çin",
-        "img1": "./img/çinfoto.jpg",
+        "img1": "https://ichef.bbci.co.uk/news/640/cpsprodpb/B5F6/production/_109028564_gettyimages-1159357572.jpg",
         "ulke": "Çin, resmî adı ile Çin Halk Cumhuriyeti, Doğu Asya'da Çin Komünist Partisi tarafından tek parti rejimiyle yönetilen üniter egemen devlet.",
     
         "ekonomi": "Kısacası Çin ekonomisi 1980'lerin sonu ile 1990'ların başında önemli ölçüde karma bir sistem olma özelliğine sahiptir. Çin ekonomisi tam olarak ne merkezi planlı bir ekonomi, ne de pazar ekonomisi olarak tanımlanmaktadır.",
@@ -355,27 +355,27 @@
         "gezilecekYer1": "Çin Seddi",
         "gezilecekYerBilgi1":"Toplam 8.851.8 kilometre uzunluğuyla uzaydan bile görülebilen bir yapı olan Çin Seddi, UNESCO Dünya Mirası Listesi’nde yer alıyor. Görkemli ve etkileyici görüntüsüyle ülkenin en çok turist çeken yapıları arasında bulunan Çin Seddi her yıl milyonlarca kişi tarafından ziyaret ediliyor.",
     
-        "img2": "./img/çingez1.jpg",
+        "img2": "https://iasbh.tmgrup.com.tr/4fa62f/650/344/0/0/724/380?u=https://isbh.tmgrup.com.tr/sbh/2021/12/03/cin-seddi-neden-ve-ne-zaman-yapildi-cin-seddi-uzunlugu-nedir-1638507958436.jpg",
     
         "gezilecekYer2": "Tarihi Makao Şehri",
     
         "gezilecekYerBilgi2": " Günümüzde Çin Halk Cumhuriyeti’ne bağlı özel bir yönetim bölgesi olan Tarihi Makao Şehri, 1999 yılına kadar Portekiz’e bağlı bir sömürge idi. Tarihi ve kültürel gezilere meraklı olan turistlerin ve gezginlerin en sevdiği seyahat rotaları arasında yer alan bu şehir, ülkenin güney kıyısında yer alıyor.",
     
-        "img3": "./img/çingez2.jpg",
+        "img3": "https://blog.biletbayi.com/wp-content/uploads/2017/12/makao-scaled.jpg",
     
-        "img4": "./img/çinyemek1.jpg",
+        "img4": "https://www.gastrofests.com/wp-content/uploads/2021/09/iStock-1176608358-scaled-e1631648863294.jpg",
     
         "yemek1":"Kung Pao Tavuğu",
     
         "yemekBilgi1": "Kung Pao tavuğunun Çince ismi gōngbào jīdīng. Çin tavuk yemekleri listesinde birinci sırada. Küp şeklinde doğranmış tavuklar, kuru chili biberi ve kızarmış fıstıklar buluşuyor ortaya enfes bir lezzet çıkıyor. Mutlaka denenmeli.",
     
-        "img5": "./img/çinyemek2.jpg",
+        "img5": "https://media.istockphoto.com/id/801261534/tr/foto%C4%9Fraf/geleneksel-%C3%A7in-pekin-%C3%B6rde%C4%9Fi.jpg?s=1024x1024&w=is&k=20&c=u0Kc3gRnn631FnHOkagtfWIt7n1aRnpSdDEDnyrL4XY=",
     
         "yemek2":"Pekin Ördeği",
     
         "yemekBilgi2": "Çin’in milli yemeği nedir diye sorsanız bir Çinliye size direkt Pekin Ördeği der. Bu yöresel lezzet geçmişte kraliyet menüsünde yer alıyormuş. Pekin Ördeği, odun ateşi üzerine asılı şekilde ağır ağır pişiriliyor. İnce dilimler kesiliyor ve yeşil soğan, havuç gibi sebzeler ayrıca lavaş ile servis ediliyor. Sosa batırılan etleri dürüm yapıp afiyetle yiyebilirsiniz.",
     
-        "img6": "./img/çinyemek3.jpg",
+        "img6": "https://www.seriouseats.com/thmb/CaR7btHrJgEO3OKZD1Z_795VmII=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2011__07__2021-02-12-Mapo-Tofu-MHOM-10-804db1211f1d47dbae505341d1e7b994.jpg",
     
         "tatlı":"Ma Po Tofu",
     
@@ -385,7 +385,7 @@
     {
         "id":10,
         "title": "Fas",
-        "img1": "./img/fasfoto.jpg",
+        "img1": "https://mediap.flypgs.com/awh/1900/1266/files/ulkeler/Fas/fes-morocco.jpg",
         "ulke": "Fas veya resmî olarak Fas Krallığı, yaklaşık 37 milyon nüfusa ve 720.000 km² yüzölçümüne sahip bir Kuzey Afrika ülkesidir. Başkenti Rabat ve en büyük şehri de Kazablanka'dır. Mağrip ülkelerinden biri olan Fas'ın, Atlantik Okyanusu'dan Cebelitarık Boğazı'nı çevreleyip Akdeniz'de son bulan uzun bir sahil şeridi vardır.",
     
         "ekonomi": "Fas orta gelir düzeyinde bir ülke olarak kabul edilmektedir. Gayri Safi Yurtiçi Hasıla'nın yaklaşık yarısı hizmetler sektörüne dayanmaktadır. Sanayi sektörü GSYİH'nın yaklaşık % 13'ünü, tarım sektörü ise GSYİH'nın yaklaşık % 12'sini oluşturmaktadır.",
@@ -399,27 +399,27 @@
         "gezilecekYer1": "Jemaa el-Fnaa Meydanı",
         "gezilecekYerBilgi1":"Jemaa el-Fnaa 11. yüzyıldan kalma eşsiz bir meydandır. Fas Marakeş’te bulunan meydan, kentin kültürel mirasının temelini oluşturmaktadır. 2008 yılında UNESCO İnsanlığın Somut Olmayan Kültürel Mirası Listesi’ne dahil edilmiştir. Jemaa el-Fnaa ziyaretçilerine Fas kültürünü en net şekilde yansıtmaktadır.",
     
-        "img2": "./img/fasgez1.jpg",
+        "img2": "https://www.bilgiustam.com/resimler/2014/07/5339_marakes.jpg",
     
         "gezilecekYer2": "Hasan Cami",
     
         "gezilecekYerBilgi2": " Kazablanka’da şehrin sembolik ibadethanesi olan II. Hasan Camii, dini birleştiriciliğinin yanı sıra olağanüstü mimarisi ve etkileyici tarihçesiyle de dikkat çeken özellikteki bir yapıdır. Camii, dokusunda taşıdığı islam dinine ait ruhun manevi yönüyle birlikte okyanus üzerindeki konumu ve muazzam yapısal özellikleriyle dünyada benzerine az rastlanan yapılardandır.",
     
-        "img3": "./img/fasgez2.jpg",
+        "img3": "https://www.birucak.com/assets/Dosyalar/Resimler/28.11.2017/Buyuk/kazablanka-da-gezilecek-yerler.jpg",
     
-        "img4": "./img/fasyemek1.jpg",
+        "img4": "https://i.lezzet.com.tr/images-xxlarge-recipe/fas-harira-corbasi-cb01953d-fca2-4bdf-ad02-edda0a73d88f.jpg",
     
         "yemek1":"Harira",
     
         "yemekBilgi1": "Arapça “İpeksi” anlamına gelen harira, oldukça lezzetli bir çorbadır. Yerel halk bu çorbayı genellikle ramazan aylarında oruçlarını açarken tüketmektedir. Tavuk, mercimek, nohut, şehriye kullanılarak hazırlanan harira için Imilchil ismindeki restoran önerilmektedir.",
     
-        "img5": "./img/fasyemek2.jpg",
+        "img5": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/kebda-mchermla-220404-114105-4164.jpg",
     
         "yemek2":"Kebda Mchermla",
     
         "yemekBilgi2": "Kuzu ciğeri kullanılarak hazırlanan kebda mchermla, genellikle ana yemeklerinin yanında meze olarak servis edilmektedir. Sarımsak, maydanoz ve karabiber, kimyon, kırmızı toz biber gibi çeşitli baharatlar ilave edilebilen bu yiyecek; özellikle Dar Filali isimli restoranda oldukça meşhurdur.",
     
-        "img6": "./img/fasyemek3.jpg",
+        "img6": "https://i2.milimaj.com/i/milliyet/75/1200x675/5c8d593a45d2a04bdc3ac55f.jpg",
     
         "tatlı":" Sellou",
     
@@ -429,7 +429,7 @@
     {
         "id":11,
         "title": "Finlandiya",
-        "img1": "./img/finlandiyafoto.jpg",
+        "img1": "https://cdn.ytur.net/fit-in/697x465/filters:quality(100)/filters:format(webp)/post/finlandiya-ya-ne-zaman-gidilir-220420-100431-8312.jpg",
         "ulke": "Finlandiya veya resmî adıyla Finlandiya Cumhuriyeti, Kuzey Avrupa'daki bir İskandinav ülkesi. Doğuda Rusya, kuzeyde Norveç ve batıda İsveç'le komşudur. Batıda Botniya ve güneyde Finlandiya körfezlerine kıyısı vardır. Yüzölçümü 338.455 km² ve nüfusu 5,5 milyondur. Helsinki ülkenin başkenti ve en büyük şehridir.",
     
         "ekonomi": "Finlandiya ekonomisi, Fransa, Almanya, İsveç veya Birleşik Krallık gibi diğer batı ekonomileriyle eşit bir kişi başına üretimle son derece sanayileşmiş, karma bir ekonomidir.",
@@ -443,27 +443,27 @@
         "gezilecekYer1": "Suomenlinna Adası",
         "gezilecekYerBilgi1":"Suomenlinna, Finlandiya’nın en çok turist çeken tarihi yapılarından biridir. 18. yüzyıldan kalma bir kale olan ve 6 ada üzerine inşa edilen yapı, uzun yıllar farklı devletlere ev sahipliği yapmıştır. Toplamda 210 hektarlık bir alanı kaplayan Suomenlinna, turistik açıdan taşıdığı önemle UNESCO Dünya Mirası Listesi’nde yer almaktadır.",
     
-        "img2": "./img/finlandiyagez1.jpg",
+        "img2": "https://t3.ftcdn.net/jpg/04/63/84/50/360_F_463845063_SoZMgxBiS3SZdFzyvgC24i9NdnZLpLhv.jpg",
     
         "gezilecekYer2": "Helsinki Katedrali",
     
         "gezilecekYerBilgi2": "Helsinki Katedrali, yakın tarihin en önemli dini yapılardan biri olarak dikkat çekmektedir. Bizzat dönemin çarının isteği ile yaptırılan kilise, bağımsızlığın kazanılmasının ardından Helsinki Katedrali adını almıştır. Önceki dönemlerde ise Nicholas Kilisesi ve Büyük Kilise adlarını almıştır. Şehrin tam merkezine konumlanan bu yapı, her sene yüz binlerce ziyaretçiyi ağırlamaktadır. ",
     
-        "img3": "./img/finlandiyagez2.jpg",
+        "img3": "https://media-cdn.tripadvisor.com/media/photo-s/11/93/db/2c/uspenskin-cathedral-helsinki.jpg",
     
-        "img4": "./img/finlandiyayemek1.jpg",
+        "img4": "https://wfg32p.s3.amazonaws.com/media/dishes/poronkaristys_3691-reg.jpg",
     
         "yemek1":"Poronkaristys",
     
         "yemekBilgi1": "Rovaniemi’nin eşsiz tatlarından olan poronkaristys, ren geyiği etinin çeşitli malzemelerle birleştirildiği yöresel bir lezzettir. Spesiyal tarif hazırlanırken öncelikle ince dilimlenmiş ren geyiği etinin soğanla birlikte sotelendiği, sonrasında ise bira veya et suyuyla yavaşça pişirildiği bilinmektedir. Genellikle patates püresi üzerinde servis edilen meşhur tarifin denenebileceği en güzel duraklardan biri Nili Restaurant’tır.",
     
-        "img5": "./img/finlandiyayemek2.jpg",
+        "img5": "https://www.tasteatlas.com/Images/Ingredients/75e27e8b1b2848508aacde6c67314826.jpg",
     
         "yemek2":"Lapin Poron Kylmasavuliha",
     
         "yemekBilgi2": "Lapin poron kylmasavuliha, ren geyiği etinin fümelenmesi ile hazırlanan benzersiz bir tariftir. İnce ince kesilen etler farklı ürünlerle birleştiğinde enfes tariflere dönüşmektedir. Genellikle soğuk tüketilen lapin poron kylmasavuliha, Lapland Restaurant Kotahovi’de tadılabilmektedir.",
     
-        "img6": "./img/finlandiyayemek3.jpg",
+        "img6": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/lappi-peyniri-221005-074044-8530.jpg",
     
         "tatlı":"Lappi Peyniri",
     
@@ -487,27 +487,27 @@
         "gezilecekYer1": "Eyfel Kulesi",
         "gezilecekYerBilgi1":"1889’da Paris’te yükselen Eyfel Kulesi, sadece Fransa’nın değil dünya genelinde de oldukça önemli bir sembol haline gelmiştir. Mimarisi ile en belirgin yapılar arasında öne çıkan Eyfel Kulesi, 31 Mart 1889’da açılmıştır. Gustave Eiffel, üç renkli Fransız bayrağını zirvesine yerleştirmek için 1.710 basamağı yürüyerek Kule’nin tepesine çıkmıştır. Bugün kule milyonlarca ziyaretçiyi ağırlamaktadır.",
     
-        "img2": "./img/fransagez1.jpg",
+        "img2": "https://www.bizevdeyokuz.com/wp-content/uploads/eiffel-kulesi-paris-2-1155x675.jpg",
     
         "gezilecekYer2": "Notre Dame Katedrali",
     
         "gezilecekYerBilgi2": "Notre Dame de Paris veya Notre Dame Katedrali, ziyaretçiler için Paris’teki en popüler turistik yerlerden biridir. Katedralin vitraylarına, kulelerine, gül işlemeli pencerelerine, çan kulesine ve çirkin yaratıklarına hayran kalmaktadır. Paris’in panoramik manzarasını görmek için kuleler de ziyarete açıktır. Bu sebeple dünyanın her yerinden birçok ziyaretçiyi ağırlamaktadır. ",
     
-        "img3": "./img/fransagez2.jpg",
+        "img3": "https://www.guncelkpssbilgi.com/wp-content/uploads/2019/04/Notre-Dame-Cathedrali-hakk%C4%B1nda-bilgiler.jpg",
     
-        "img4": "./img/fransayemek1.jpg",
+        "img4": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/biftek-kizartmasi-220311-180511-5450.jpg",
     
         "yemek1":"Biftek Kızartması",
     
         "yemekBilgi1": "Biftek ve patates kızartmasından oluşan Steak Frites, Paris’in en sevilen yiyeceklerinden biridir. Fransız usulü biftek olarak geçen az pişmiş dana eti, özellikle alkollü mekanlarda sıkça tüketilmektedir. Damak zevkine bağlı olarak değişebilecek soslar ve yanına gelen çıtır patates kızartması ile eşsiz bir lezzet oluşturmaktadır. Bu güzel yemeğin denenebileceği en güzel mekânlardan birisi ise Paris’te bulunan Champeaux in Les Halles’dir.",
     
-        "img5": "./img/fransayemek2.jpg",
+        "img5": "https://cdn.yemek.com/mncrop/940/625/uploads/2015/01/sogan-corbasi-tarifi.jpg",
     
         "yemek2":"Soğan Çorbası",
     
         "yemekBilgi2": "Klasik bir Paris yemeği olan soğan çorbası, kentin yöresel lezzetlerinden biridir. Et suyu kullanılarak hazırlanan bu çorbaya, tereyağında yavaşça karamelize edilen soğanlar ve kekik eklenmektedir. Soğan çorbasını diğer çorbalardan farklı kılan içindekilerden çok sunumudur. Çorbanın üzerine Fransa’ya özgü olan baget ekmeği, rendelenmiş gruyere ve parmesan peynir eklenmektedir. Tüm kase peynirle kaplandıktan sonra fırına verilmektedir. Eriyen peynirler ve kıtırlaşan baget ekmeği ile eşsiz bir sunuma ve lezzete ulaşan soğan çorbası, Paris’e gidildiğinde mutlaka denenmesi gereken lezzetlerdendir. Ziyaretçilerin bu özel çorbayı Paris’te deneyebilecekleri en güzel restoran ise Café Du Centre 57 Rue Montorgueil‘dir.",
     
-        "img6": "./img/fransayemek3.jpg",
+        "img6": "https://assets.bonappetit.com/photos/57b040f2f1c801a1038bd761/1:1/w_2560%2Cc_limit/maar_beyond_the_baguette_h.jpg",
     
         "tatlı":"Fougasse",
     
@@ -517,7 +517,7 @@
     {
         "id":13,
         "title": "Grönland",
-        "img1": "./img/grölandfoto.jpg",
+        "img1": "https://kurious.ku.edu.tr/wp-content/uploads/2021/03/gro%CC%88nland.jpeg",
         "ulke": "Grönland, Atlas Okyanusu'nun kuzeyinde, 2.166.086 km² ile kuzey kutbundaki en büyük buz örtüsüyle kaplı, Danimarka Krallığı'na bağlı özerk bir bölgedir. Kanada Arktik Adaları'nın doğusunda, Arktik ve Atlantik okyanusları arasında yer alan dünyanın en büyük adasıdır.",
     
         "ekonomi": "Grönland'ın ekonomisi uzun zamandır balıkçılığa dayanır. Bir zamanlar ekonominin temel dayanağı olan fok avı, 20. yüzyılın başlarında büyük ölçüde azaldı ve yerini morina balığı, karides, konserve ve dondurma gibi ürünlere bıraktı. Fiyat dalgalanmaları 20. yüzyılın sonlarında ekonomide endişe yaratmaya başladı ve Grönland bu nedenle ekonomisini çeşitlendirmeye başlayarak turizm endüstrisine daha çok önem verdi.",
@@ -531,17 +531,17 @@
         "gezilecekYer1": "Grönland’in  Illulisat Kasabası",
         "gezilecekYerBilgi1":"Grönland’ın büyüklüğünü ve sunduğu gezi seçeneklerini düşündüğümüzde insan nereden başlayacağını şaşırıyor bir an. Ama ilk kez Grönland’i ziyaret edecekler için Illulisat şehri hem Grönland’da gezilecek yerler listesinde hemde gezinizin başlangıç noktası olmalı. Hem şehrin çok güzel olması, hem de Eqi Glasiyerine giden gemilerin buradan kalkması nedeniyle pek çok turistin öncelikli uğrak yeri.",
     
-        "img2": "./img/grölandgez1.jpg",
+        "img2": "https://5continentsproduction.com/wp-content/uploads/2018/02/Greenland1-1024x576.jpg",
     
         "gezilecekYer2": "Doğu Grönland Ulusal Parkı",
     
         "gezilecekYerBilgi2": " Dünyanın en büyük ulusal parkı unvanını taşıyan Doğu Grönland Ulusal Parkı (Grønlands Nationalpark), 1974 yılında hizmete girdi. Danimarka Krallığı tarafından kurulan bu park aynı zamanda Grönland’ın tek ulusal parkı olmasıyla da biliniyor. 972 bin kilometrekarelik genişliğiyle bölgenin kuzeydoğusunu çevreleyen bu park, yeryüzünün en büyülü ve maceralı yerlerinden biri. Kutuplardaki bitki ve hayvan türlerini görebileceğiniz bu ulusal park, buzullardan arta kalan derin vadileri ve etkileyici atmosferiyle nefes kesen bir güzelliğe sahip.",
     
-        "img3": "./img/grölandgez2.jpg",
+        "img3": "https://res.cloudinary.com/turna/image/upload/c_scale,w_648,h_405,dpr_1.25/f_auto,q_auto/f_jpg,q_auto:low/v1514186555/Grondland-Ulusal-Park_jkogr5.jpg?_i=AA",
     
         "img4": "./img/grölandyemek1.jpg",
     
-        "yemek1":"Reindeer Steak",
+        "yemek1":"https://traveltrade.visitgreenland.com/wp-content/uploads/grilled-reindeer-meat-with-greenlandic-beer-by-ace-and-ace-1400x933.jpg",
     
         "yemekBilgi1": "En sevilen etlerden biri olan Muskox birçok şekilde yapılmaktadır. Genel olarak içinde sebzeler ve çeşitli soslarla pişirilenler oldukça yaygındır. Ren geyiği etini de birçok şekilde tüketirler. Sadece tuz ve karabiber ekleyip tavada kızartıp yanında pirinç pilavı ya da patatesle yenen ren geyiği çok sık yapılmaktadır. Reindeer Steak de popüler yemekler arasındadır.",
     
@@ -551,7 +551,7 @@
     
         "yemekBilgi2": "Suaasat, geleneksel bir Grönland çorbasıdır. Geleneksel olarak fok etinden yapılsa da fok olmadığı zamanlarda deniz kuşları balina ya da ren geyiğinden de yapılabilir.  Arpa ya da pirincin gece boyunca suda bırakılarak nişastasının suya akıtması beklenir. Bu nişasta çorbanın kıvamı için çok önemlidir. Çorbanın içine soğan ve patates de eklenir.",
     
-        "img6": "./img/grölandyemek3.jpg",
+        "img6": "https://img-s1.onedio.com/id-61dc0ec5789f7d7f68d1ad0b/rev-0/w-600/h-450/f-jpg/s-afac6ddd987d408bdc9a3e945e1182e98539dbe4.jpg",
     
         "tatlı":"Puisi",
     
@@ -561,7 +561,7 @@
     {
         "id":14,
         "title": "Güney Kore",
-        "img1": "./img/güneykorefoto.jpg",
+        "img1": "https://i.bigpara.com/i/55big/guney_kore_650.jpg",
         "ulke": "Güney Kore veya resmî adıyla Kore Cumhuriyeti, Doğu Asya'da Kore Yarımadası'nın güney kısmını oluşturan ve Kuzey Kore ile kara sınırını paylaşan, Doğu Asya’daki bir ülkedir.",
     
         "ekonomi": "Güney Kore ekonomisi, nominal olarak dünyanın 11. büyük ve satınalma gücü paritesi bakımından 13. büyük ekonomisi olup Asya'nın da dördüncü büyük ekonomisidir. Güney Kore karma bir ekonomi olup ülke ekonomisine chaebol denilen aile konglomeratları hakimdir.",
@@ -575,27 +575,27 @@
         "gezilecekYer1": "Geoncheonggung",
         "gezilecekYerBilgi1":"Seul’un gözde tarihi yapılarından Geoncheonggung, yüzyıllardır göz dolduran tarihi ile yıllara meydan okumaktadır. Joseon hanedanlığı tarafından inşa edilen sarayların en büyüğü olma özelliğini taşıyan Geoncheonggung’da kralın ailesi yaşamakta ve devletin merkezi işleri burada yürütülmektedir.",
     
-        "img2": "./img/güneykoregez1.jpg",
+        "img2": "https://cdn.ytur.net/fit-in/697x465/filters:quality(100)/filters:format(webp)/post/gyeongbokgung-sarayi-1-220331-200900-2363.jpg",
     
         "gezilecekYer2": "N Seul Kulesi",
     
         "gezilecekYerBilgi2": "Güney Kore’nin başkenti Seul’de yer alan N Seul Kulesi, şehrin en yüksek radyo dalgası kulesi olma özelliğini taşımaktadır. N Seul, günümüzde ülkenin birçok ulusal medya platformlarına hizmet vermeye devam etmektedir. Namsan Kulesi olarak da bilinen kule, özellikle seyir terası ile birlikte şehir için turistik açıdan oldukça önemli bir duraktır. Kule, küresel seyahat uzmanı değerlendirmesine göre dünyanın en iyi 500 turistik mekânından birisi seçilmiştir. Haftanın bütün günleri açık olan müze, özellikle hafta sonlarındaki yoğunluğu ile de dikkat çekmektedir. ",
     
-        "img3": "./img/güneykoregez2.jpg",
+        "img3": "https://cdn.ytur.net/fit-in/697x465/filters:quality(100)/filters:format(webp)/post/n-seul-kulesi-1-220331-201155-6474.jpg",
     
-        "img4": "./img/güneykoreyemek1.jpg",
+        "img4": "https://i.lezzet.com.tr/images-xxlarge-recipe/bibimbap-2d68e268-6c19-4ff8-b5f8-1145372450cf.jpg",
     
         "yemek1":"Bibimbap",
     
         "yemekBilgi1": "Bibimbap günün her öğünü tüketilen doyurucu ve lezzetli atıştırmalık. Yumurta, et, pilav ve sebze ile yapılıyor. Sıcak kaselerde servis edilen bu yemeğin acılı versiyonu da acı severlerin mutlaka denemesi gereke lezzetlerden. En güzel Güney Kore yemekleri deyince Bibimbap baş sıralara oturur.",
     
-        "img5": "./img/güneykoreyemek2.jpg",
+        "img5": "https://www.medyamidas.com/images/upload/tteokbokki-2.jpg",
     
         "yemek2":"Tteokbokki",
     
         "yemekBilgi2": "Uzak Doğu ülkelerinin vazgeçilmez lezzeti olan bir yemek var sırada. Pirinç ile yapılan Tteokbokki bir tür pirinç keki. Korelilerin çok sevdiği bu lezzet en meşhur sokak lezzetlerinden biri. Acılı sosu Tteokbokki’nin olmazsa olmaz unsuru. Çoğunlukla yumurta ve yeşil soğan ile servis ediliyor. Güney Kore’de ne yenir sorusunun başlıca cevaplarından olan bu müthiş lezzeti tatmadan dönmeyin.",
     
-        "img6": "./img/güneykoreyemek3.jpg",
+        "img6": "https://i20.haber7.net/resize/1300x788//haber/haber7/photos/2020/43/bingsu_nedir_ve_bingsu_nasil_yapilir_kore_usulu_bingsu_tarifi_1603535726_2694.jpg",
     
         "tatlı":"Bingsu",
     
@@ -644,7 +644,7 @@
     {
         "id":16,
         "title": "Hindistan",
-        "img1": "./img/hindistanfoto.jpg",
+        "img1": "https://www.flypgs.com/blog/wp-content/uploads/2018/03/akshardram-tapinagi-delhi-hindistan.jpg",
         "ulke": "Hindistan ya da resmî adıyla Hindistan Cumhuriyeti, Güney Asya'da bulunan bir ülkedir. Dünyanın en büyük yedinci coğrafi alanı ve en büyük ikinci nüfusuna sahip olan ülkenin ulusal marşı Jana Gana Mana'dır. Ülkede resmi dilleri İngilizce ve Hintçe oluşturur, ancak 22 adet tanınmış bölgesel dil de bulunur.",
     
         "ekonomi": "Hindistan ekonomisi, nominal olarak dünyanın yedinci büyük ve satınalma gücü paritesi bakımından üçüncü büyük ekonomisidir. Ülkenin ekonomisi 20 yıldır ortalama %7 oranında büyümekte olup yeni sanayileşen ülke olarak sınıflandırılmaktadır.",
@@ -658,27 +658,27 @@
         "gezilecekYer1": "Tac Mahal",
         "gezilecekYerBilgi1":"Dünyanın en eski başkenti olarak bilinen Roma’nın kalbinde yer alan Kolezyum; gladyatör ve vahşi hayvan dövüşlerinden, geceler boyu süren eğlencelere sahne olmuş tarihi bir amfitiyatrodur. Asırlarca kendi kaderine terk edilen Roma Kolezyum, bugün UNESCO Dünya Mirası Listesi ile korunmakta ve yılda yaklaşık 5 milyon turistin ziyaretçi akınına uğramaktadır.",
     
-        "img2": "./img/hindistangez1.jpg",
+        "img2": "https://i20.haber7.net/resize/1300x731//haber/haber7/photos/2022/04/tac_mahal_nerede_nasil_gidilir_tac_mahal_hikayesi_nedir_tac_mahal_ozellikleri_1643287724_0188.jpg",
     
         "gezilecekYer2": "Amber Kalesi",
     
         "gezilecekYerBilgi2": "Muhteşem manzarası, mimarisi ve tarihi ile, Jaipur şehrinin dışındaki bir tepenin üzerine inşa edilmiş Amber Kalesi, tarihsel ve kültürel olarak Hindistan’ın en önemli yapılarından biri kabul edilmektedir. Amer Fort olarak da bilinen kale kompleksi, Rajasthan’daki Rajput yönetiminin görkemli günlerini en iyi şekilde koruyan nadir yapılardan biridir. ",
     
-        "img3": "./img/hindistangez2.jpg",
+        "img3": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Amber_Fort_%28%E0%A4%86%E0%A4%AE%E0%A5%87%E0%A4%B0_%E0%A4%95%E0%A4%BE_%E0%A4%95%E0%A4%BF%E0%A4%B2%E0%A4%BE_%29.jpg/1200px-Amber_Fort_%28%E0%A4%86%E0%A4%AE%E0%A5%87%E0%A4%B0_%E0%A4%95%E0%A4%BE_%E0%A4%95%E0%A4%BF%E0%A4%B2%E0%A4%BE_%29.jpg",
     
-        "img4": "./img/hindistanyemek1.jpg",
+        "img4": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/keema-pav-220329-223014-8632.jpg",
     
         "yemek1":"Keema Pav",
     
         "yemekBilgi1": "Keema Pav, Mumbai’nin ikonik sokak lezzetlerinden biridir. Kıyma, önce tereyağı, domates sosu ve baharatlar ile kavrulmakta ve ardından yanında yerel bir beyaz ekmek ve yeşil biber ile birlikte servis edilmektedir. Keema Pav denemek için, Kyani & CO ziyaret edilebilir",
     
-        "img5": "./img/hindistanyemek2.jpg",
+        "img5": "https://media.istockphoto.com/id/819085268/tr/foto%C4%9Fraf/hint-sokak-g%C4%B1da-vada-pav.jpg?s=612x612&w=0&k=20&c=SkoIbghTqMXbIOBlAh9Gn71r_1ydsi9PP-qH24PUwtg=",
     
         "yemek2":"Vada Pav",
     
         "yemekBilgi2": "Vada Pav, Mumbai’nin başkenti olduğu Maharashtra eyaletine özgü vejetaryen bir sokak lezzetidir. Ortasından ikiye bölünmüş ekmeğin içerisine derin yağda kızartılmış patates köftesinin yerleştirilmesi ile hazırlanmaktadır. Bu vejetaryen fast food genellikle, yanında Hint turşusu ve biber ile birlikte servis edilmektedir. Denemek için, Ashok Vada Pav ve Kalidas Mandya Masala Vada Pav adlı mekanlara gidilmesi önerilmektedir.",
     
-        "img6": "./img/hindistanyemek3.jpg",
+        "img6": "https://www.cookingcarnival.com/wp-content/uploads/2020/07/Malai-Ghevar-500x500.jpg",
     
         "tatlı":"Rabdi ghevar",
     
@@ -688,7 +688,7 @@
     {
         "id":17,
         "title": "İspanya",
-        "img1": "",
+        "img1": "https://mediap.flypgs.com/awh/1000/663//files/ulkeler/ispanya/Barselona-gaudi.jpg",
         "ulke": "İspanya ya da resmî adıyla İspanya Krallığı, Avrupa'nın güneybatısında, İber Yarımadası'nda yer alan ülkedir. Güneyde ve doğuda Akdeniz'e, kuzeyde ise Atlantik Okyanusu'na kıyısı vardır. Batıda Portekiz, kuzeyde Fransa, Andorra ve güneyde Birleşik Krallık ile komşudur.",
     
         "ekonomi": "İspanya ekonomisi, nominal GSYİH'ye göre dünyanın 13. büyük ekonomisi ve satın alma gücü paritesi açısından dünyanın en büyük ekonomilerinden biridir. Ülke, Avrupa Birliği, Ekonomik Kalkınma ve İşbirliği Örgütü ve Dünya Ticaret Örgütü üyesidir. İspanya kapitalist bir karma ekonomiye sahiptir.",
@@ -702,27 +702,27 @@
         "gezilecekYer1": "La Sagrada Familia",
         "gezilecekYerBilgi1":"İspanya’nın Barcelona şehrinde bulunan, her yıl milyonlarca turistin akın ettiği ve henüz yapımı tamamlanamayan La Sagrada Familia, muhteşem yapısıyla dikkatleri üzerine çekmektedir. Sadece bağışlarla ilerleyen yapının inşası çok yavaş ilerlemekte ve halk arasında ‘bitmeyen kilise’ olarak adlandırılmaktadır.",
     
-        "img2": "",
+        "img2": "https://img-s1.onedio.com/id-5b3b7299c40ee5080f48fbe6/rev-0/w-600/h-396/f-jpg/s-1366f28e952bdc164b6c81fcfcd8625ce963708a.jpg",
     
         "gezilecekYer2": "Montserrat",
     
         "gezilecekYerBilgi2": "İspanya’nın Barcelona şehrinde bulunan Montserrat, harika manzaralara sahip olmakla birlikte içerisinde bulundurduğu manastır nedeniyle dini bir semboldür. Montserrat’ın popüler bir mekân olmasında, 9. yüzyıla uzanan manastırın yapısı etkin bir yer tutmaktadır. Ayrıca yürüyüş yolları, burayı gezmek için oldukça verimlidir. Daha çok yeni dönem eserleri bulunan müzeyi gezip, yüzyıllardır devam eden çocuk korosundan muhteşem şarkılar dinlenebilmektedir. ",
     
-        "img3": "",
+        "img3": "https://travelingturks.com/wp-content/uploads/montserrat-dagi-teleferik.jpg",
     
-        "img4": "",
+        "img4": "https://cdn.yemek.com/mnresize/940/940/uploads/2015/05/paella-guncelleme-sunum.jpg",
     
         "yemek1":"Paella",
     
         "yemekBilgi1": "İspanya’nın meşhur lezzeti paella, ilk olarak Valensiya’da ortaya çıkmıştır. Genellikle orijinal paella olarak adlandırılan bu lezzet tavuk, tavşan, salyangoz ve garrafó adı verilen yerel fasulye ile pişirilen kısa taneli Valensiya pirincinden yapılmaktadır. Ayrıca safran ve kırmızı biberle baharatlandırılarak pişirilmektedir. Valensiya’nın mutfak mirasının en önemli lezzetlerinden biri olan bu eşsiz yemeği yapan en iyi restoranlar Restaurante Levante, Casa Carmela ve El Racó de la Paella’dır.",
     
-        "img5": "./img/arjantinyemek2.jpg",
+        "img5": "https://www.goya.com/media/3639/escalivada-grilled-summer-vegetables.jpg?quality=80",
     
         "yemek2":"Escalivada",
     
         "yemekBilgi2": "Escalivada, Barselona’nın yöresel lezzetleri arasında en çok tercih edilenlerden biridir. Çünkü vejetaryen ve vegan beslenenler için de uygun bir yiyecektir. İçerisinde közlenmiş sebzeler bulunan escalivada, aynı zamanda oldukça hafif bir başlangıçtır. Biber, patlıcan ve soğan bu yemeğin ana bileşenleridir. Bu sebzeler öncelikle hafif bir zeytinyağı ile közlenmekte ardından ince olacak biçimde doğranarak bol zeytinyağı ve sarımsak ile lezzetlendirilmektedir. Közlenmiş sebze lezzetini sevenler için escalivada vazgeçilmez bir yemek haline gelmektedir. Şehirdeki Sesamo Restoran gibi mekanlarda ise bu lezzetin farklı sunum ve versiyonlarının bulunması mümkündür.",
     
-        "img6": "./img/arjantinyemek3.jpg",
+        "img6": "https://i.lezzet.com.tr/images-xxlarge-recipe/ustasindan-san-sebastian-cheesecake-200bfbb7-ec50-4520-ae33-42315026f8d9.jpg",
     
         "tatlı":"San Sebastian Cheesecake",
     
@@ -732,7 +732,7 @@
     {
         "id":18,
         "title": "İtalya",
-        "img1": "",
+        "img1": "https://i0.wp.com/journo.com.tr/wp-content/uploads/2017/09/Cinque-Terre-and-Pisa.jpg?fit=990%2C520&ssl=1",
         
         "ulke": "İtalya ya da resmî olarak İtalyan Cumhuriyeti ya da bazen İtalya Cumhuriyeti, Güney Avrupa'da, büyük ölçüde İtalya Yarımadası üzerinde yer alan bir ülke. Akdeniz'in en büyük iki adası Sicilya ve Sardinya da İtalyan topraklarıdır.",
     
@@ -747,27 +747,27 @@
         "gezilecekYer1": "Pisa Kulesi",
         "gezilecekYerBilgi1":"İtalya’nın simgelerinden biri olan Pisa Kulesi, UNESCO Kültür Mirası’nda yer alan önemli tarihi eserlerden biridir. 5,5 derecelik eğimi ile bugün en dikkat çekici yapılardan biri haline gelen kulenin en tepesinden Pisa şehrini panoramik olarak görmek mümkündür. ",
     
-        "img2": "",
+        "img2": "https://iasbh.tmgrup.com.tr/521785/650/344/0/31/865/485?u=https://isbh.tmgrup.com.tr/sbh/2022/11/25/pisa-kulesi-tarihi-ve-ozellikleri-pisa-kulesi-nerede-hangi-ulkede-nereye-bagli-ve-nasil-gidilir-1669365065797.jpg",
     
         "gezilecekYer2": "Kolezyum",
     
         "gezilecekYerBilgi2": "Dünyanın en eski başkenti olarak bilinen Roma’nın kalbinde yer alan Kolezyum; gladyatör ve vahşi hayvan dövüşlerinden, geceler boyu süren eğlencelere sahne olmuş tarihi bir amfitiyatrodur. Asırlarca kendi kaderine terk edilen Kolezyum, bugün UNESCO Dünya Mirası Listesi ile korunmakta ve yılda yaklaşık 5 milyon turistin ziyaretçi akınına uğramaktadır.",
     
-        "img3": "",
+        "img3": "https://www.tarihlisanat.com/wp-content/uploads/2018/09/2223.jpg",
     
-        "img4": "",
+        "img4": "https://cdn.yemek.com/mnresize/940/940/uploads/2017/07/domates-soslu-tortellini-tarifi.jpg",
     
         "yemek1":"Tortellini",
     
         "yemekBilgi1": "Bolonya’dan çıkan ve dünyaca ünlü bir lezzet olan Tortellini, dolgusunda iki malzeme bulunan bir makarna çeşididir. Şekli bakımından göze oldukça hitap eden bu yemek, lezzeti ile de deneyenlerden tam not almaktadır. Makarnanın dolgusunda genellikle domuz eti ve parmesan peyniri bulunmaktadır. Domuz eti tüketmeyenler ya da vejetaryen olan kişiler için ise ıspanak dolgulu olarak yapılan tortelliniler de bulunmaktadır. Aynı zamanda farklı soslarla da servis edilen tortellini; tavuk suyu ya da tereyağı ile de sofralardaki yerini almaktadır. Ristorante Trattoria Oberdan da Mario, Bolonya’da tortellininin yenilebileceği en güzel mekânlardan biridir.",
     
-        "img5": "",
+        "img5": "https://i.lezzet.com.tr/images-xxlarge-recipe/arancini-toplari-e837d89e-bd9a-419c-bdbc-b786353a6df0.jpg",
     
         "yemek2":"Arancini",
     
         "yemekBilgi2": "Domates sosu, bezelye, et ya da jambon, beşamel ve peynir ile doldurulduktan sonra kızartılan bir pirinç topu olan arancini; Palermo ile çevresinde günün her saati bulunabilen bir sokak yemeğidir. Yüzyıllar önce adadaki Arap varlığından süregelen geleneğin bir ürünü olan arancini, Sicilyalılar tarafından malzemeleri kısmen değiştirilerek tüketilmeye devam edilmektedir. Köklü bir geçmişe sahip bu lezzetin en güzel halinin Ke Palle’de tadılabildiği söylenmektedir.",
     
-        "img6": "",
+        "img6": "https://d2lswn7b0fl4u2.cloudfront.net/photos/pg-cannolis-1628511345.jpg",
     
         "tatlı":"Cannoli",
     
@@ -778,7 +778,7 @@
         "id":19,
         "title": "İzlanda",
     
-        "img1": "",
+        "img1": "https://www.gezitravels.com/wp-content/uploads/2023/01/izlanda-hakkinda-bilinmeyenler-1024x683.jpg",
     
         "ulke": "İzlanda, Atlas Okyanusu'nun kuzeyinde Grönland'ın güneydoğusu ile İskandinavya ve Büyük Britanya'nın kuzeybatısında yer alan bir ada ve Avrupa ülkesi. İzlanda, kuzeyinde Arktik Okyanusu ile çevrilidir. 356.991 nüfus ve 103.000 km² yüzölçümüyle Avrupa'nın en seyrek nüfuslu ülkesidir.",
     
@@ -794,7 +794,7 @@
         
         "gezilecekYerBilgi1":"Listemizin ilk sırasında ülkenin en popüler noktalarından olan ‘’Mavi Göl’’ bulunmaktadır. Muhteşem görüntüsüyle insanları büyüleyen gölü insanlar sıcak suları sebebiyle tercih etmektedir. Aynı zamanda Göl masmavi suyunun rengini ‘’Silika’’ denilen bir maddeden almaktadır.",
     
-        "img2": "",
+        "img2": "https://i2.milimaj.com/i/milliyet/75/0x0/5ca1c72945d2a0296419127d.jpg",
     
         "gezilecekYer2": "Gullfoss Şelalesi",
     
@@ -802,19 +802,19 @@
     
         "img3": "",
     
-        "img4": "",
+        "img4": "https://blog.biletbayi.com/wp-content/uploads/2018/02/Hakarl-768x511.jpg",
     
         "yemek1":"Hakarl",
     
         "yemekBilgi1": "Köpekbalığı etinin içindeki zararlı toksinlerden arınması için toprağa gömülmesiyle oluşturulan farklı bir yemektir. Küp küp kesildikten sonra kürdanlarda servis edilen Hakarl’e damak tadınız çok uymayabilir.",
     
-        "img5": "",
+        "img5": "https://blog.biletbayi.com/wp-content/uploads/2018/02/Plokkfiskur-768x512.jpg",
     
         "yemek2":"Plokkfiskur",
     
         "yemekBilgi2": "Ezilmiş balık anlamına gelen Plokkfiskur, üstüne sos dökülerek sıcak şekilde servis edilen bir yemektir. Mezgit balığından yapılan yemeği börülce ve patates püresiyle birlikte servis edilmektedir.",
     
-        "img6": "",
+        "img6": "https://blog.biletbayi.com/wp-content/uploads/2018/02/Randalin-768x576.jpg",
     
         "tatlı":"Randalin",
     
@@ -825,7 +825,7 @@
         "id":20,
         "title": "Japonya",
     
-        "img1": "",
+        "img1": "https://www.hisglobal.com.tr/assets/images/1577716354.jpg",
     
         "ulke": "Japonya, Doğu Asya'da bir ada ülkesidir. Büyük Okyanus'ta bulunan Japonya Japon Denizi'nden Çin, Kuzey Kore, Güney Kore ve Rusya'nın doğusuna, kuzeyde Ohotsk Denizi'nden güneyde Doğu Çin Denizi'ne ve Tayvan'a kadar uzanır. Japonca adını oluşturan kanji karakterler 'güneş' ve 'köken' anlamına gelir.",
     
@@ -841,27 +841,27 @@
         
         "gezilecekYerBilgi1":"Kuşkusuz Japonya denince, aklımıza ülkenin sembolü haline gelmiş Tokyo şehri gelir. Dünyanın en büyük yatırım bankalarına, sigorta şirketlerine ev sahipliği yapan şehir büyük bir finans merkezidir. Japonya’da eğitim almaya gelen öğrencilerin ilk tercih olan Tokyo’dayken özellikle Ueno Parkı’nı ziyaret etmenizi öneririz. Japon kültüründe önemli bir yere sahip olan 9000 kiraz ağacına ev sahipliği yapan Ueno Parkı, bahar aylarında açan sakura yani kiraz çiçekleri ile en popüler yerlerdendir.",
     
-        "img2": "",
+        "img2": "https://cdn.ytur.net/fit-in/697x465/filters:quality(100)/filters:format(webp)/post/ueno-parki-1-220326-105636-8683.jpg",
     
         "gezilecekYer2": "Arashiyama Bambu Ormanı",
     
         "gezilecekYerBilgi2": "Dünyanın en kültürel açıdan zengin şehirlerinden biri olan Kyoto; antik tapınakları, bahçeleri, tarihi sokakları ve hediyelik eşya dükkanları ile birçok gezgin için Japonya’nın en çok ziyaret edilen yerlerine sahiptir. Şehrin en güzel taraflarından biri, her yıl milyonlarca turisti ağırlayan ve filmlere konu olan Arashiyama bölgesinde yer alan Bambu ormanıdır. Yıl boyunca ziyaret edebileceğiniz, şehrin sokaklarının ve gürültüsünün dışında, büyüleyici ve masalsı bambu saplarının arasında kendinizi kaybedeceğiniz Arashiyama’yı ziyaret etmeyi unutmayın.  ",
     
-        "img3": "",
+        "img3": "https://www.gezgincift.com/wp-content/uploads/2016/06/japonya-bambu-orman%C4%B13.jpg",
     
-        "img4": "",
+        "img4": "https://www.hisglobal.com.tr/assets/images/uploads/1573730462.jpg",
     
         "yemek1":"Sushi",
     
         "yemekBilgi1": "Japonya tam bir ada ülkesi olduğundan deniz ürünlerinin yeri gerçekten de bir ayrı. Sushi de bir deniz ürünü olarak artık tüm dünyaya nam salmış durumda. Zaten Japon mutfağı denince akla gelen ilk yemek hiç şüphesiz sushi oluyordur. Dolayısıyla sushi yemeden Japonya’dan dönmeyin.",
     
-        "img5": "",
+        "img5": "https://www.hisglobal.com.tr/assets/images/uploads/1573730553.jpg",
     
         "yemek2":"Gohan",
     
         "yemekBilgi2": "Aslında bir nevi pirinç pilavı olan Gohan, Japonya’da günün her öğünü yenebilen oldukça jenerik bir yiyecek. Hatta Japonlar sabah kahvaltısında bunu çiğ yumurta ile yiyorlar. Soya sosu ya da Japonya’ya özgü diğer soslar ile karıştırıldığında ise ana yemek olarak yeniliyor. ",
     
-        "img6": "",
+        "img6": "https://supstranger.com/media/blog/japon-tatlilari.jpg",
     
         "tatlı":"Daifuku Mochi",
     
@@ -872,7 +872,7 @@
         "id":21,
         "title": "Kanada",
     
-        "img1": "",
+        "img1": "https://images.ctfassets.net/szez98lehkfm/1CoWaJT6zcOzo49y3F40Cq/1395454ca6596d47e4076acc08dc60d2/MyIC_Inline_73064",
     
         "ulke": "Kanada, Kuzey Amerika'da bir ülkedir. On eyalet ve üç bölgeden oluşan ülke, Büyük Okyanus'tan Atlas Okyanusu'na ve kuzeyde Arktik Okyanusu'na kadar 9,98 milyon km²'lik bir alanı kaplar. Bu özelliğiyle yüz ölçümü bakımından dünyanın Rusya'dan sonra en büyük 2. ülkesidir. ",
     
@@ -888,27 +888,27 @@
         
         "gezilecekYerBilgi1":"Toronto’nun ünlü simgesi olan 553 metrelik CN Kulesi, kentin en ilgi çekici yerlerinden biridir ve ıskalamanız imkansız. Kentte yükselen yapı, neredeyse her yerden görülebilir. 1972-1976 arası inşa edilen kule bir zamanlar dünyadaki en uzun yapıydı.",
     
-        "img2": "",
+        "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMOv4FjuzBBaMvHRCQHKApJeXtnkLIMODpZzkFwfMtXfEiMmehkoSdDjGDQOj3EfuLtZk&usqp=CAU",
     
         "gezilecekYer2": "Niagara Şelaleleri",
     
         "gezilecekYerBilgi2": "10.000 yıl önce Kuzey Kutbu’ndan gelen buz kütlelerinin yol açtığı çöküntülerle oluşan Niagara Şelaleleri, Kuzey Amerika’nın en büyük şelaleleri olmasının yanı sıra en etkileyici doğa güzelliği. ABD-Kanada sınırını çizen doğa harikası Niagara Şelaleleri, 3 büyük şelaleden oluşuyor: Horseshoe, American Falls ve Bridal Veils Fall. Şelaleler en güzel Kanada tarafından görülüyor. Altına kadar giden bot turları var. Tamamen ıslanarak müthiş bir deneyim yaşamak istiyorsanız, bu bot turlarını kaçırmamanızı öneririm. Şelalelerin yakınındaki Niagara-on-the-lake kasabası ise son derece turistik ve güzel bir yerleşim. Hatta bence Kuzey Amerika’da görüp görebileceğiniz en güzel ve en romantik kasaba burasıdır. Bölgede yer alan Niagara Bağ Rotası da ziyaret edilmesi gereken en önemli yerler arasında yer alıyor.",
     
-        "img3": "",
+        "img3": "https://res.cloudinary.com/turna/image/upload/v1582708714/Niagara-ABD_uxv5iw.jpg",
     
-        "img4": "",
+        "img4": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/peameal-bacon-220403-175232-0603.jpg",
     
         "yemek1":"Peameal Bacon",
     
         "yemekBilgi1": "Peameal bacon, bezelyeli domuz pastırması veya mısır unu pastırması olarak bilinen bir domuz eti filetosudur. Yağdan arındırılmış ve tütsülenmiş Peameal bacon, raf ömrünü uzatmak ve daha lezzetli hale getirmek için mısır ununa bulanmaktadır. Bu lezzet, Ontario eyaletinin başkenti olan Toronto’nun yöresel ürünlerinden biridir. Pastırma, dilimlenerek ızgarada kızartılmakta ve farklı öğünlerde tüketilmektedir. Peameal bacon, St. Lawrence Market adlı halk pazarından temin edilebilmektedir.",
     
-        "img5": "",
+        "img5": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/jiggs-dinner-220403-204415-0516.jpg",
     
         "yemek2":"Jiggs Dinner  ",
     
         "yemekBilgi2": "Ottava’nın yöresel lezzetleri arasında yer alan jiggs dinner, tuzlu biftek, sotelenmiş kabak, paprika biberi ve yanında servis edilen bezelye püresinden oluşan bir ana yemektir. Haşlanmış veya pişirilmiş “akşam yemeği” olarak da bilinmektedir. Oldukça şık bir sunuma sahip olan bu lezzet, yanında pancar, lahana ve hardal turşusu gibi aperatiflerle birlikte sunulmaktadır. Kentin yöresel bir lezzeti olan jiggs dinner, dünyanın dört bir yanından Ottava’ya giden turistler tarafından çoğu restoranda akşam yemeği için sıkça tercih edilmektedir. Jiggs dinner için gidilebilecek en ünlü mekanlar arasında Petit Bill's Bistro yer almaktadır.",
     
-        "img6": "",
+        "img6": "https://blog.biletbayi.com/wp-content/uploads/2018/02/Beaver-Tails-768x574.jpg",
     
         "tatlı":"BeaverTailsS",
     
@@ -919,7 +919,7 @@
         "id":22,
         "title": "Kenya",
     
-        "img1": "",
+        "img1": "https://media.istockphoto.com/id/637912692/photo/nairobi-cityscape-capital-city-of-kenya.jpg?s=612x612&w=0&k=20&c=S8wPNq9om-IMcapXFC030ew28nhpYCFYBStX5yxCQbs=",
     
         "ulke": "Kenya ya da resmî adı ile Kenya Cumhuriyeti, Afrika kıtasının doğu kısmında yer alan bir ülkedir. Ülkenin sınır komşularını Etiyopya, Somali, Tanzanya, bir kısmı Victoria Gölü ile olmak üzere Uganda ve Güney Sudan oluşturmaktadır. Bunun haricinde ülkenin güneydoğusunda Hint Okyanusu yer almaktadır.",
     
@@ -935,27 +935,27 @@
         
         "gezilecekYerBilgi1":"Kenya’nın ilk milli parkı olan Nairobi National Park, çeşitlendirilmiş vahşi yaşam popülasyonu ve ziyaretçilerine sunduğu çeşitli etkinlik olanaklarıyla Kenya’nın dikkati çeken turistik yerleri arasına girmiştir. Bunun yanında park, siyah gergedanların doğal ortamlarında gözlemlenebildiği nadir yerlerdendir. Kurulma aşamasında ve sonrasında halk tarafından desteklenmeyen park, şu an Nairobi halkının gözdesi haline gelmiştir.",
     
-        "img2": "",
+        "img2": "https://blog.biletbayi.com/wp-content/uploads/2017/12/Nairobi-National-Park-scaled.jpg",
     
-        "gezilecekYer2": "Nairobi Safari Walk",
+        "gezilecekYer2": "Diani Beach",
     
-        "gezilecekYerBilgi2": " Nairobi Safari Walk, ziyaretçilerine çeşitli hayvan türleri ile iç içe olacakları harika bir yürüyüş imkanı tanımaktadır. Yükseltilmiş tahta kaldırım boyunca farklı habitat arasında yapılan bu yürüyüş, doğayı gözlemleme ve keşfetme fırsatı sunmaktadır. Aynı zamanda alanda bitki ve hayvanlara dair farklı içerikli eğitimler de yapılmaktadır.",
+        "gezilecekYerBilgi2": " Hint Okyanusu kıyısında bulunana Diana Beach’i ziyaret ettiğinizde karşınızda muhteşem kumsallar ve harika deniz manzarası çıkıyor. Bembeyaz kumlar, palmiyeler ve turkuaz rengi sularıyla huzurun adresi olarak adlandırılan Diani Beach şehrin en çok ziyaret edilen noktalarından biri. Özellikle Kenya sıcaklarında serinlemek isterseniz bu sahili ziyaret etmenizi öneriyoruz.",
     
-        "img3": "",
+        "img3": "https://blog.biletbayi.com/wp-content/uploads/2017/12/beach-dinai-768x461.jpg",
     
-        "img4": "",
+        "img4": "https://blog.biletbayi.com/wp-content/uploads/2018/02/Ugali-768x574.jpg",
     
         "yemek1":"Ugali",
     
         "yemekBilgi1": "Bu şüphesiz Kenya'daki en popüler yemek. Bu, Kenya halkının temel beslenme şeklidir. Ilık suya eklenen ve yoğunlaşıncaya kadar ısıtılan mısır unu ile yapılır. Yemeğin kalın yoğun bir mısır unu ezmesi gibi görünüyor. Çanak ağır hamur kıvamındadır. Yerli halkın birkaç pişmiş sebze ya da soslu güveçle ugali yediği bilinmektedir. Onlar için normal bir yemek. Ancak, kesinlikle onların temel bir yemek denemelisiniz.",
     
-        "img5": "",
+        "img5": "https://iasbh.tmgrup.com.tr/2c47cb/812/467/0/389/1349/1165?u=http://i.tmgrup.com.tr/sfr/2013/09/09/Orjinal/475389378649.jpg",
     
         "yemek2":"Kenyalı Pilavı",
     
         "yemekBilgi2": "Bu Kenya'da denemek için en lezzetli yemeklerden biridir. Pişmiş pirincin, kakule, karanfil, kimyon ve tarçın gibi çeşitli baharatlarla birleştirilmesi, lezzet tomurcuklarınızı başka hiçbir şeye benzemez. Pirinç genellikle kokudur ve yemek için mükemmeldir. Birkaç dilim soğan ve domatesle birlikte bir çeşit et yahnisi ile tüketilir. Pirinçte kullanılan baharatlar eşsiz tadı veren şeydir. Kenya'da kalırken kolayca kaçıramayacağınız bir yemektir.",
     
-        "img6": "",
+        "img6": "https://blog.biletbayi.com/wp-content/uploads/2018/02/Chai-768x432.jpg",
     
         "tatlı":"Chai",
     
@@ -966,7 +966,7 @@
         "id":23,
         "title": "İngiltere",
     
-        "img1": "",
+        "img1": "https://gezievreni.com/wp-content/uploads/2017/02/Ingiltere-Gezi-Rehberi.jpg",
     
         "ulke": "İngiltere, Birleşik Krallık'ı meydana getiren dört ülkeden biridir. Batıda Galler ve kuzeyde İskoçya ile komşudur. Kuzeybatısında İrlanda Denizi, güneybatısında da Kelt Denizi bulunur. Ülkenin doğusunda, kıta Avrupası ile ayrıldığı yerde Kuzey Denizi; güneyinde ise Manş Denizi bulunur.",
     
@@ -982,27 +982,27 @@
         
         "gezilecekYerBilgi1":"Londra Kalesi, Londra'nın merkezinde, Thames Nehri'nin kuzey kıyısında bulunan tarihî bir kaledir. Londra Kulesi çoğu zaman 1078 yılında I. William tarafından yaptırılan Beyaz Kule adlı kulenin dörtgen biçimli yapısı ile tanınır; fakat kule birçok diğer bina, korunma duvarları ve hendeği ile bir komplekstir.",
     
-        "img2": "",
+        "img2": "https://www.muzebiletleri.com/wp-content/uploads/2019/08/Londra-Kalesi-Tower-of-London-Bileti-ve-Rehberi-1-1024x633.jpg",
     
         "gezilecekYer2": "Roma Hamamları Müzesi",
     
         "gezilecekYerBilgi2": "  İngiltere'nin Bath şehrinde yer alan, oldukça önemli kültürel ve tarihi değeri olan kompleks şeklinde bir yapıdır. Hamam günümüze kadar çok iyi şekilde korunmuş Roma kalıntılarından olup, halka açık banyo yapılabilen yerlerden birisi olmuştur.",
     
-        "img3": "",
+        "img3": "https://2.bp.blogspot.com/-YReu0OO8IIc/We0U0y7ze9I/AAAAAAAADag/FikKa2lT1ychT5WynTESQRKSHbIYJie-wCEwYBhgL/s1600/689px-Roman_Baths_in_Bath_Spa%25252C_England_-_July_2006.jpg",
     
-        "img4": "",
+        "img4": "https://i.lezzet.com.tr/images-xxlarge-recipe/fish-and-chips-e4e1406c-5b22-4832-85fb-53ca1b7b468b.jpg",
     
         "yemek1":"Fish And Chips",
     
         "yemekBilgi1": " Fish and chips yani kızarmış balık ve patates cipsi tüm dünyada ünlü bir tariftir. Londra'nın ünlü sokak lezzetlerinden biri olan tarif, balık filetosunun farklı malzemeler kullanılarak yapılan bir harç ile kaplanması ve ardından kızartılmasıyla hazırlanmaktadır. Altın sarısı rengine gelene kadar kızartılan patatesler de bu tarifin olmazsa olmazıdır. Fish and chips genellikle tartar sos eşliğinde servis edilmektedir. Poppies Restaurant, fish and chips konusunda ziyaretçilerin beğenisini en çok toplayan mekandır.",
     
-        "img5": "",
+        "img5": "https://refikaninmutfagi.com/wp-content/uploads/2012/09/Refika-Wellington.jpg",
     
         "yemek2":"Beef Wellington",
     
         "yemekBilgi2": "Sığır beef wellington için fileto biftek, ezme ile kaplanarak milföy hamuruna sarılmakta ve pişirilmektedir. The Hemingway, beef wellington ile ziyaretçilerin beğenilerini toplayan bir mekandır.",
     
-        "img6": "",
+        "img6": "https://img-s1.onedio.com/id-647086e130805e6aa224eae6/rev-0/w-600/h-300/f-jpg/s-70f5f0bd73ae92a2c9b7e2d98b24b3cbb123a67c.jpg",
     
         "tatlı":"Eton Trifle",
     
@@ -1013,7 +1013,7 @@
         "id":24,
         "title": "Irak",
     
-        "img1": "",
+        "img1": "https://setav.org/assets/uploads/2020/07/A325_DSGorsel-1132x600.jpg",
     
         "ulke": "Irak ya da resmî adıyla Irak Cumhuriyeti, Batı Asya'da bir ülkedir. Kuzeyde Türkiye, doğuda İran, güneydoğuda Kuveyt, güneyde Suudi Arabistan, güneybatıda Ürdün, batıda ise Suriye ile sınır komşusudur. Başkenti ve en büyük şehri Bağdat olan federal parlamenter cumhuriyet ile yönetilen bir ülkedir.",
     
@@ -1029,27 +1029,27 @@
         
         "gezilecekYerBilgi1":" Erbil’in en merkezi noktasına bulunana Erbil Kalesi, tüm zamanlar boyunca Erbil için önemli bir idari ve savunma noktası olmuştur. Şehrin en popüler turistik noktalarından biri olan Erbil Kalesi, 2014 yılında Dünya Mirası Listesi’ne girmeye hak kazanmıştır.Tarihinin MÖ 6000 yılına kadar dayandığı düşünülen kale, yerden 25 metre yüksekliğe oldukça büyük bir alana yapılmıştır. Bu alan içerisinde kalenin yanı sıra kullanılmakta olan 506 ev bulunmakta.",
     
-        "img2": "",
+        "img2": "https://cdnp.flypgs.com/files/Sehirler-long-tail/Erbil/erbil-shar-park.jpg",
     
         "gezilecekYer2": "Sami Abdulrahman Park",
     
         "gezilecekYerBilgi2": " Erbil’de görmeniz gereken yerlerden biri de Sami Abdulrahman Parkı.800 dönümlük büyük bir arazi üzerinde, birçok farklı faaliyete özel olarak tasarlanmış olan park içerisinde eğlenceli bir gün geçirebilirsiniz.Oyun alanları, futbol sahaları, restoranlar, kafeler ve yürüyüş parkurlarına sahip olan parkta ailecek vakit geçirebileceğiniz gibi tek başınıza da sıkılmadan vakit geçirebileceğiniz mekanlardan biridir. ",
     
-        "img3": "",
+        "img3": "https://media.safarway.com/content/5008613c-ccb6-4a1f-91d8-e73a60bbe5d5_sm.jpg",
     
-        "img4": "",
+        "img4": "https://blog.biletbayi.com/wp-content/uploads/2018/12/tepsi-kebabi-scaled.jpg",
     
         "yemek1":"Erbil Kebabı",
     
         "yemekBilgi1": "Patates, kıyma ve maydanozla hazırlanmış olan harç “Adana Kebabı” havasında çöp şişe yerleştirilir ve köfte gibi kızartılarak pişirilir. Orta yağlı kıyma ile yapılan bu eşsiz köfte şehri en çok tercih edilenleri arasında bulunuyor.",
     
-        "img5": "",
+        "img5": "https://gastromanya.com/wp-content/uploads/2016/09/583.png",
     
         "yemek2":"Biryani",
     
         "yemekBilgi2": " Erbil mutfağı içinde en çok tüketilen pilav türlerinin başında biryani gelmektedir. Bu pilavı bizim ülkemizde yapılan pilavlardan ayıran ise içine katılan diğer maddelerdir. Biryani hazırlanırken içine safran, bezelye ve patates de katılmakta ve bu da pilava ayrı bir lezzet katmaktadır.",
     
-        "img6": "",
+        "img6": "https://gastromanya.com/wp-content/uploads/2016/09/diyarbakir-kadayifi.gif",
     
         "tatlı":"Tel Kadayıf",
     
@@ -1060,7 +1060,7 @@
         "id":25,
         "title": "İran ",
     
-        "img1": "",
+        "img1": "https://cdn1.ntv.com.tr/gorsel/rZwQzl7fQ06NzfMyMTt_yg.jpg?width=952&height=540&mode=both&scale=both",
     
         "ulke": "İran veya resmî adıyla İran İslam Cumhuriyeti, Güneybatı Asya'da yer alan bir ülkedir. Güneyde Basra Körfezi ve Umman Körfezi, kuzeyde ise Hazar Denizi ile çevrilidir. Türkiye, Azerbaycan, Ermenistan, Irak, Pakistan, Afganistan ve Türkmenistan ile kara sınırına sahiptir. Başkenti Tahran'dır. Resmî dili Farsçadır.",
     
@@ -1076,27 +1076,27 @@
         
         "gezilecekYerBilgi1":" Milad Kulesi, İran’ın başkenti Tahran’da bulunmaktadır. İran’ın en yüksek binası olan Milad Kulesi, aynı zamanda şehrin simgesidir. Yapı aynı zamanda dünyanın 6. en yüksek kulesidir. 435 metre yüksekliğe sahip kulede 11 kat bulunmaktadır. Çok amaçlı olarak hizmet veren Milad Kulesi’nin içerisinde; seyir terası, kafeterya, yemek alanları, kütüphane ve ticaret merkezi yer almaktadır.",
     
-        "img2": "",
+        "img2": "https://cdn.ytur.net/fit-in/697x465/filters:quality(100)/filters:format(webp)/post/milad-kulesi-1-220329-165703-3638.jpg",
     
         "gezilecekYer2": "Şeyh Lütfullah Camii",
     
         "gezilecekYerBilgi2": "Şeyh Lütfullah Camii; İsfahan meydanında bulunan, inanç turizminin önemli noktalarından biridir. İçerisinde ve dışarısında ki duvarlarda mavi, sarı, yeşil ağırlıklı çini desenler ile kaplanmış, kubbesi sarı, pembe ağırlıklı oluşturulmuş tepe noktasında aynı mavi-yeşil çiniler ile bezenmiştir. İç kısmında yer alan darphane ve kervansaray, camini en dikkat çekici alanları arasında yer almaktadır. ",
     
-        "img3": "",
+        "img3": "https://cdn.ytur.net/fit-in/697x465/filters:quality(100)/filters:format(webp)/post/seyh-lutfullah-camii-220329-150118-1227.jpg",
     
-        "img4": "",
+        "img4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu6CVjs9hrHFaVnxoP5R7O_ITRYqaXl0sEqpSZSj8zqSZdGtDwdE8Hpn38CNVr3k2nnMQ&usqp=CAU",
     
         "yemek1":"Halim Bademjan",
     
         "yemekBilgi1": "İran’ın meşhur yemeği Kaleh Josh gibi hazırlanan halim bademjan, İsfahan şehrinin en ünlü yemeklerindendir. Et, pirinç, patlıcan, beyaz fasulye ve baharatlarla yapılan bu yemek; enerji deposu olarak bilinmekte ve özellikle ramazan ayında sık tüketilmektedir. Zengin protein içeren Halim bademjanı tatmak için Mah ve Bahtiyari Restoran tercih edilmektedir.",
     
-        "img5": "",
+        "img5": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/gheymeh-rizeh-220404-175051-0505.jpg",
     
         "yemek2":"Gheymeh Rizeh",
     
         "yemekBilgi2": "Gheymeh rizeh, İsfahan’ın ünlü geleneksel köftesidir. Şehrin neredeyse her restoran menüsünde bulunan bu eşsiz yemek, özellikle bakır tencerede pişirilmektedir. Domates ve soğanlı özel sosla harmanlanan köfteler; fesleğen, nane ve turp ile servis edilmektedir. İsfahan’da bu yemeği en lezzetli yapan mekan ise İmam Meydanı’nda bulunan Sofrekhaneh Sonnati’dir.",
     
-        "img6": "",
+        "img6": "https://i.pinimg.com/originals/81/5e/52/815e521b7ba38ddfe0bd103a2bed417d.jpg",
     
         "tatlı":"Dough And Gooshfil",
     
@@ -1107,7 +1107,7 @@
         "id":26,
         "title": "Kolombiya",
     
-        "img1": "",
+        "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRp0pdFxUUOhlz_m7rvZ_xR29ichU93sLjzpJRHTCOmYEX-NMVJHSNSelT8kp23EIuUro&usqp=CAU",
     
         "ulke": "Kolombiya, resmî adıyla Kolombiya Cumhuriyeti, Güney Amerika'da yer alan ve Kuzey Amerika'da adaları bulunan bir ülkedir. Kuzeybatıda Panama, kuzeyde Karayip Denizi, doğuda Venezuela ve Brezilya, güneyde Ekvador ve Peru ve batıda Büyük Okyanus ile çevrilidir.",
     
@@ -1123,27 +1123,27 @@
         
         "gezilecekYerBilgi1":"Kolombiya’nın başkenti Bogota’da bulunan Monserrate, şehir merkezinde yer alan bir dağdır. Monserrate, hem yerel hem de yabancı oldukça fazla ziyaretçi ağırlamaktadır. Şehrin bütün notalarından görülebilen Monserrate, en tepesinden konuklarına harika manzaralar izleme imkanı sağlamaktadır.",
     
-        "img2": "",
+        "img2": "https://cdn.ytur.net/fit-in/697x465/filters:quality(100)/filters:format(webp)/post/monserrate-dagi-1-220413-203927-3902.jpg",
     
         "gezilecekYer2": "Simon Bolivar Metropolitan Parkı",
     
         "gezilecekYerBilgi2": "Bogota şehrinin merkezinde bulunan Simon Bolivar Metropolitan Park, stratejik konumu itibariyle çok fazla tercih edilmektedir. Bir şehir parkı için oldukça işlevsel olan park, yabancı ziyaretçiler için de önemli bir eğlence merkezi olmuştur. Parkta muhteşem oyun alanları, devasa bir kütüphane, tekne kiralama imkanı, spor alanları ve daha pek çok seçenek bulunmaktadır. ",
     
-        "img3": "",
+        "img3": "https://img.itinari.com/activity/images/original/82757382-9a38-4bdf-aba3-54fb71bcc7e1-parque_simon_bolivar-2.jpg?ch=DPR&dpr=2.625&w=1200&h=800&s=08d0700a4aef1abf54fb809362c4797a",
     
-        "img4": "",
+        "img4": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/arepa-de-queso-220418-180831-7342.jpg",
     
         "yemek1":"Arepa de Queso",
     
         "yemekBilgi1": "Arepa de queso, queso fresco veya queso seco gibi peynirler kullanılarak hazırlanmaktadır. Tercihe göre tereyağı ve ekstra peynirle servis edilen arepa de queso sade olarak da yenebilmektedir. Genellikle sıcak çikolata ile eşliğinde tüketilen arepa de quesoyu denemek isteyenlere Quero Arepa adlı restoran tavsiye edilmektedir.",
     
-        "img5": "",
+        "img5": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/cazuela-de-mariscos-220418-180948-5781.jpg",
     
         "yemek2":"Cazuela de Mariscos",
     
         "yemekBilgi2": "Cazuela de Mariscos deniz mahsulleri ile hazırlanan bir güveçtir. Cazuela de mariscos genellikle karides, kalamar ve istiridye kullanılarak yapılmaktadır. Hindistan cevizi sütü ile pişirilen deniz mahsulleri Hindistan cevizli pirinç ve patacones ile servis edilmektedir. Porton de San Sebastian, cazuela de mariscos lezzetini denemek isteyenlere önerilen mekanlar arasında yer almaktadır.",
     
-        "img6": "",
+        "img6": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/mote-de-queso-220418-181641-0510.jpg",
     
         "tatlı":"Mote de Queso",
     
@@ -1154,7 +1154,7 @@
         "id":27,
         "title": "Tayland",
     
-        "img1": "",
+        "img1": "https://i4.hurimg.com/i/hurriyet/75/1110x740/5e15769067b0a92714b44642.jpg",
     
         "ulke": "Tayland, resmî adıyla Tayland Krallığı, eski adıyla Siyam, Hindiçin yarımadasının orta kısmında bulunan Güneydoğu Asya ülkesi. Batıda Myanmar, doğuda Kamboçya, kuzeyde Laos ve güneyde Malezya ile sınırları bulunmaktadır. Güney kısmında Tayland Körfezi, batı kısmında ise Andaman Denizi yer almaktadır.",
     
@@ -1170,27 +1170,27 @@
         
         "gezilecekYerBilgi1":"Şafak Tapınağı, 70 metre yüksekliğinde Budistlerin ibadet için turistlerin ise bu kültürü daha yakından görmek için ziyaret ettiği bir mekândır. Bu tapınak şafak vaktinde cam ve Çin porseleni ile kaplı olduğu için parlamaktadır. Turistlerin ziyaretlerinin en büyük nedeni bu parıltıyı görmektir.",
     
-        "img2": "",
+        "img2": "https://yoldaolmak.com/wp-content/uploads/2015/01/Bangkok-Wat-Arun.jpg",
     
         "gezilecekYer2": "National Gallery",
     
         "gezilecekYerBilgi2": " National Gallery, Tayland’da yer almaktadır. Ülkenin merkez şehri olan Bangkok’taki tarihi darphane binasında hizmete açılan National Gallery, 19 Nisan 1974 yılından beri hizmet vermektedir. Salı günleri dışında 09.00 ile 16.00 saatleri arasında ziyaret edilebilecek sanat merkezi için giriş ücreti 200 bath olarak belirlenmiştir. Galeride 17. yüzyıl itibariyle ülkedeki çalışmalar gerçekleştirilen sanatçıların sanat eserleri sergilenmektedir.",
     
-        "img3": "",
+        "img3": "https://www.shutterstock.com/image-photo/bangkok-thailand-feb-42023-siwamokhaphiman-260nw-2267092651.jpg",
     
-        "img4": "",
+        "img4": "https://i0.wp.com/www.angsarap.net/wp-content/uploads/2012/08/kway-tiew-nahm-sai.jpg?ssl=1",
     
         "yemek1":"Kuay Tiew",
     
         "yemekBilgi1": "Kuay tiew, Phi Phi Adası’nda en çok sevilen yemeklerden biridir. Temelinde noodle ile yapılan bu lezzetli yemek, tercihe göre farklı malzemelere hazırlanabilmektedir. Tavuktan domuza kadar farklı etler, fasulye gibi sebzeler kuay tiewe lezzet katmaktadır. Bunun yanı sıra ziyaretçilerin damak zevkine göre çorba kıvamında bir sos da kuay tiewe eklenmektedir. Bir nevi noodle çorbası olan kuay tiew, yaklaşık 5 dakika pişirilmekte ve hızlıca servis edilmektedir.",
     
-        "img5": "",
+        "img5": "https://media.istockphoto.com/id/622429560/photo/fried-hokkien-noodles-or-hokkien-mee-food-of-phuket-thailand.jpg?s=1024x1024&w=is&k=20&c=7RH2cT00vUO-KgKUD9j_OQ6ey2wNC1ZSg0Wh5QMfhJU=",
     
         "yemek2":"Hokkien Mee",
     
         "yemekBilgi2": "Geleneksel Phuket yemeklerinden biri olan hokkien mee, adanın en eşsiz yemekleri arasındadır. Hokkien mee; dilimlenmiş domuz eti, domuz yağı, karides ve lahana ile kızarmış yumurta bazlı buğday eriştelerinden yapılmaktadır. Genellikle yemek, dilimlenmiş taze soğan ve yanında kırmızı biber veya karides ezmesi ile servis edilmektedir. En lezzetli hokkien mee, eski şehir merkezindeki Tu Khab Kao’da tadılabilmektedir.",
     
-        "img6": "",
+        "img6": "data:image/jpeg;base64,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",
     
         "tatlı":"Khanom Bua Loi",
     
@@ -1201,7 +1201,7 @@
         "id":28,
         "title": "Madagaskar",
     
-        "img1": "",
+        "img1": "https://iasbh.tmgrup.com.tr/998d1a/650/344/0/0/1156/606?u=https://isbh.tmgrup.com.tr/sbh/2018/07/18/1531924063491.jpg",
     
         "ulke": "Madagaskar ya da resmî adıyla Madagaskar Cumhuriyeti, Afrika kıtasına bağlı bir ada ülke olup, kıtanın doğu kesiminde Hint Okyanusu'nun batı kısmında yer almaktadır. Mozambik Kanalı ülkeyi Afrika ana kıtası ile birbirinden ayırmaktadır. Madagaskar adası, dünyanın dördüncü büyük adasıdır.",
     
@@ -1217,27 +1217,27 @@
         
         "gezilecekYerBilgi1":" Tsingy de Bemaraha Strict Nature Reserve, karstik dağ manzaraları ve etkileyici kireçtaşı yaylaları ile ender bitki ve hayvan türlerine ev sahipliği yapan bir koruma alanıdır. İğne yapraklı ormanları, Manambolo nehrinin muhteşem kanyonu ve inişli çıkışlı tepeleri ile ziyaretçilere muhteşem bir manzara sunmaktadır.",
     
-        "img2": "",
+        "img2": "https://cdn.ytur.net/fit-in/697x465/filters:quality(100)/filters:format(webp)/post/tsingy-de-bemaraha-doga-koruma-alani-1-220406-051748-5759.jpg",
     
         "gezilecekYer2": "Baobablar Bulvarı",
     
         "gezilecekYerBilgi2": " Avenue of the Baobabs, Madagaskar’da bulunan ünlü bir toprak yoldur. Yolun 260 metrelik kısmı boyunca, boyları 30 metreye ulaşan 20 - 25 görkemli Baobab ağacı bulunmaktadır. Dünyanın en büyük ağacı olarak kabul edilen Baobab ağacının birçok örneğine ev sahipliği yapan Avenue of the Baobabs Madagaskar’ın en meşhur noktalarından biridir. ",
     
-        "img3": "",
+        "img3": "https://media.istockphoto.com/id/1189436408/tr/foto%C4%9Fraf/baobab-bulvar%C4%B1-madagaskar.jpg?s=612x612&w=0&k=20&c=wrqTDU3vUBqEku-CQCCWpTT36xR4taz04cn1TD2AXuM=",
     
-        "img4": "",
+        "img4": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/akoho-sy-voanio-220405-183708-6937.jpg",
     
         "yemek1":"Akoho sy voanio",
     
         "yemekBilgi1": " Akoho sy voanio, poulet au Coco adıyla da bilinen Madagaskar’a özgü bir tavuk yemeği tarifidir. Bu geleneksel Madagaskar tarifi tavuk parçaları, Hindistan cevizi sütü, domates, soğan, limon suyu, zencefil, sarımsak, kırmızı biber, karabiber ve tuz ile hazırlanmaktadır. Geleneksel olarak beyaz pirinç pilavı ile servis edilen akoho sy voanio, ülke genelinde özellikle Noel döneminde çok sık tüketilmektedir.",
     
-        "img5": "",
+        "img5": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/lasopy-220405-204426-1987.jpg",
     
         "yemek2":"Lasopy",
     
         "yemekBilgi2": " Lasopy, Madagaskar’ın geleneksel çorba tarifidir. Hem lezzetli olması hem de doyuruculuğu ile gönüllere taht kuran lasopy; şalgam, yeşil fasulye, domates, havuç, yeşil soğan, patates ve pırasa gibi sebzeler kullanılarak hazırlanmaktadır. Çorbaya esas lezzetini ise kemik suyu ve baharatlar vermektedir. Sıcak olarak bir parça baget ekmek ile servis edilen çorbanın sakay olarak bilinen baharatlı çeşni eşliğinde denenmesi önerilmektedir.",
     
-        "img6": "",
+        "img6": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/lasary-voatabia-220405-184047-4100.jpg",
     
         "tatlı":"Lasary Voatabia",
     
@@ -1248,7 +1248,7 @@
         "id":29,
         "title": "Meksika",
     
-        "img1": "",
+        "img1": "https://cazkolik.com/storage/gorseller/siyah-isanin-ulkesi-meksika-cazkolik-20200305_1140.jpeg",
     
         "ulke": "Meksika, resmî adıyla Birleşik Meksika Devletleri, Kuzey Amerika'nın güney yarısında yer alan federal cumhuriyet. Kuzeyde Amerika Birleşik Devletleri; güney ve batıda Büyük Okyanusu; güneydoğuda Guatemala, Belize ve Karayip Denizi; doğuda ise Meksika Körfezi ile komşudur.",
     
@@ -1264,27 +1264,27 @@
         
         "gezilecekYerBilgi1":"Chichen Itza, Yucatan yarımadasındaki en önemli antik Maya kentlerinden biri. Dünya Mirası listesinde yer alan bu tarihi yer, günümüzde resmen turist akınına uğruyor. En dikkat çekici özelliklerinden biri, “Kukulkan Piramidi” olarak da bilinen “El Castillo” adlı yapı.",
     
-        "img2": "",
+        "img2": "https://res.cloudinary.com/turna/image/upload/v1682362327/Chichen_itza_meksika.jpg",
     
         "gezilecekYer2": "Cobá",
     
         "gezilecekYerBilgi2": "Meksika’nın tarihi yerleri içinde Maya uygarlığından izler taşıyan tarihi bir yerleşim yeri olan Coba, ülkenin en çok turist çeken noktalarından. Quintana Roo’da bulunan Yucatán Yarımadası’nda konumlanan bu Maya şehri, arkeolojik gezilere ve tarihe meraklı gezginlerin gözdesi. ",
     
-        "img3": "",
+        "img3": "https://res.cloudinary.com/turna/image/upload/v1682362328/coba.jpg",
     
-        "img4": "",
+        "img4": "https://storage.googleapis.com/prodtkhstaticfiles/thy/content/blogtheme/meksika-yemekleri-fajita.jpg",
     
         "yemek1":"Fajita",
     
         "yemekBilgi1": "Fajita, Meksika mutfağı denilince ilk akla gelen yemeklerden biri. Neredeyse bütün ülke restoranlarının menülerinde bulunuyor. Fajita görüntüsü, kokusu ve tadı ile deneyenleri kendine hayran bırakıyor. Tavuk, dana veya balık eti kullanılarak yapılabiliyor. Fajita, Meksika mutfağının olmazsa olmazlarından biber çeşitleri ve diğer sebzeler eşliğinde pişiriliyor. Söz konusu Meksika mutfağı olunca baharatları da anmak gerekiyor. Fajita, genellikle Meksika mutfağında adı çokça geçen mısır unundan yapılan küçük lavaş şeklindeki ‘tortilla’ ile tüketiliyor. ",
     
-        "img5": "",
+        "img5": "https://storage.googleapis.com/prodtkhstaticfiles/thy/content/blogtheme/meksika-yemekleri-taco.jpg",
     
         "yemek2":"Taco",
     
         "yemekBilgi2": "Meksika’nın vazgeçilmez geleneksel lezzetlerinden biri olan taco, Avrupalılar Meksika’ya gelmeden çok öncesine ait bir yemek. Bu anlamda Meksika’nın yerli yemeği unvanını hak ediyor. Taconun ana malzemelerinden biri, meşhur tortilla ekmeği. Tercihe göre kıtır veya yumuşak yapılan tortilla, ikiye katlanarak içine et, peynir veya çeşitli sebzeler eklenerek hazırlanıyor. Pek çok şekilde yapılabilen taco, içinde bulunduğu malzemeye göre adlandırılıyor.",
     
-        "img6": "",
+        "img6": "https://i.lezzet.com.tr/images-xxlarge-recipe/elmali-puding-kremali-turta-2f44c3c6-b749-46be-a118-e95926ce9e8f.jpg",
     
         "tatlı":"Pay De Pera",
     
@@ -1295,7 +1295,7 @@
         "id":30,
         "title": "Mısır",
     
-        "img1": "",
+        "img1": "https://img-s2.onedio.com/id-61f1d7f002dc86b225877e51/rev-0/w-1200/h-676/f-jpg/s-98cdb34c7d3d77b31d55a95a47c700b8f8beb3ee.jpg",
     
         "ulke": "Mısır veya resmî adıyla Mısır Arap Cumhuriyeti, Afrika ile Asya kıtalarının kesişiminde yer alan bir ülkedir. Kuzey Afrika'nın nüfusu en büyük olan ülkesidir. Nüfusunun büyük bölümü Nil Nehri boyunca yerleşmiştir. Akdeniz ve Kızıldeniz'e kıyısı bulunan Mısır'ın, batısında Libya, güneyinde ise Sudan yer almaktadır.",
     
@@ -1311,27 +1311,27 @@
         
         "gezilecekYerBilgi1":"Sina Dağı, dünya dinlerinde kutsal kabul edilen ve Mısır’ın Sina Yarımadasında yer alan ünlü bir dağdır. Dağ hakkında birçok rivayet bulunmakla birlikte Kuran-ı Kerim ve Tevrat’ta direkt olarak bahsedildiği bilinmektedir. Sina Dağı, bölgede Aziz Katerina Dağı’ndan sonra en yüksek ikinci dağ konumunda bulunmaktadır.",
     
-        "img2": "",
+        "img2": "https://cdn.ytur.net/fit-in/517x344/filters:quality(100)/filters:format(webp)/post/sina-dagi-220401-161606-7079.jpg",
     
         "gezilecekYer2": "Amon Tapınağı",
     
         "gezilecekYerBilgi2": "Karnak ya da Amon-Ra Tapınağı olarak bilinen yapı hem kral hem de Güneş Tanrısı olarak kabul edilen Amon-Ra adına yaptırılmıştır. 1979 yılında UNESCO Dünya Mirası Listesine alınan bu tapınak birçok Mısır Firavununun tahta çıkış törenlerinin de yapıldığı alandır. ",
     
-        "img3": "",
+        "img3": "https://cdn.ytur.net/fit-in/517x344/filters:quality(100)/filters:format(webp)/post/amon-tapinagi-220402-092044-5371.jpg",
     
-        "img4": "",
+        "img4": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/feteer-meshaltet-220404-162512-6768.jpg",
     
         "yemek1":"Feteer Meshaltet",
     
         "yemekBilgi1": "Kahire mutfağının en eski yemeklerinden olan Feteer Meshaltet, Mısır İmparatorluğu zamanından kalma bir ekmek çeşididir. Katmere benzer şekilde yoğurulan ve katlanan hamurun içi lapa, dışı ise sert olarak pişirilmektedir. İçerisinde tercihe göre kıyma veya peynir bulunan Feteer Meshaltet ekmeği, üzerine pudra şekeri serpilerek, çilek ve muz gibi meyveler ile servis edilmektedir. Kahire kahvaltılarının vazgeçilmez lezzeti olan Feteer Meshaltet ekmeğinin en güzel yapıldığı yer, 3al 7aseera ve Desoky&Soda restoranlarıdır.",
     
-        "img5": "",
+        "img5": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/hawawshi-220404-163341-9188.jpg",
     
         "yemek2":"Hawawshi",
     
         "yemekBilgi2": "Kahire’nin geleneksel tatlarından olan Hawawshi; kıyma, soğan, maydanoz ve biberle doldurulan bir ekmektedir. İlk olarak 1971 yılında Kahireli kasap Ahmed al-Hawawsh tarafından yapılan Hawawshi ekmeği, kısa bir sürede Kahire’den tüm Mısır’a yayılan bir lezzet olmuştur. Günümüzde Kahire sokaklarındaki en beğenilen lezzetlerin başında gelen Hawawshi ekmeği, seyyar satıcılarda ve birçok restoranda satılmaktadır. Kahire şehrinde en lezzetli Hawawshi ekmeğinin yapıldığı yer, Hawawshi Al-Refaie restoranıdır.",
     
-        "img6": "",
+        "img6": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/umm-ali-220404-163110-1100.jpg",
     
         "tatlı":"Umm Ali",
     
@@ -1342,7 +1342,7 @@
         "id":31,
         "title": "Nepal",
     
-        "img1": "",
+        "img1": "https://i2.milimaj.com/i/milliyet/75/0x0/62972e5086b24717bc918f6e.jpg",
     
         "ulke": "Nepal, resmî adıyla Nepal Federal Demokratik Cumhuriyeti, Güney Asya'da bir ülkedir. Büyük bölümü Himalayaların eteklerinde, bir bölümü ise Hint-Ganj Ovası'nda konumlanmıştır. Dünyanın 49. en kalabalık ve 93. en geniş ülkesidir.",
     
@@ -1358,27 +1358,27 @@
         
         "gezilecekYerBilgi1":"Nepal’in Katmandu şehrinde bulunan Pashupatinath Tapınağı, Hindular için Nepal’deki en kutsal tapınaklardan biri olmaktadır. Sıra dışı ritüelleri, sadhularla tanışma imkanı ve manevi önemiyle ziyaretçilerin Nepal gezisinde gelmeyi tercih ettikleri ilk yerlerden biridir.",
     
-        "img2": "",
+        "img2": "https://cdn.ytur.net/fit-in/517x344/filters:quality(100)/filters:format(webp)/post/pashupatinath-tapinagi-220406-100046-7439.jpg",
     
         "gezilecekYer2": " Manaslu Dağı",
     
         "gezilecekYerBilgi2": "Nepal’in başkenti Katmandu’da bulunan Manaslu, 8,163 metrelik yüksekliğiyle Dünya’nın en yüksek sekizinci dağı olmaktadır. Manaslu’yu görmek için yapılan doğa yürüyüşlerinde ziyaretçiler dağın eşsiz manzarasını ve Tibetli Budistlerin kültürünü görme şansı yakalamaktadırlar. ",
     
-        "img3": "",
+        "img3": "https://cdn.ytur.net/fit-in/517x344/filters:quality(100)/filters:format(webp)/post/manaslu-dagi-220406-100515-3088.jpg",
     
-        "img4": "",
+        "img4": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/aloo-chop-220406-141512-2510.jpg",
     
         "yemek1":"Aloo Chop",
     
         "yemekBilgi1": "Katmandu’nun en çok tüketilen sokak yemeklerinden olan aloo cho, özellikle turistlerin çok sık tercih ettiği bir atıştırmalıktır. Her daim Katmandu sokaklarında hazır olarak bulunabilen aloo chop, patates ve et ile doldurularak kızartılan hamur işidir. Katmandu’da insanların gezinti esnasında tükettikleri bir yiyecek olan aloo chop, Tukche Thakali Kitchen isimli restoranda bulunmaktadır.",
     
-        "img5": "",
+        "img5": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/chatamari-220406-140512-2566.jpg",
     
         "yemek2":"Chatamari",
     
         "yemekBilgi2": "Chatamari, Katmandu’nun en çok tercih edilen sokak yemeklerinin başında gelmektedir. Görüntüsü pizzaya benzeyen chatamari, pirinç unu ve çeşitli soslarla hazırlanmaktadır. Yumurta veya et ile yapılan chatamari, doyurucu ve baharatlı bir yiyecektir. Katmandu’daki birçok yerde kolaylıkla bulunabilecek olan chatamari, Jhigu Bhoe Chhen isimli restoranda en lezzetli haliyle servis edilmektedir.",
     
-        "img6": "",
+        "img6": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/sel-roti-220406-141751-6928.jpg",
     
         "tatlı":"Sel Roti",
     
@@ -1389,7 +1389,7 @@
         "id":32,
         "title": "Nijerya",
     
-        "img1": "",
+        "img1": "https://magazinebbm.com/assets/img/uploads/2021/08/bundaran-hi4.jpg",
     
         "ulke": "Nijerya ya da resmî adı ile Nijerya Federal Cumhuriyeti, Afrika kıtasının batısında yer alan ülkedir. Ülkenin sınır komşularını Nijer, Çad, Kamerun ve Benin oluştururken, ülkenin güneyinde Gine Körfezi içerisinde yer alan Benin Körfezi yer almaktadır. Ülkenin başkenti Abuja'dır.",
     
@@ -1405,27 +1405,27 @@
         
         "gezilecekYerBilgi1":"Hafta içi her gün 24 saat açık olan Elegushi Royal Beach Lekki Lagos sahip olduğu imkanlar ile bölge turistlerine Nijerya’da unutulmayacak bir tatil sunmaktadır. Bu özel plaj ev sahipliği yaptığı birçok aktivite imkanı ile ziyaretçilerine mükemmel anlar yaşatmaktadır. Plajda bulunan birçok kaliteli restoran ve gece kulübü burayı ziyaretçiler için özellikle tercih sebebi haline getirmektedir.",
     
-        "img2": "",
+        "img2": "https://i0.wp.com/www.travelwaka.com/wp-content/uploads/2020/09/starguard-135-Copy.jpg?fit=1361%2C908&ssl=1",
     
         "gezilecekYer2": "Kanu Ndubuisi Parkı",
     
         "gezilecekYerBilgi2": "Nijerya’nın Lagos şehrinde yer alan Ndubuisi Kanu Park Oregun Lagos, ülkenin ünlü parklarından biridir. Yıl boyunca çok sayıda ziyaretçiye ev sahipliği yapan park, çocuklar için eğlenceli oyun alanlarına sahiptir. Pek çok spor aktivitesinin de yapılabileceği ünlü cazibe merkezi, her yaştan ziyaretçiyi kendisine hayran bırakmaktadır. ",
     
-        "img3": "",
+        "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/01/48/0b/i-am-the-first-one-to.jpg?w=1000&h=600&s=1",
     
-        "img4": "",
+        "img4": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/ewa-aganyin-220406-175725-2752.jpg",
     
         "yemek1":"Ewa Aganyin",
     
         "yemekBilgi1": " Ewa aganyin, Nijerya’da oldukça popüler olan bir sokak yemeğidir. Nijerya’nın yerel halkı Yorubaların evlerinden eksik olmayan ewa aganyinin ana malzemesi ise fasulyedir. Püre haline gelene kadar pişirilen fasulyeler, farklı baharatlarla lezzetlendirilen domates sosu ile buluşturulmakta ve ortaya ewa aganyin gibi eşsiz bir lezzet çıkmaktadır. Halk arasında “Ewa G” olarak da bilinen bu lezzetli yemeğin içinde ayrıca hurma yağı, soğan ve kerevit de bulunmaktadır. Bu yöresel yemeğin Lagos’ta tadılabileceği en meşhur restoran ise Amoke ewa agoyin Special’dir.",
     
-        "img5": "",
+        "img5": "https://blog.biletbayi.com/wp-content/uploads/2019/03/Akara-1-768x480.jpg",
     
         "yemek2":"Akara",
     
         "yemekBilgi2": "Fasulye pürelerinden kek! Eğer akarayı en kısa bir şekilde tarif etmemiz isteselerdi en açık böyle anlatırdık galiba. En ideal geleneksel Nijerya kahvaltı menüsü olan akaralar kesinlikle bir kahvaltıda denenmesi gereken bir lezzet. Bu kekler tabi ki sadece kahvaltılarda değil, günün her saatinde tüketilebilmektedir. Bu lezzetli kahvaltılık Kano mutfağı içinde de önemli bir yere sahiptir.",
     
-        "img6": "",
+        "img6": "https://blog.biletbayi.com/wp-content/uploads/2019/03/Zobo-1-1068x601.jpg",
     
         "tatlı":"Zobo",
     
@@ -1436,7 +1436,7 @@
         "id":33,
         "title": "Peru",
     
-        "img1": "",
+        "img1": "https://cdn1.ntv.com.tr/gorsel/WV9OS0L6N0S6Yr3mAfiX5w.jpg?width=1000&mode=crop&scale=both",
     
         "ulke": "Peru, ya da resmî adıyla Peru Cumhuriyeti Güney Amerika'nın batısında bir ülkedir. Kuzeyde Ekvador ve Kolombiya, doğuda Brezilya, güneydoğuda Bolivya, güneyde Şili ve batıda Büyük Okyanus'la sınırlıdır.",
     
@@ -1452,27 +1452,27 @@
         
         "gezilecekYerBilgi1":"Güney Amerika’nın en büyük gölü olan Titicaca, Bolivya ve Peru arasında, And Dağları’nın Altiplano adlı platosunda yer almaktadır. Zengin faunası, eşsiz manzarası ve rengarenk kıyafetleri ile ünlü yerel halkı ile doğa severlerin Puno’daki uğrak noktalarından biridir. İlginç efsaneleri ünlü olan Titicaca, yıl boyunca Peru’da birçok turiste ve ziyaretçiye ev sahipliği yapmaktadır.",
     
-        "img2": "",
+        "img2": "https://goller.gen.tr/images/titicaca-golu.jpg",
     
         "gezilecekYer2": "Gökkuşağı Dağı Cusco",
     
         "gezilecekYerBilgi2": " Vinicunca, Peru’nun Cusco şehrinde yer alan küresel ısınma sonucunda eriyen karlardan dolayı 2015 yılında keşfedilen ünlü bir dağdır. National Geographic’in “Ölmeden Önce Ziyaret Edilecek En İyi 100 Yer” listesinde yer almasıyla popülaritesini iyice artırmıştır. Dağ, yıllar içinde karın altında biriken minareler sayesinde gökkuşağı renklerine sahiptir. Aynı zamanda 5.200 metre yüksekliğe sahip olduğundan dolayı eşsiz bir manzarayı da ziyaretçilerinin ayaklarının altına sermektedir. ",
     
-        "img3": "",
+        "img3": "https://s3.eu-central-1.amazonaws.com/dogrulukpayi/verification/fotografin-peru-daki-gokkusagi-dagi-ni-gosterdigi-iddiasi.jpg",
     
-        "img4": "",
+        "img4": "https://i.blogs.es/5620ff/lomo-saltado-dap/840_560.jpg",
     
         "yemek1":"Lomo Saltado",
     
         "yemekBilgi1": " Lomo saltado, marine edilmiş sığır filetosunun tavada kızartılması ile hazırlanmaktadır. Dana bonfile dilimlerinden de yapılan farklı tarifleri mevcuttur. Tarifte kullanılan değişmez belli başlı malzemelerden bazıları soğan ve sarı Peru biberidir. Genelde patates kızartması ve pilav ile servis edilmekte, birçok restoranda bulunabilmektedir. Bu tarifin doğru yapıldığı ve en meşhur restoran ise Tanta olarak öne çıkmaktadır.",
     
-        "img5": "",
+        "img5": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/cuy-al-horno-220416-230210-6768.jpg",
     
         "yemek2":"Cuy al Horno",
     
         "yemekBilgi2": "Cuy al horno sarımsak, tuz, kimyon, biber, yağ ve hutacay ile marine edilerek yapılan bir domuz eti yemeğidir. Marine edildikten sonra patates ile dolu bir tavaya alınarak bir saat kadar pişirilmektedir. Salsa sos ile servis edilen bu tarifin güzel yapıldığı en meşhur restoran ise Sumaqcha isimli mekandır.",
     
-        "img6": "",
+        "img6": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/pisco-sour-220416-231836-2970.jpg",
     
         "tatlı":" Pisco Sour",
     
@@ -1483,7 +1483,7 @@
         "id":34,
         "title": "Romanya",
     
-        "img1": "",
+        "img1": "https://mediap.flypgs.com/awh/1254/836//files/Sehirler-long-tail/Bukres/bukres-gezi-rehberi.jpg",
     
         "ulke": "Romanya Orta, Doğu ve Güneydoğu Avrupa'nın kesişim noktasında bulunan bir ülkedir. Kuzey ve kuzeydoğuda Ukrayna, kuzeydoğuda Moldova, kuzeybatıda Macaristan, güneybatıda Sırbistan, güneyde Bulgaristan ve doğuda Karadeniz ile çevrilidir.",
     
@@ -1499,27 +1499,27 @@
         
         "gezilecekYerBilgi1":"Rumen Köyü’nün bir parçası haline gelen Voronet Manastırı, Orta Çağ’dan günümüze kadar gelen ülkenin önemli dini yapılarından biridir. 1488 yılında inşa edilen manastır, Boğdan’da Dünya Kiliseler Mirası’nı oluşturan 8 kiliseden biri konumunda… Ülkeye gelen turistlerin ziyaret ettiği gezi noktalarından biri olan manastırı, seyahat listenize eklemenizde fayda var.",
     
-        "img2": "",
+        "img2": "https://media.istockphoto.com/id/1309292431/tr/foto%C4%9Fraf/voronet-manast%C4%B1r%C4%B1-romanya.jpg?s=612x612&w=0&k=20&c=RjDVvSKqqSFN7lMULo6DUdg0NrU2rZwezcFVTRUcfd4=",
     
         "gezilecekYer2": "Bran Kalesi",
     
         "gezilecekYerBilgi2": "Romanya’nın ulusal anıtlarından biri kabul edilen Bran Kalesi, ülkenin en meşhur kalesi. Sebebi ise yazar Bram Stoker’in hayali karakteri olan Kont Drakula’nın evi olması. ‘’Drakula’nın Kalesi’’ olarak bilinen yapı şehrin en çok turist ağırlayan noktalarından biri aynı zamanda Eski dönemde Osmanlılara karşı savunma amaçlı inşa edilen kale, günümüzde şehrin en ihtişamlı yapılarından biri aynı zamanda. Bu muhteşem yapının içerisinde ise turistlere açık bir müze yer alıyor. Müzede ise Kraliçe Marie’nin mobilya ve sanat eserlerinden oluşan özel bir koleksiyonunu gözlemleme şansı elde edebilirsiniz.",
     
-        "img3": "",
+        "img3": "https://i4.hurimg.com/i/hurriyet/75/1200x675/5c6e5fb5c03c0e51e8940822.jpg",
     
-        "img4": "",
+        "img4": "https://blog.biletbayi.com/wp-content/uploads/2018/02/sarmale.jpg",
     
         "yemek1":"Bükreş Sarmale",
     
         "yemekBilgi1": "Sarma veya dolma olarak adlandırılan yiyeceğin birçok ülkede yapılması nedeniyle kökeni tartışılsa da Bükreş sarmasının içeriği bölgeye özgüdür. Lahana yaprağından yapılan Bükreş sarmale, bölgede daha yaygın olduğu için domuz eti eklenen bir harçla pişirilmektedir. Bükreş bölgesine özgü enfes soslarla sunulan sarmale, Vatra Restoran’ın menüsünde bulunan favori yemeklerden biridir.",
     
-        "img5": "",
+        "img5": "https://ceaunulrazesului.ro/wp-content/uploads/2020/11/fasole-cu-carnati.png",
     
         "yemek2":"Fasole cu Carnati",
     
         "yemekBilgi2": "Bükreş şehrinde ordu aşçıları tarafından yapılan ve yerel bir lezzet haline gelen fasole cu carnati, sosisli fasulye yemeğidir. Bol soslu ve baharatlı fasulye yemeğinin üzerine genellikle domuz etinden yapılan sosisler eklenmektedir. Doyurucu ve yöresel lezzetler arasında turistlerin sıklıkla denemek istedikleri fasole cu carnati, Restaurant La Nuci adlı mekanda tadılabilmektedir.",
     
-        "img6": "",
+        "img6": "https://cdn.tasteatlas.com//images/dishes/8c5129d78e99465dbc26c1719cdb95ea.jpg?width=320&height=205",
     
         "tatlı":"Joffre Kek",
     
@@ -1530,7 +1530,7 @@
         "id":35,
         "title": "Rusya",
     
-        "img1": "",
+        "img1": "https://orbisedu.com.tr/images/spot_resim/buyuk/TtWOyWecJu-84-phpThumb-generated-thumbnail-jpeg.jpg",
     
         "ulke": "Kuzeybatıdan güneydoğuya Rusya; Norveç, Finlandiya, Estonya, Letonya, Litvanya, Polonya, Belarus, Ukrayna, Gürcistan, Azerbaycan, Kazakistan, Çin, Moğolistan ve Kuzey Kore ile komşudur.",
     
@@ -1546,27 +1546,27 @@
         
         "gezilecekYerBilgi1":"Rusya’nın kalbi olarak nitelendirilen Kızıl Meydan, şehrin en önemli meydanıdır. Özel etkinliklerde yerli ve yabancı turistlerin buluşma noktası olan bu meydandaki önemli yapılar, meydanı daha da değerli bir hale getirmektedir. Özellikle meydanda bulunan Aziz Vasil Katedrali ve Kremlin Sarayı, UNESCO Dünya Mirasları listesinde de yer aldığından dolayı sayısız ziyaretçinin bu meydanı ziyaret etmesini sağlamaktadır.",
     
-        "img2": "",
+        "img2": "https://cdn.ytur.net/fit-in/697x465/filters:quality(100)/filters:format(webp)/post/kizil-meydan-1-220415-052818-6265.jpg",
     
         "gezilecekYer2": "Ermitaj Müzesi",
     
         "gezilecekYerBilgi2": " Rusya’nın Sankt-Petersburg şehrinde yer alan Ermitaj Müzesi, dünyadaki en önemli müzelerden biridir. Müzeyi gezenlerin, kendilerini 1760’lı yılların İmparatorluk ruhunu hissettiren muhteşem bir yapıda hissedecekleri söylenebilmektedir. Ayrıca müze, en büyük resim koleksiyonuna sahiptir. Harika zaman geçirmek isteyenler için en uygun mekânlar arasında yer almaktadır.",
     
-        "img3": "",
+        "img3": "https://gezimanya.com/sites/default/files/styles/800x600_/public/gezilecek-yerler/2020-01/hermitage-museum1.jpg",
     
-        "img4": "",
+        "img4": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/leningradsky-rassolnik-220525-170332-8405.jpg",
     
         "yemek1":"Leningradsky Rassolnik",
     
         "yemekBilgi1": "Leningradsky rassolnik, St. Petersburg’a özgü geleneksel bir çorbadır. Bu çorbaya kendine özgü tat veren bir malzeme varsa o da turşudur. St. Petersburg’un eski adı Leningrad olduğu için çorba da zamanla bu isimle anılmaya başlanmıştır. Sırf bu ilginç bilgi sebebiyle dahi çorbanın tadına bakmak isteyen turist sayısı oldukça fazladır. Leningradsky rassolnikin denenebileceği en güzel mekân Public Cafe’dir.",
     
-        "img5": "",
+        "img5": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/zharkoe-220417-165310-4348.jpg",
     
         "yemek2":" Zharkoe",
     
         "yemekBilgi2": "Zharkoe; dana, tavuk, domuz veya kuzu etinden yapılan içerisine patates eklenerek pişirilen bir yahnidir. Soğuk St. Petersburg akşamlarının vazgeçilmez yemeği olan zharkoenin yanında genellikle kırmızı şarap tüketilmektedir. İsteğe göre tavuk ya da domuz eti eklenmeden de hazırlanabilmektedir. Denenebilecek en güzel mekânlardan biri ise Bloody Mary Bar& Grill adlı restorandır.",
     
-        "img6": "",
+        "img6": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/morozhenoe-220417-165059-1120.jpg",
     
         "tatlı":"Morozhenoe",
     
@@ -1577,7 +1577,7 @@
         "id":36,
         "title": "Singapur",
     
-        "img1": "",
+        "img1": "https://images.ctfassets.net/szez98lehkfm/74NHBt1bEomZxtdqZaB7BK/8db9da9c1a06ebdb481a2d2368abc86b/MyIC_Inline_11132",
     
         "ulke": "Singapur, resmî adıyla Singapur Cumhuriyeti, Güneydoğu Asya'da bir ada ülkesi ve şehir devletidir. Ekvatorun 1 derece kuzeyinde, Malay Yarımadası'nın güney ucunda yer alan ülke batıda Malakka Boğazı, güneyde Endonezya'ya bağlı Riau Adaları ve doğuda Güney Çin Denizi ile çevrilidir.",
     
@@ -1593,27 +1593,27 @@
         
         "gezilecekYerBilgi1":"Singapur’da yer alan ve 2012 yılında açılmış olan Gardens by the Bay, ülkenin en popüler bahçe destinasyonudur. Bahçe içerisinde; Bulut Ormanı, Flower Dome, Supertree Korusu ve Floral Fantasy başta olmak üzere birçok tematik alan bulunmaktadır. Bahçenin bazı bölümleri ise ücretsiz bir şekilde gezilebilmektedir.",
     
-        "img2": "",
+        "img2": "https://cdn.ytur.net/fit-in/697x465/filters:quality(100)/filters:format(webp)/post/kiyidaki-bahceler-singapur-220414-063546-6641.jpg",
     
         "gezilecekYer2": "Singapur Botanik Bahçeleri",
     
         "gezilecekYerBilgi2": " Singapur’da yer alan ünlü Singapur Botanik Bahçeleri, 1859 yılında Tarım-Bahçıvanlık Derneği tarafından kurulmuştur. Günümüzde UNESCO tarafından dünya mirası olarak kabul edilen bahçe, farklı temaları içeren pek çok bölgeye ayrılmıştır. 82 hektarlık geniş bir araziye sahip olan bahçe içerisinde, müze ve sergiler de bulunmaktadır.",
     
-        "img3": "",
+        "img3": "https://i.ytimg.com/vi/3HfvaDxeilM/maxresdefault.jpg",
     
-        "img4": "",
+        "img4": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/chilli-crab-220414-203408-9731.jpg",
     
         "yemek1":"Chilli Crab",
     
         "yemekBilgi1": "Singapur’da sokak yemeği olarak da sıkça tüketilen chilli crab, lezzet patlaması yaşatan özel bir tarifle hazırlanmaktadır. Biber, domates püresi, sarımsak, karides ezmesi, et suyu, soya sosu ve sirke gibi çeşitli malzemeleri içeren bir sosla pişirilen taze yengeçler; kişniş ile süslenerek servis edilmektedir. Mellben Seafood gibi başarılı restoranlarda, yoğun aromaya sahip chilli crab lezzeti denenebilmektedir.",
     
-        "img5": "",
+        "img5": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/fish-head-curry-220414-204613-1986.jpg",
     
         "yemek2":"Fish Head Curry",
     
         "yemekBilgi2": "Singapur’a giden turistlerin büyük bir merakla tadına baktığı fish head curry, artık balık kafalarının değerlendirilmesini sağlayan özel bir tariftir. Temizlenmiş balık kafaları; Hindistan cevizi kreması, domates, köri, sarımsak, biber, kişniş, zerdeçal, kimyon ve demirhindi gibi malzemelerle birlikte pişirilmektedir. Muthu’s Curry adlı restoranı ziyaret eden turistler, fish head curry lezzetini tadabilmektedir.",
     
-        "img6": "",
+        "img6": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/singapore-sling-220414-205110-9127.jpg",
     
         "tatlı":"Singapore Sling",
     
@@ -1624,7 +1624,7 @@
         "id":37,
         "title": "Sudan",
     
-        "img1": "",
+        "img1": "https://www.birucak.com/assets/Dosyalar/Resimler/10.10.2017/Diger/hartum2.jpg",
     
         "ulke": "Sudan ya da resmî adıyla Sudan Cumhuriyeti, Kuzey Doğu Afrika'da bir ülkedir. Başkenti Hartum, en yüksek nüfuslu şehri Omdurman'dır. Sudan kuzeyden Mısır, kuzey doğudan Kızıldeniz, doğudan Etiyopya ve Eritre, güneyden Güney Sudan, batıdan Orta Afrika Cumhuriyeti ve Çad, kuzey batıdan da Libya'yla çevrilidir.",
     
@@ -1640,27 +1640,27 @@
         
         "gezilecekYerBilgi1":"Cumhurbaşkanlığı Saray Müzesi’nde, Sudan’ın idari ve siyasi tarihi hakkında pek çok parça yanında diğer ülkelerden gelen hediyeler de sergileniyor. 2000 yılında açılan müze, önceleri Anglikan Kilisesi olarak hizmet veriyordu. Müze çarşamba, cuma ve pazar günleri saat 9.00-13.00 arası ziyaret edebilir.",
     
-        "img2": "",
+        "img2": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1484000/ankara-muze-1484862.jpg",
     
         "gezilecekYer2": "Gebel Barkal",
     
         "gezilecekYerBilgi2": " Ülkenin kuzeyinde konumlanan Karima kasabasında yer alan küçük bir dağ olan Gebel Barkal, bir dönem kraliyet mezarlığı olarak kullanılan pek çok piramit yapısına da ev sahipliği yapıyor. Tarihi ve kültürel gezilere meraklı olan gezginler, bu bölgeyi mutlaka görmeli.",
     
-        "img3": "",
+        "img3": "https://discoversudan.de/sites/default/files/styles/wide_breakpoints_theme_sudan_sm_1x/public/gebel_barkal.jpg?itok=gUDzicy6",
     
-        "img4": "",
+        "img4": "https://blog.biletbayi.com/wp-content/uploads/2018/02/Aseeda-sudan-768x432.jpg",
     
         "yemek1":"Aseeda",
     
         "yemekBilgi1": "Mayalanmış hamurun tuzlu suda haşlanmasıyla yapılan Aseeda, ülkede sıklıkla tüketilen yemeklerin başında sayılabilir. Cezayir, Libya ve Tunus gibi ülkelerinde önemli yemeklerinden sayılan bu lezzet, size biraz ağır gelebilir ama damak tadımıza çok da uzak değil. Kolay hazırlanan bir yemek olduğu için bölgede genellikle kahvaltılarda tüketiliyor.",
     
-        "img5": "",
+        "img5": "https://blog.biletbayi.com/wp-content/uploads/2018/02/Bamia-768x432.jpg",
     
         "yemek2":"Bamia",
     
         "yemekBilgi2": "Kuzu etli bamya yemeği olan Bamia, Sudan sofralarına konuk olan lezzetlerden bir diğeri. Ana yemek olarak bolca tükettikleri bamyayı, kuzu etinin yanında soğan, sarımsak ve zeytinyağı gibi, tıpkı bizim yaptığımız şekilde, eklemelerle tatlandırıyorlar.",
     
-        "img6": "",
+        "img6": "https://blog.biletbayi.com/wp-content/uploads/2018/02/Susamli-768x576.jpg",
     
         "tatlı":"Susam Şekeri",
     
@@ -1671,7 +1671,7 @@
         "id":38,
         "title": "Suddi Arabistan",
     
-        "img1": "",
+        "img1": "https://www.turizmgunlugu.com/wp-content/uploads/2019/09/suudi-arabistan-mekke-696x398.jpeg",
     
         "ulke": "Suudi Arabistan ya da resmî adıyla Suudi Arabistan Krallığı, Arap Yarımadası'nda bulunan en büyük ülkedir. Kuzeybatı'da Ürdün, kuzey ve kuzeydoğu'da Irak, doğuda Kuveyt, Katar, Bahreyn ve Birleşik Arap Emirlikleri, güneydoğuda Umman, güneyde Yemen, kuzeydoğusunda Basra Körfezi ve batısında Kızıldeniz ile çevrilidir.        ",
     
@@ -1687,27 +1687,27 @@
         
         "gezilecekYerBilgi1":"Mescid-i Haram, Suudi Arabistan’ın Mekke şehrinde yer almaktadır. 634-644 yılları arasında Halife Ömer İbn el-Hattab tarafından inşa ettirilmiştir. Cami avlusunda Müslümanların hac ziyaretinin en önemli noktası olan Kâbe ve zemzem kuyusu yer almaktadır. Cami, 88,2 dönüm alanı ve 1,2 milyon kapasitesi ile dünyanın en büyük ve kutsal camisi olarak anılmaktadır.",
     
-        "img2": "",
+        "img2": "https://cdnuploads.aa.com.tr/uploads/Contents/2023/04/03/thumbs_b_c_62380d5cc99df16267bbdf17c64286ee.jpg?v=180024",
     
         "gezilecekYer2": "Arafat Dağı",
     
         "gezilecekYerBilgi2": "Arafat Dağı, Suudi Arabistan’ın Mekke şehrinde yer almaktadır. Hac ziyaretinde bulunan Müslümanların dokuzuncu günde Arafat Dağı’na giderek ibadet etmeleri ve tüm günü burada geçirmeleri zorunludur. Aksi takdirde, Hz. Muhammed’in “Hac, Arafat’tır” sözünden de anlaşılacağı üzere kişilerin hacları kabul edilmeyecektir. Ayrıca dağda dua eden Müslümanların tüm günahlarının silindiğine inanılmaktadır.        ",
     
-        "img3": "",
+        "img3": "https://cdn.ytur.net/fit-in/697x465/filters:quality(100)/filters:format(webp)/post/arafat-dagi-1-220404-095519-0379.jpg",
     
-        "img4": "",
+        "img4": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/shikamba-220406-141348-3607.jpg",
     
         "yemek1":"Shikamba",
     
         "yemekBilgi1": "Shikamba, kuzu etinden yapılan köfteler ve krema ile hazırlanan geleneksel bir Suudi Arabistan çorbasıdır. Çorbanın içerisinde ayrıca biraz tavuk suyu, domates, defne yaprağı, kişniş, sarımsak ve biber gibi farklı malzemeler de bulunmaktadır. Bu lezzetli tarif aynı zamanda ana yemek olarak da tüketilmekte ve yerel halk tarafından genellikle öğle yemeklerinde tercih edilmektedir. Shikamba, Mekke’de yer alan pek çok restoranda tadılabilmektedir.",
     
-        "img5": "",
+        "img5": "https://blog.biletbayi.com/wp-content/uploads/2018/11/Nejdi-Kabsa-scaled.jpg",
     
         "yemek2":"Nejda Kabsa",
     
         "yemekBilgi2": "Suudi Arabistan yemekleri içinde belki de en önemlilerinden olan nejdi kabsa ülkenin milli yemeği olarak kabul edilmektedir. Fıstıklı ya da kajulu bir tepsi pilavın üzerinde kızarmış etlerin konmasıyla hazırlanan nejdi kabsa pek çok yemek gibi elle tüketilmektedir.",
     
-        "img6": "",
+        "img6": "https://blog.biletbayi.com/wp-content/uploads/2018/11/Masoob-scaled.jpg",
     
         "tatlı":"Masoob",
     
@@ -1718,7 +1718,7 @@
         "id":39,
         "title": "Tanzanya",
     
-        "img1": "",
+        "img1": "https://icturkiye.com.tr/wp-content/uploads/2023/05/Darusselam-Tanzanya.jpg",
     
         "ulke": " Tanzanya, resmî adıyla Tanzanya Birleşik Cumhuriyeti, Doğu Afrika'da bir ülkedir. Afrika Büyük Gölleri bölgesinde yer alır. Ülke kuzeybatıda Kenya; kuzeyde Uganda; batıda Ruanda, Burundi ve Kongo Demokratik Cumhuriyeti; güneybatıda Zambiya; güneyde ise Malavi ve Mozambik ile komşudur.",
     
@@ -1734,27 +1734,27 @@
         
         "gezilecekYerBilgi1":"Tanzanya’da bulunan Kilimanjaro Dağı Afrika’nın en yüksek dağıdır. Ayrıca kıtanı tek kar alan noktası olan Kilimanjaro eşsiz doğasıyla Afrika’ya özgü birçok bitki ve hayvan türüne ev sahipliği yapmaktadır. Jeolojik yapısı itibariyle yürüyüş, tırmanış ve bisiklet sürme gibi aktivitelerin yapılabileceği dağ, turistlerde hayranlık uyandırmaktadır.",
     
-        "img2": "",
+        "img2": "https://i2.milimaj.com/i/milliyet/75/0x0/5f6fc20c55428408b83ad5bb.jpg",
     
         "gezilecekYer2": "Taş Kasaba",
     
         "gezilecekYerBilgi2": "Stone Town, Tanzanya’nın başkenti Zanzibar’da konumlanmaktadır. Mimarisi 19. yüzyıla ait olan bölge; Arap, Fars, Hint ve Avrupa kültürlerinin karışımından oluşan büyüleyici bir rotadır. Mimarisiyle ziyaretçilerini etkileyen ve zengin kültüre sahip olan bölge, UNESCO Dünya Mirası Listesi’nde yer almaktadır. Bünyesinde konumlanan eşsiz mekanlar ve alışveriş yerleri ile bu rota, gezginlerin vazgeçilmez tatil duraklarındandır. ",
     
-        "img3": "",
+        "img3": "https://cdn.ytur.net/fit-in/697x465/filters:quality(100)/filters:format(webp)/post/tas-kasaba-1-220705-143706-9788.jpg",
     
-        "img4": "",
+        "img4": "https://weeatatlast.com/wp-content/uploads/2022/03/mishkaki.jpg",
     
         "yemek1":"Mishkaki",
     
         "yemekBilgi1": "Sokak yemeği kültürünün en dikkat çekici lezzetlerinden biri olan mishkaki, yerli ve yabancı turistler tarafından oldukça sevilen yöresel bir kebaptır. Şişe takılan bifteklerin ateş üzerinde pişirilmesi ile Zanzibar usulü lezzet ortaya çıkmaktadır. Genellikle tezgahlarda satışa sunulan mishkakinin en lezzetli hali için Hyatt isimli restoran tavsiye edilmektedir.",
     
-        "img5": "",
+        "img5": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/urjo-corbasi-220404-005623-0700.jpg",
     
         "yemek2":"Urjo Çorbası",
     
         "yemekBilgi2": "Zanzibar sokak pazarlarında servis edilen urjo çorbası, yöreye özgü malzemeler kullanılarak hazırlanmaktadır. Çorba içerisine dahil edilen patates püresi ve kızarmış sebzeler; akıllara durgunluk veren bir lezzet ortaya çıkarmaktadır. Sebzelerle sunulan urjo çorbasına genellikle sarımsak, biber, Hindistan cevizi ve mango eklenmektedir. Bu lezzeti hemen hemen her Zanzibar restoranında bulmak mümkündür.",
     
-        "img6": "",
+        "img6": "https://cdn.ytur.net/fit-in/337x224/filters:quality(100)/filters:format(webp)/food/baharatli-kek-220404-011722-3857.jpg",
     
         "tatlı":"Baharatlı Kek",
     
