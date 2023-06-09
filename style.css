@@ -317,6 +317,8 @@ header{
     font-family: 'Wallpoet', cursive;
     color: var(--color1);
 }
+
+
 /*Background*/
 
 /*Map İntroduction*/
@@ -368,6 +370,7 @@ header{
     padding:0.4em 110px;
     border-radius: 30px;
 }
+
 /*Map İntroduction*/
 
 /* Map Page */
