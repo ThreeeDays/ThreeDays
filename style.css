@@ -118,7 +118,7 @@ header{
     height: 100vh;
     display: block;
     overflow: hidden;
-    background: url(img/BackgroundEarth.png) no-repeat;
+    background: url(img/worlds.jpg) no-repeat;
     background-position: center;
     background-size: cover;
     color: var(--whiteColor);
