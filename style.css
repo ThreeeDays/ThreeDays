@@ -371,6 +371,11 @@ header{
     background-color: var(--whiteColor);
     padding:0.4em 110px;
     border-radius: 30px;
+    
+}
+.btn{
+    margin-right: 40px;
+    margin-top: 50px;
 }
 
 /*Map İntroduction*/
