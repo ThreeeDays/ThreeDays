@@ -68,3 +68,14 @@ fetch("https://wanderlustapis.onrender.com")
     parag5.textContent=data[sayi].tatlıBilgi;
     tatlıBilgi1.textContent=data[sayi].tatlı;
 })
+
+//About Toggle
+$(document).ready(function(){
+  $("#AboutToggle").click(function(){
+    $("#metin").fadeToggle(1000);
+  });
+});
+
+
+//About Toggle
+

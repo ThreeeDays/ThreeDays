@@ -257,7 +257,7 @@ header{
 }
 
 .boxs{
-    padding: 30px;
+    padding: 20px;
 }
 
 .box1{
@@ -265,12 +265,12 @@ header{
     margin: 10px;
     height: auto;
     border: 2px solid rgba(255,2555,255,0.5); 
-  backdrop-filter:invert(20%);
+  backdrop-filter:invert(25%);
     border-radius: 20px;
 }
 
 
-.box1 h1{
+.box1 button{
     text-align: center;
     color: var(--color4);
     font-family:'Wallpoet', cursive;
