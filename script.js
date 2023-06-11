@@ -76,6 +76,14 @@ $(document).ready(function(){
   });
 });
 
-
 //About Toggle
 
+
+//Earth Toggle
+$(document).ready(function(){
+    $("#EarthToggle").click(function(){
+      $("#metin2").fadeToggle(1000);
+    });
+  });
+
+//Earth Toggle
