@@ -327,14 +327,13 @@ header{
 .İntros{
     width: 100%;
     margin: auto;
-    margin-top: -5px;
+    margin-top: -25px;
     padding: 20px;
     background-color: var(--color2);
 }
 
 .intro{
     width: 100%;
-    padding: 20px;
     color: var(--color3);
     display: flex;
     justify-content: center;
@@ -343,21 +342,23 @@ header{
 }
 
 .İntros img{
-    margin-left:10px;
-   border: 2px solid var(--whiteColor);
-   border-radius: 20px;
-   width: 50%;
-   height: auto;
+    margin-left: 5px;
+    border: 2px solid var(--whiteColor);
+    border-radius: 20px;
+    width: 50%;
+    height: auto;
 }
 
 .p-button{
     display: block;
     margin: auto;
+    margin-left: 15px;
     width: 50%;
 }
 
-.p-button p{
+.First-intro{
     font-size: 20px;
+    padding-top: 30px;
 }
 
 .btn a{
@@ -806,10 +807,6 @@ footer.ftr-bottom p a{
 
     .ftr-menu ul li{
         padding: 10px;
-    }
-    
-    .İntros{
-        margin-top: -30px;
     }
 
     .icon{
